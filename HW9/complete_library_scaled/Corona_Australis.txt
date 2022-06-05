@@ -1,0 +1,49 @@
+star    111.31   378.75    4.10  Corona_Australis     β_CrA
+star    112.51   279.72    4.11  Corona_Australis     α_CrA
+star    150.71   219.49    4.23  Corona_Australis     γ_CrA_A
+star    138.41   456.66    4.57  Corona_Australis     δ_CrA
+star    588.89   575.70    4.62  Corona_Australis     θ_CrA
+star    211.89   562.73    4.74  Corona_Australis     ζ_CrA
+star    256.11   217.71    4.83  Corona_Australis     ε_CrA
+star    916.67   676.97    4.92  Corona_Australis     HD_165189
+star    747.92   332.39    5.09  Corona_Australis     HD_168592
+star    460.34   298.46    5.11  Corona_Australis     λ_CrA
+star    610.70   397.00    5.16  Corona_Australis     HD_170642
+star    407.41   441.57    5.20  Corona_Australis     μ_CrA
+star    697.33   704.81    5.24  Corona_Australis     HD_168905
+star    300.13   601.76    5.35  Corona_Australis     HD_175219
+star    284.62   233.01    5.36  Corona_Australis     HD_175362
+star    444.16   392.07    5.40  Corona_Australis     HD_172991
+star    510.38   633.53    5.42  Corona_Australis     V718_CrA
+star    799.91   719.18    5.45  Corona_Australis     HD_167096
+star    394.59   666.74    5.46  Corona_Australis     η^1_CrA
+star    852.00   525.79    5.47  Corona_Australis     V692_CrA
+star    385.20   649.92    5.60  Corona_Australis     η^2_CrA
+star    664.64   350.71    5.63  Corona_Australis     HD_169853
+star    599.52   329.27    5.67  Corona_Australis     κ^2_CrA
+star    605.21   658.53    5.71  Corona_Australis     HD_170521
+star    197.09   298.94    5.73  Corona_Australis     V701_CrA
+star    878.90   530.03    5.86  Corona_Australis     HD_166114
+star    123.90   553.79    5.86  Corona_Australis     HD_178322
+star     83.33   784.19    5.91  Corona_Australis     HD_179433
+star    621.26   549.57    6.02  Corona_Australis     HD_170384
+star    147.21   271.08    6.15  Corona_Australis     HD_177565
+star    223.68   549.48    6.21  Corona_Australis     HD_176425
+star    601.51   409.57    6.22  Corona_Australis     HD_170773
+star    290.73   684.96    6.27  Corona_Australis     HD_175395
+star    277.50   403.77    6.29  Corona_Australis     HD_175529
+star    776.87   584.97    6.30  Corona_Australis     HD_167756
+star     96.49   356.61    6.34  Corona_Australis     HD_178628
+star    637.88   683.30    6.36  Corona_Australis     HD_169943
+star    223.85   215.81    6.44  Corona_Australis     HD_176270
+star    118.31   411.82    6.44  Corona_Australis     HD_178254
+star    771.99   253.57    6.46  Corona_Australis     HD_168357
+star    350.54   531.77    6.47  Corona_Australis     HD_174407
+star    302.20   235.52    6.48  Corona_Australis     HD_175093
+star    255.57   384.65    6.49  Corona_Australis     HD_175855
+star    365.64   487.08    6.50  Corona_Australis     HD_174152
+star    485.55   243.57    6.50  Corona_Australis     V693_CrA
+line  Corona_Australis     α_CrA  β_CrA
+line  Corona_Australis     α_CrA  γ_CrA_A
+line  Corona_Australis     β_CrA  δ_CrA
+line  Corona_Australis     δ_CrA  θ_CrA

@@ -1,0 +1,49 @@
+star    779.05   177.41    3.11  Indus                α_Ind
+star    648.76   473.67    3.67  Indus                β_Ind
+star    566.20   320.17    4.39  Indus                θ_Ind
+star    407.47   363.72    4.40  Indus                δ_Ind
+star    724.67   298.72    4.51  Indus                η_Ind
+star    389.96   416.25    4.69  Indus                ε_Ind
+star    727.85   136.21    4.90  Indus                ζ_Ind
+star    694.08   283.72    5.06  Indus                ι_Ind
+star    623.57   362.46    5.17  Indus                μ_Ind
+star    385.60   858.54    5.28  Indus                ν_Ind
+star    454.98   777.70    5.52  Indus                ο_Ind
+star    267.87   789.07    5.53  Indus                HD_217831
+star    349.74   729.18    5.56  Indus                HD_212728
+star    450.93   638.93    5.62  Indus                HD_207229
+star    388.00   498.35    5.62  Indus                κ^2_Ind
+star    584.00   316.29    5.73  Indus                HD_202103
+star    656.80   267.79    5.76  Indus                HD_199623
+star    374.53   808.85    5.78  Indus                HD_212211
+star    430.17   559.43    5.92  Indus                HD_207964
+star    580.22    83.33    6.00  Indus                T_Ind
+star    469.14   815.82    6.02  Indus                HD_206399
+star    399.25   389.80    6.02  Indus                HD_208796
+star    303.41   814.98    6.04  Indus                ρ_Ind
+star    537.48   352.96    6.10  Indus                γ_Ind
+star    413.11   478.34    6.13  Indus                BG_Ind
+star    220.95   765.48    6.15  Indus                HD_219644
+star    419.43   446.07    6.17  Indus                π_Ind
+star    307.83   916.67    6.18  Indus                HD_218288
+star    480.64   286.17    6.20  Indus                HD_205877
+star    487.37   641.48    6.22  Indus                HD_205417
+star    684.49   256.75    6.23  Indus                HD_198766
+star    645.79   337.12    6.26  Indus                HD_199642
+star    557.00   126.29    6.30  Indus                HD_203548
+star    478.57   382.37    6.33  Indus                HD_205935
+star    318.04   818.89    6.35  Indus                HD_215729
+star    527.17   325.30    6.39  Indus                HD_204228
+star    566.43   220.41    6.40  Indus                HD_203010
+star    509.63   297.22    6.43  Indus                HD_204873
+star    641.49    99.13    6.45  Indus                HD_200887
+star    455.82   205.52    6.46  Indus                HD_206690
+star    246.57   768.16    6.47  Indus                HD_218497
+star    235.08   741.59    6.47  Indus                HD_218558
+star    465.57   427.81    6.49  Indus                HD_206429
+star    410.84   291.39    6.50  Indus                HD_208184
+line  Indus                α_Ind  η_Ind
+line  Indus                α_Ind  θ_Ind
+line  Indus                β_Ind  δ_Ind
+line  Indus                β_Ind  η_Ind
+line  Indus                δ_Ind  θ_Ind

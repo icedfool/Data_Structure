@@ -1,0 +1,52 @@
+star    669.13   462.66    2.87  Tucana               α_Tuc
+star    550.07   398.50    3.99  Tucana               γ_Tuc
+star    421.30   514.20    4.23  Tucana               ζ_Tuc
+star    346.12   603.88    4.25  Tucana               κ_Tuc
+star    394.49   484.42    4.34  Tucana               β^1_Tuc
+star    458.99   523.06    4.49  Tucana               ε_Tuc
+star    626.42   534.65    4.50  Tucana               δ_Tuc
+star    631.35   481.65    4.91  Tucana               ν_Tuc
+star    462.27   500.57    5.00  Tucana               η_Tuc
+star    392.40   486.09    5.09  Tucana               β^3_Tuc
+star    669.10   417.39    5.31  Tucana               HD_212330
+star    319.94   481.89    5.36  Tucana               ι_Tuc
+star    382.75   531.41    5.38  Tucana               ρ_Tuc
+star    379.96   604.96    5.45  Tucana               λ^2_Tuc
+star    431.30   596.32    5.50  Tucana               π_Tuc
+star    457.67   625.23    5.59  Tucana               HD_225253
+star    534.00   372.70    5.60  Tucana               HD_220572
+star    527.34   400.47    5.63  Tucana               HD_220790
+star    543.67   463.73    5.64  Tucana               HD_219482
+star    517.75   480.71    5.66  Tucana               HD_221006
+star    351.58   492.39    5.70  Tucana               BQ_Tuc
+star    487.56   502.05    5.73  Tucana               HD_222820
+star    364.96   428.02    5.89  Tucana               HD_3823
+star    461.81   477.15    5.95  Tucana               HD_224361
+star    635.68   400.54    5.98  Tucana               HD_214632
+star    362.96   442.81    5.99  Tucana               HD_4088
+star    485.99   608.02    6.06  Tucana               HD_222805
+star    367.60   481.69    6.06  Tucana               HD_4294
+star    534.62   428.67    6.08  Tucana               DR_Tuc
+star    417.65   627.30    6.11  Tucana               θ_Tuc
+star    547.92   476.53    6.12  Tucana               HD_219077
+star    589.18   492.41    6.14  Tucana               HD_216187
+star    644.67   411.33    6.22  Tucana               HD_213884
+star    383.65   603.55    6.22  Tucana               λ^1_Tuc
+star    332.34   458.41    6.23  Tucana               HD_5771
+star    328.93   564.15    6.23  Tucana               HD_7916
+star    347.51   540.49    6.25  Tucana               CC_Tuc
+star    615.41   450.45    6.29  Tucana               HD_215121
+star    435.99   467.29    6.34  Tucana               HD_565
+star    602.36   468.50    6.36  Tucana               HD_215682
+star    680.06   415.94    6.41  Tucana               HD_211726
+star    391.90   523.36    6.43  Tucana               HD_3444
+star    602.12   436.25    6.47  Tucana               HD_216169
+star    516.69   541.35    6.47  Tucana               HD_220759
+star    588.31   534.67    6.49  Tucana               HD_215562
+star    379.63   535.36    6.54  Tucana               HD_4308
+line  Tucana               α_Tuc  γ_Tuc
+line  Tucana               α_Tuc  δ_Tuc
+line  Tucana               β^1_Tuc  γ_Tuc
+line  Tucana               β^1_Tuc  ζ_Tuc
+line  Tucana               δ_Tuc  ε_Tuc
+line  Tucana               ε_Tuc  ζ_Tuc

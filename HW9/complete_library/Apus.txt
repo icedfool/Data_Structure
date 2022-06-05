@@ -1,0 +1,20 @@
+star    578.89   556.39    3.83  Apus                 α_Aps
+star    491.96   547.51    3.86  Apus                 γ_Aps
+star    479.37   525.25    4.23  Apus                 β_Aps
+star    502.55   542.66    4.68  Apus                 δ^1
+star    386.00   376.08    4.76  Apus                 ζ_Aps
+star    587.56   596.15    4.89  Apus                 η_Aps
+star    591.25   580.66    5.06  Apus                 ε_Aps
+star    502.41   542.18    5.27  Apus                 Aps
+star    581.43   513.92    5.37  Apus                 R_Aps
+star    399.60   414.38    5.39  Apus                 ι_Aps
+star    470.17   411.36    5.52  Apus                 HR
+star    554.56   451.02    5.52  Apus                 κ^1
+star    602.25   456.82    5.59  Apus                 HD
+star    543.51   450.98    5.64  Apus                 κ^2
+star    629.44   534.85    5.69  Apus                 θ_Aps
+star    458.65   592.11    5.83  Apus                 NO_Aps
+star    583.42   404.83    6.85  Apus                 134606
+line  Apus                 α_Aps  δ^1
+line  Apus                 β_Aps  γ_Aps
+line  Apus                 β_Aps  δ^1

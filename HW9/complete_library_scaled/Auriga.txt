@@ -1,0 +1,96 @@
+star    725.04   383.01    0.08  Auriga               Capella
+star    523.55   421.67    1.90  Auriga               β_Aur
+star    520.39   631.56    2.62  Auriga               θ_Aur
+star    872.22   713.26    2.69  Auriga               ι_Aur
+star    802.77   432.07    3.03  Auriga               ε_Aur
+star    791.25   504.85    3.18  Auriga               η_Aur
+star    812.00   506.13    3.69  Auriga               ζ_Aur
+star    526.53   171.59    3.72  Auriga               δ_Aur
+star    564.26   578.98    3.97  Auriga               ν_Aur
+star    521.93   394.88    4.30  Auriga               π_Aur
+star    426.12   836.31    4.32  Auriga               κ_Aur
+star    576.43   577.90    4.51  Auriga               τ_Aur
+star    754.03   724.10    4.54  Auriga               16_Aur
+star    731.17   543.31    4.69  Auriga               λ_Aur
+star    674.02   762.92    4.71  Auriga               χ_Aur
+star    567.30   628.96    4.72  Auriga               υ_Aur
+star    881.11   614.75    4.79  Auriga               2_Aur
+star    324.83   475.16    4.80  Auriga               ψ^2_Aur
+star    765.49   583.57    4.82  Auriga               μ_Aur
+star    150.26   532.32    4.91  Auriga               63_Aur
+star    412.85   299.47    4.92  Auriga               ψ^1_Aur
+star    841.50   589.00    4.93  Auriga               ω_Aur
+star    544.92   134.28    4.96  Auriga               ξ_Aur
+star    746.95   228.44    4.98  Auriga               9_Aur
+star    265.83   486.24    4.99  Auriga               ψ^7_Aur
+star    771.29   740.70    5.01  Auriga               KW_Aur
+star    709.12   619.50    5.02  Auriga               σ_Aur
+star    314.16   418.08    5.04  Auriga               ψ^4_Aur
+star    742.36   709.45    5.05  Auriga               19_Aur
+star    698.81   699.40    5.08  Auriga               φ_Aur
+star     83.33   587.62    5.12  Auriga               65_Aur
+star    712.95   498.64    5.22  Auriga               ρ_Aur
+star    311.35   301.26    5.22  Auriga               ψ^6_Aur
+star     97.67   481.84    5.23  Auriga               66_Aur
+star    292.94   441.05    5.24  Auriga               ψ^5_Aur
+star    306.67   865.72    5.26  Auriga               49_Aur
+star    436.53   189.86    5.34  Auriga               45_Aur
+star    318.75   545.18    5.34  Auriga               ψ^3_Aur
+star    484.27   596.37    5.36  Auriga               40_Aur
+star    748.51   714.49    5.38  Auriga               IQ_Aur
+star    642.02   810.41    5.40  Auriga               26_Aur
+star    325.99   585.88    5.40  Auriga               UU_Aur
+star    584.73   289.62    5.46  Auriga               ο_Aur
+star    727.71   470.17    5.55  Auriga               PU_Aur
+star    745.19   827.46    5.66  Auriga               HD_34790
+star    317.93   559.08    5.70  Auriga               51_Aur
+star    517.86   341.79    5.71  Auriga               36_Aur
+star    350.59   804.12    5.75  Auriga               RT_Aur
+star    290.19   838.10    5.76  Auriga               53_Aur
+star    470.62   318.64    5.78  Auriga               41_Aur_A
+star    332.52   749.50    5.82  Auriga               WW_Aur
+star    916.67   720.92    5.84  Auriga               HD_30453
+star    259.67   361.68    5.85  Auriga               ψ^9_Aur
+star    128.28   483.66    5.87  Auriga               64_Aur
+star    382.48   367.13    5.88  Auriga               47_Aur
+star    495.53   474.46    5.90  Auriga               39_Aur
+star    829.90   549.53    5.95  Auriga               5_Aur
+star    639.37   844.67    5.98  Auriga               V433_Aur
+star    762.05   697.71    5.99  Auriga               AE_Aur
+star    479.23   838.18    6.01  Auriga               V394_Aur
+star    281.60   856.33    6.02  Auriga               54_Aur
+star    207.62   579.01    6.02  Auriga               62_Aur
+star    504.22   476.56    6.08  Auriga               38_Aur
+star    242.13   562.53    6.10  Auriga               59_Aur
+star    752.28   713.57    6.15  Auriga               AR_Aur
+star    253.90   425.71    6.16  Auriga               V352_Aur
+star    701.01   672.61    6.17  Auriga               HD_35519
+star    599.71   191.64    6.21  Auriga               V538_Aur
+star    628.62   772.70    6.23  Auriga               NO_Aur
+star    566.80   768.96    6.28  Auriga               V440_Aur
+star    239.30   573.90    6.32  Auriga               60_Aur
+star    436.26   380.24    6.33  Auriga               43_Aur
+star    671.92   556.03    6.38  Auriga               HD_36041
+star    504.70   243.13    6.39  Auriga               35_Cam
+star    525.96   144.33    6.42  Auriga               34_Cam
+star    800.01   812.30    6.42  Auriga               HD_33463
+star    733.70   845.49    6.45  Auriga               22_Aur
+star    828.41   542.62    6.46  Auriga               6_Aur
+star    235.83   571.49    6.46  Auriga               ψ^8_Aur
+star    535.69   311.62    6.47  Auriga               V403_Aur
+star    745.74   708.35    6.49  Auriga               18_Aur
+star    439.65   378.74    6.53  Auriga               42_Aur
+star    499.19   439.87    6.74  Auriga               HD_40979
+star    685.75   676.04    6.85  Auriga               LY_Aur
+star    724.74   371.71    6.90  Auriga               12_Aur
+star    587.47   155.59    6.94  Auriga               25_Cam
+line  Auriga               26_Aur  θ_Aur
+line  Auriga               Capella  β_Aur
+line  Auriga               Capella  δ_Aur
+line  Auriga               Capella  ε_Aur
+line  Auriga               Capella  η_Aur
+line  Auriga               HD_34790  ι_Aur
+line  Auriga               β_Aur  δ_Aur
+line  Auriga               β_Aur  θ_Aur
+line  Auriga               ε_Aur  ζ_Aur
+line  Auriga               η_Aur  ι_Aur

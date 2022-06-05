@@ -1,0 +1,35 @@
+star    322.01   420.32    3.85  Fornax               α_For
+star    480.27   524.09    4.45  Fornax               β_For
+star    785.18   441.59    4.68  Fornax               ν_For
+star    586.21   394.32    4.96  Fornax               ω_For
+star    127.56   530.44    4.99  Fornax               δ_For
+star    618.09   571.76    5.13  Fornax               φ_For
+star    671.56   259.56    5.19  Fornax               κ_For
+star    724.62   481.16    5.27  Fornax               μ_For
+star    804.74   466.02    5.34  Fornax               π_For
+star    474.68   383.29    5.39  Fornax               γ^2_For_γ^
+star    470.06   627.13    5.48  Fornax               η^3_For_η^
+star     83.33   479.80    5.52  Fornax               ρ_For
+star    261.51   270.74    5.63  Fornax               AI_For
+star    405.43   300.24    5.69  Fornax               ζ_For
+star    234.87   637.86    5.71  Fornax               χ^2_For_χ^
+star    568.59   450.93    5.74  Fornax               ι^1_For_ι^
+star    558.86   593.66    5.78  Fornax               λ^2_For_λ^
+star    553.78   455.22    5.84  Fornax               ι^2_For_ι^
+star    393.15   389.15    5.88  Fornax               ε_For
+star    583.79   596.75    5.91  Fornax               λ^1_For_λ^
+star     89.88   452.54    5.91  Fornax               σ_For
+star    472.81   632.41    5.92  Fornax               η^2_For_η^
+star    452.45   713.91    5.93  Fornax               ψ_For
+star    136.64   402.53    6.01  Fornax               τ_For
+star    474.94   276.99    6.14  Fornax               γ^1_For_γ^
+star    461.02   473.93    6.38  Fornax               17926
+star    177.64   522.77    6.39  Fornax               22322
+star    245.85   644.48    6.39  Fornax               χ^1_For_χ^
+star    642.24   691.67    6.47  Fornax               14890
+star    231.39   643.60    6.49  Fornax               χ^3_For_χ^
+star    614.87   299.58    6.50  Fornax               TY_For
+star    490.01   623.20    6.51  Fornax               η^1_For_η^
+star    316.39   628.06    6.89  Fornax               TZ_For
+line  Fornax               α_For  β_For
+line  Fornax               β_For  ν_For

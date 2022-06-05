@@ -1,0 +1,50 @@
+star    453.65    88.80    1.97  Ursa_Minor           Polaris
+star    514.12   639.96    2.07  Ursa_Minor           β_UMi
+star    443.36   720.60    3.04  Ursa_Minor           γ_UMi
+star    355.00   357.34    4.21  Ursa_Minor           ε_UMi
+star    556.43   581.06    4.25  Ursa_Minor           5_UMi
+star    406.78   517.17    4.29  Ursa_Minor           ζ_UMi
+star    393.56   205.99    4.35  Ursa_Minor           δ_UMi
+star    518.16   914.92    4.63  Ursa_Minor           RR_UMi
+star    576.80   511.86    4.80  Ursa_Minor           4_UMi
+star    330.46   571.93    4.95  Ursa_Minor           η_UMi
+star    428.12   534.30    5.00  Ursa_Minor           θ_UMi
+star    452.89   721.09    5.02  Ursa_Minor           11_UMi
+star    459.61   870.35    5.15  Ursa_Minor           HD_136064
+star    642.22   776.21    5.18  Ursa_Minor           HD_124730
+star    344.82   571.36    5.48  Ursa_Minor           19_UMi
+star    715.26   686.19    5.50  Ursa_Minor           HD_118904
+star    346.16   463.97    5.55  Ursa_Minor           HD_149681
+star    485.36   360.24    5.63  Ursa_Minor           HD_133002
+star    391.05   802.78    5.65  Ursa_Minor           HD_140227
+star    365.73   544.46    5.73  Ursa_Minor           HD_145622
+star    287.34   394.98    5.74  Ursa_Minor           HD_158996
+star    401.32   195.83    5.78  Ursa_Minor           24_UMi
+star    725.36   638.92    5.82  Ursa_Minor           HD_117187
+star    614.84   480.04    5.91  Ursa_Minor           HD_120084
+star    301.90   500.11    5.99  Ursa_Minor           HD_152303
+star    316.69   650.35    6.02  Ursa_Minor           HD_147321
+star    238.57   553.59    6.17  Ursa_Minor           VX_UMi
+star    471.98   855.86    6.18  Ursa_Minor           HD_135384
+star    496.33   916.67    6.22  Ursa_Minor           HD_133994
+star    520.51   452.04    6.27  Ursa_Minor           HD_129245
+star    512.99   166.43    6.27  Ursa_Minor           UY_UMi
+star    441.86   139.88    6.31  Ursa_Minor           λ_UMi
+star    542.46   196.84    6.33  Ursa_Minor           HD_107113
+star    327.14   459.10    6.33  Ursa_Minor           HD_151623
+star    322.41   510.01    6.35  Ursa_Minor           HD_150275
+star    336.01   592.30    6.36  Ursa_Minor           20_UMi
+star    608.38   606.18    6.43  Ursa_Minor           3_UMi
+star    761.43   594.39    6.43  Ursa_Minor           HD_113889
+star    444.13    83.33    6.46  Ursa_Minor           HD_5914
+star    438.53   430.43    6.57  Ursa_Minor           π^1_UMi_A
+star    496.67   721.89    6.64  Ursa_Minor           9_UMi
+star    498.24   616.23    6.83  Ursa_Minor           8_UMi
+star    422.33   444.79    6.89  Ursa_Minor           π^2_UMi
+line  Ursa_Minor           Polaris  δ_UMi
+line  Ursa_Minor           β_UMi  γ_UMi
+line  Ursa_Minor           β_UMi  ζ_UMi
+line  Ursa_Minor           γ_UMi  η_UMi
+line  Ursa_Minor           δ_UMi  ε_UMi
+line  Ursa_Minor           ε_UMi  ζ_UMi
+line  Ursa_Minor           ζ_UMi  η_UMi

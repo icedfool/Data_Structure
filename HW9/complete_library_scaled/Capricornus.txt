@@ -1,0 +1,92 @@
+star    157.97   440.66    2.85  Capricornus          δ_Cap
+star    814.97   395.84    3.05  Capricornus          β^1_Cap
+star    840.57   326.19    3.58  Capricornus          α^2_Cap
+star    211.11   454.66    3.69  Capricornus          γ_Cap
+star    319.28   633.33    3.77  Capricornus          ζ_Cap
+star    470.62   465.23    4.08  Capricornus          θ_Cap
+star    573.12   773.53    4.12  Capricornus          ω_Cap
+star    615.33   722.16    4.13  Capricornus          ψ_Cap
+star    346.37   454.65    4.27  Capricornus          ι_Cap
+star    843.72   325.22    4.30  Capricornus          α^1_Cap
+star    463.71   712.70    4.49  Capricornus          24_Cap
+star    303.38   614.65    4.50  Capricornus          36_Cap
+star    238.04   542.80    4.51  Capricornus          ε_Cap
+star    195.59   525.90    4.72  Capricornus          κ_Cap
+star    820.34   331.79    4.77  Capricornus          ν_Cap
+star    751.36   489.32    4.77  Capricornus          ρ_Cap
+star    482.66   548.79    4.82  Capricornus          η_Cap
+star    106.44   362.06    5.07  Capricornus          μ_Cap
+star    762.33   502.54    5.08  Capricornus          π_Cap
+star    164.07   216.65    5.10  Capricornus          46_Cap
+star    666.73   496.48    5.15  Capricornus          υ_Cap
+star    196.30   372.09    5.16  Capricornus          42_Cap
+star    399.07   575.13    5.17  Capricornus          φ_Cap
+star    209.19   665.40    5.24  Capricornus          41_Cap
+star    675.43   395.24    5.24  Capricornus          τ^2_Cap
+star    819.82   534.57    5.28  Capricornus          σ_Cap
+star    451.95   591.65    5.30  Capricornus          χ_Cap
+star    394.93   400.49    5.31  Capricornus          29_Cap
+star    335.87   583.09    5.38  Capricornus          33_Cap
+star    379.79   490.50    5.40  Capricornus          30_Cap
+star    154.75   289.38    5.57  Capricornus          λ_Cap
+star    346.40   640.66    5.63  Capricornus          HD_203475
+star    732.55   235.50    5.66  Capricornus          HD_195564
+star    255.58   561.71    5.70  Capricornus          37_Cap
+star    538.03   753.50    5.70  Capricornus          HD_199260
+star    830.34   787.17    5.73  Capricornus          HD_192310
+star    555.30   487.39    5.78  Capricornus          19_Cap
+star    313.43   594.82    5.78  Capricornus          35_Cap
+star    664.76   432.18    5.79  Capricornus          HD_196857
+star    883.33   331.26    5.84  Capricornus          ξ^2_Cap
+star    824.27   620.77    5.86  Capricornus          4_Cap
+star    591.94   737.87    5.86  Capricornus          HD_198174
+star    185.19   383.95    5.88  Capricornus          44_Cap
+star    533.78   426.94    5.89  Capricornus          HD_199443
+star    618.06   602.86    5.91  Capricornus          17_Cap
+star    742.50   513.48    5.94  Capricornus          ο_Cap_A
+star    178.55   395.48    5.96  Capricornus          45_Cap
+star    154.47   223.34    6.00  Capricornus          47_Cap
+star    502.53   771.84    6.04  Capricornus          HD_200052
+star    400.96   469.65    6.05  Capricornus          HD_202261
+star     83.33   607.62    6.06  Capricornus          BW_Cap
+star    509.31   474.64    6.07  Capricornus          21_Cap
+star    208.30   261.32    6.07  Capricornus          HD_206005
+star    816.75   396.06    6.09  Capricornus          β^2_Cap
+star    738.05   400.77    6.10  Capricornus          HD_195330
+star    715.48   357.37    6.11  Capricornus          HD_195838
+star    739.35   634.82    6.13  Capricornus          HD_195006
+star    916.67   252.69    6.18  Capricornus          HD_191110
+star    456.98   472.43    6.18  Capricornus          HD_201057
+star    702.49   446.22    6.19  Capricornus          HD_196078
+star    128.21   522.39    6.19  Capricornus          HD_207760
+star    596.58   491.55    6.20  Capricornus          HD_198208
+star    192.80   550.17    6.23  Capricornus          HD_206546
+star    444.36   571.42    6.25  Capricornus          27_Cap
+star    518.76   522.64    6.26  Capricornus          20_Cap
+star    805.58   232.68    6.29  Capricornus          HD_193896
+star    648.16   746.06    6.29  Capricornus          HD_196947
+star    853.63   320.40    6.30  Capricornus          3_Cap
+star    132.51   333.88    6.31  Capricornus          HD_207503
+star    566.25   674.16    6.32  Capricornus          HD_198732
+star    887.19   324.39    6.34  Capricornus          ξ^1_Cap
+star    710.76   714.75    6.35  Capricornus          HD_195549
+star    659.63   675.86    6.36  Capricornus          HD_196761
+star    674.65   718.67    6.38  Capricornus          HD_196385
+star    338.26   643.39    6.38  Capricornus          HD_203639
+star    135.50   465.07    6.38  Capricornus          HD_207552
+star    897.82   212.83    6.39  Capricornus          BE_Cap
+star    258.31   668.98    6.39  Capricornus          HD_205342
+star    755.10   423.37    6.41  Capricornus          HD_194918
+star    279.92   704.12    6.43  Capricornus          HD_204943
+star    342.81   721.23    6.47  Capricornus          HD_203607
+star    619.63   784.73    6.50  Capricornus          HD_197540
+star    165.50   333.69    6.67  Capricornus          HD_206893
+star    689.97   401.84    6.76  Capricornus          τ^1_Cap
+line  Capricornus          α^1_Cap  β^1_Cap
+line  Capricornus          α^1_Cap  θ_Cap
+line  Capricornus          β^1_Cap  ψ_Cap
+line  Capricornus          γ_Cap  δ_Cap
+line  Capricornus          γ_Cap  θ_Cap
+line  Capricornus          δ_Cap  ζ_Cap
+line  Capricornus          ζ_Cap  ω_Cap
+line  Capricornus          ψ_Cap  ω_Cap

@@ -1,0 +1,86 @@
+star    563.63   692.29    0.05  Boötes              Arcturus
+star    446.06   555.61    2.35  Boötes              ε_Boo
+star    650.23   701.16    2.68  Boötes              η_Boo
+star    496.38   361.22    3.04  Boötes              γ_Boo
+star    338.93   440.36    3.46  Boötes              δ_Boo
+star    397.46   322.45    3.49  Boötes              β_Boo
+star    497.16   498.79    3.57  Boötes              ρ_Boo
+star    457.59   786.28    3.78  Boötes              ζ_Boo
+star    515.23   135.63    4.04  Boötes              θ_Boo
+star    673.91   743.88    4.05  Boötes              υ_Boo
+star    544.00   228.94    4.18  Boötes              λ_Boo
+star    316.24   367.35    4.31  Boötes              μ^1_Boo
+star    486.37   509.68    4.47  Boötes              σ_Boo
+star    459.87   740.57    4.49  Boötes              π^1_Boo
+star    681.43   714.75    4.50  Boötes              τ_Boo
+star    370.71   554.25    4.52  Boötes              ψ_Boo
+star    546.83   135.82    4.53  Boötes              κ^2_Boo
+star    416.56   693.21    4.54  Boötes              ξ_Boo
+star    441.15   730.78    4.60  Boötes              ο_Boo
+star    539.99   142.83    4.75  Boötes              ι_Boo
+star    546.31   408.79    4.80  Boötes              HD_125351
+star    451.91   565.30    4.80  Boötes              W_Boo
+star    377.76   588.60    4.80  Boötes              ω_Boo
+star    581.70   589.07    4.82  Boötes              12_Boo
+star    403.68   200.69    4.83  Boötes              44_Boo
+star    547.64   742.22    4.84  Boötes              20_Boo
+star    454.68   879.06    4.86  Boötes              31_Boo
+star    533.54   874.52    4.86  Boötes              HD_126128
+star    667.42   650.14    4.92  Boötes              6_Boo
+star    357.29   589.62    4.93  Boötes              45_Boo
+star    301.79   304.75    4.98  Boötes              ν^2_Boo
+star    633.10   544.15    5.02  Boötes              9_Boo
+star    304.32   306.21    5.04  Boötes              ν^1_Boo
+star    572.35   265.14    5.13  Boötes              BY_Boo
+star    280.85   311.39    5.25  Boötes              φ_Boo
+star    563.99   172.72    5.26  Boötes              CF_Boo
+star    335.58   512.70    5.28  Boötes              χ_Boo
+star    569.96   846.24    5.29  Boötes              15_Boo
+star    315.62   444.75    5.38  Boötes              50_Boo
+star    475.44   257.56    5.39  Boötes              33_Boo
+star    519.24   692.57    5.40  Boötes              22_Boo
+star    550.45   798.22    5.41  Boötes              18_Boo
+star    311.17   113.90    5.48  Boötes              BP_Boo
+star    572.45   798.30    5.53  Boötes              14_Boo
+star    454.80   821.02    5.55  Boötes              32_Boo
+star    719.15   824.88    5.57  Boötes              HD_118889
+star    506.33   168.00    5.58  Boötes              24_Boo
+star    399.86   192.24    5.59  Boötes              47_Boo
+star    700.22   625.54    5.63  Boötes              2_Boo
+star    403.61   342.10    5.64  Boötes              40_Boo
+star    354.72   564.41    5.67  Boötes              46_Boo
+star    445.97   185.36    5.68  Boötes              39_Boo
+star    656.65   708.69    5.71  Boötes              7_Boo
+star    705.19   669.22    5.73  Boötes              1_Boo
+star    489.29   175.74    5.74  Boötes              CH_Boo
+star    631.18   645.44    5.76  Boötes              10_Boo
+star    444.48   228.22    5.76  Boötes              38_Boo
+star    437.02   761.96    5.78  Boötes              EK_Boo
+star    557.48   759.75    5.84  Boötes              CY_Boo
+star    423.69   610.04    5.86  Boötes              HP_Boo
+star    494.24   640.17    5.91  Boötes              26_Boo
+star    530.81   877.89    5.94  Boötes              4_G._Boo
+star    673.36   572.14    5.97  Boötes              3_Boo
+star    628.13   863.38    5.98  Boötes              1_G._Boo
+star    562.11   697.08    5.98  Boötes              CN_Boo
+star    408.33   691.97    6.00  Boötes              DE_Boo
+star    622.75   850.62    6.18  Boötes              HD_122563
+star    529.57   880.52    6.19  Boötes              5_G._Boo
+star    615.57   547.19    6.23  Boötes              11_Boo
+star    618.82   886.10    6.25  Boötes              2_G._Boo
+star    412.24   207.44    6.35  Boötes              BX_Boo
+star    533.64   515.91    6.50  Boötes              CI_Boo
+star    316.09   367.85    6.51  Boötes              μ^2_Boo
+line  Boötes              Arcturus  ε_Boo
+line  Boötes              Arcturus  ζ_Boo
+line  Boötes              Arcturus  η_Boo
+line  Boötes              Arcturus  ρ_Boo
+line  Boötes              β_Boo  γ_Boo
+line  Boötes              β_Boo  δ_Boo
+line  Boötes              γ_Boo  λ_Boo
+line  Boötes              γ_Boo  ρ_Boo
+line  Boötes              δ_Boo  ε_Boo
+line  Boötes              η_Boo  τ_Boo
+line  Boötes              θ_Boo  κ^2_Boo
+line  Boötes              θ_Boo  λ_Boo
+line  Boötes              κ^2_Boo  λ_Boo

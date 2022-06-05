@@ -1,0 +1,18 @@
+star    516.89   606.02    3.18  Circinus             α_Cir
+star    273.07   271.91    4.07  Circinus             β_Cir
+star    234.70   305.78    4.48  Circinus             γ_Cir
+star    301.11   538.93    4.85  Circinus             ε_Cir
+star    289.67   391.04    5.04  Circinus             δ_Cir
+star    429.28   483.52    5.08  Circinus             θ_Cir
+star    381.98   555.60    5.16  Circinus             η_Cir
+star    602.08   791.30    5.56  Circinus             125835
+star    291.63   387.84    5.74  Circinus             135160
+star    456.50   540.48    5.91  Circinus             AX_Cir
+star    479.83   695.94    5.91  Circinus             CO_Cir
+star    658.49   916.67    6.07  Circinus             123377
+star    445.98   662.60    6.09  Circinus             ζ_Cir
+star    509.41    83.33    6.10  Circinus             BU_Cir
+star    333.61   412.90    6.29  Circinus             134060
+line  Circinus             α_Cir  γ_Cir
+line  Circinus             α_Cir  θ_Cir
+line  Circinus             β_Cir  θ_Cir

@@ -1,0 +1,14 @@
+star    481.88   531.86    3.92  Equuleus             α_Equ
+star    487.90   448.83    4.47  Equuleus             δ_Equ
+star    505.69   446.68    4.70  Equuleus             γ_Equ
+star    451.34   504.44    5.16  Equuleus             β_Equ
+star    554.69   548.38    5.30  Equuleus             ε_Equ
+star    530.73   527.40    5.63  Equuleus             ζ_Equ
+star    459.24   495.00    5.81  Equuleus             9_Equ
+star    526.93   519.46    5.94  Equuleus             4_Equ
+star    469.20   427.94    5.97  Equuleus             202951
+star    504.91   448.13    6.07  Equuleus             6_Equ
+star    521.71   557.07    6.64  Equuleus             200964
+star    540.89   498.10    6.72  Equuleus             λ_Equ
+line  Equuleus             α_Equ  δ_Equ
+line  Equuleus             γ_Equ  δ_Equ

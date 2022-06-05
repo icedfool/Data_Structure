@@ -1,0 +1,8 @@
+compute_diff CHAR input_still_i_rise.txt input_still_i_rise_no_punctuation.txt output_still_i_rise_char.diff
+render_diff CHAR input_still_i_rise.txt output_still_i_rise_char.diff output_still_i_rise_char.html
+
+compute_diff WORD input_still_i_rise.txt input_still_i_rise_no_punctuation.txt output_still_i_rise_word.diff
+render_diff WORD input_still_i_rise.txt output_still_i_rise_word.diff output_still_i_rise_word.html
+
+compute_diff LINE input_still_i_rise.txt input_still_i_rise_no_punctuation.txt output_still_i_rise_line.diff
+render_diff LINE input_still_i_rise.txt output_still_i_rise_line.diff output_still_i_rise_line.html

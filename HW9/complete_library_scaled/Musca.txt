@@ -1,0 +1,72 @@
+star    446.21   409.01    2.69  Musca                α_Mus
+star    391.54   348.04    3.04  Musca                β_Mus
+star    328.69   569.11    3.61  Musca                δ_Mus
+star    755.79   282.43    3.68  Musca                λ_Mus
+star    474.95   594.34    3.84  Musca                γ_Mus
+star    557.89   336.89    4.06  Musca                ε_Mus
+star    739.06   284.94    4.75  Musca                μ_Mus
+star    223.21   356.74    4.79  Musca                η_Mus
+star    198.67   291.36    4.86  Musca                HD_115211
+star    732.01   182.90    4.89  Musca                HD_103079
+star    695.46   492.20    4.98  Musca                HD_102839
+star    808.68   208.69    5.01  Musca                GT_Mus
+star    266.74   790.70    5.04  Musca                ι^1_Mus
+star    916.67   206.48    5.09  Musca                HD_99104
+star    532.19   308.71    5.15  Musca                ζ^2_Mus
+star    574.34   797.94    5.17  Musca                λ_Cha
+star    630.67   365.11    5.34  Musca                HD_104878
+star    239.05   191.11    5.44  Musca                θ_Mus
+star    392.04   589.36    5.55  Musca                HD_111315
+star    793.86   642.16    5.55  Musca                HD_99264
+star    201.91   534.69    5.65  Musca                HD_116458
+star    530.40   357.38    5.73  Musca                ζ^1_Mus
+star    477.12   648.11    5.88  Musca                HD_108970
+star    831.98   312.99    5.89  Musca                HD_100382
+star    636.45   419.57    5.89  Musca                HD_104600
+star    219.04   252.37    5.91  Musca                HD_114570
+star    264.72   478.26    5.92  Musca                HD_114371
+star    361.11   604.83    5.93  Musca                HD_112219
+star    324.04   565.18    5.93  Musca                LS_Mus
+star    791.31   345.70    5.94  Musca                HD_101162
+star    635.49   202.44    5.95  Musca                HD_105151
+star    252.62   612.89    6.04  Musca                HD_115439
+star    576.79   474.13    6.05  Musca                S_Mus
+star    567.31   196.61    6.06  Musca                HD_106797
+star    182.15   190.80    6.06  Musca                HD_115149
+star    237.55   623.21    6.06  Musca                HD_115967
+star     96.88   180.69    6.09  Musca                HD_117025
+star    771.74   650.28    6.09  Musca                HD_99872
+star    456.72   323.13    6.11  Musca                BO_Mus
+star    134.73   540.84    6.11  Musca                HD_118344
+star    401.66   392.30    6.16  Musca                HD_110716
+star    172.20   478.05    6.17  Musca                HD_116890
+star    545.53   204.99    6.20  Musca                HD_107301
+star    549.86   625.56    6.21  Musca                HD_106676
+star    432.05   288.95    6.22  Musca                KY_Mus
+star    619.24   384.11    6.23  Musca                HD_105138
+star    423.82   246.99    6.26  Musca                FH_Mus
+star    763.36   819.31    6.26  Musca                HD_98672
+star    514.99   199.70    6.29  Musca                HD_108054
+star    639.53   192.72    6.30  Musca                HD_105071
+star    420.07   427.05    6.31  Musca                R_Mus
+star    261.18   343.84    6.34  Musca                HD_113919
+star    525.35   315.36    6.36  Musca                HD_107773
+star     83.33   245.37    6.36  Musca                HD_117651
+star    242.98   465.70    6.37  Musca                HD_114912
+star    703.59   251.94    6.38  Musca                HD_103482
+star    621.81   561.33    6.41  Musca                HD_104570
+star    817.09   631.80    6.41  Musca                HD_98695
+star    597.88   728.59    6.44  Musca                HD_104752
+star    451.37   795.43    6.46  Musca                HD_109857
+star    801.17   689.43    6.46  Musca                HD_98671
+star    675.18   803.32    6.48  Musca                HD_101805
+star    594.63   357.75    6.48  Musca                HD_105822
+star    255.22   781.01    6.62  Musca                ι^2_Mus
+star    780.75   506.96    6.70  Musca                HD_100546
+star    309.30   202.57    6.86  Musca                HD_112410
+line  Musca                α_Mus  β_Mus
+line  Musca                α_Mus  γ_Mus
+line  Musca                α_Mus  ε_Mus
+line  Musca                β_Mus  δ_Mus
+line  Musca                γ_Mus  δ_Mus
+line  Musca                ε_Mus  λ_Mus

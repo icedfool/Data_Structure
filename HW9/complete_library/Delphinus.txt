@@ -1,0 +1,50 @@
+star    514.01   451.21    3.64  Delphinus            β_Del
+star    505.21   428.25    3.77  Delphinus            α_Del
+star    532.62   508.60    4.03  Delphinus            ε_Del
+star    475.79   424.41    4.27  Delphinus            γ^2_Del
+star    489.10   442.80    4.43  Delphinus            δ_Del
+star    523.46   449.81    4.64  Delphinus            ζ_Del
+star    611.79   439.45    4.94  Delphinus            ρ_Aql
+star    507.31   529.88    5.07  Delphinus            κ_Del
+star    437.53   465.86    5.19  Delphinus            17_Del
+star    529.34   478.53    5.39  Delphinus            η_Del
+star    512.92   507.36    5.42  Delphinus            ι_Del
+star    424.69   515.92    5.51  Delphinus            18_Del
+star    437.06   485.98    5.54  Delphinus            16_Del
+star    469.65   600.57    5.57  Delphinus            13_Del
+star    419.67   367.80    5.69  Delphinus            HD_200044
+star    509.01   473.56    5.69  Delphinus            θ_Del
+star    588.37   468.75    5.96  Delphinus            HD_193472
+star    507.54   429.54    5.99  Delphinus            HD_196775
+star    498.29   451.42    6.01  Delphinus            10_Del
+star    462.62   486.75    6.01  Delphinus            15_Del
+star    545.13   515.62    6.03  Delphinus            1_Del
+star    435.37   625.62    6.04  Delphinus            HD_199223
+star    575.94   451.45    6.16  Delphinus            HD_194012
+star    586.59   450.96    6.17  Delphinus            HD_193556
+star    590.66   474.49    6.20  Delphinus            HD_193373
+star    554.54   653.47    6.20  Delphinus            HD_194953
+star    460.16   608.49    6.20  Delphinus            HD_198404
+star    540.71   346.53    6.21  Delphinus            HD_195479
+star    512.41   387.21    6.22  Delphinus            EU_Del
+star    560.41   403.48    6.23  Delphinus            HD_194688
+star    554.77   558.35    6.23  Delphinus            HD_194937
+star    495.54   400.19    6.24  Delphinus            LU_Del
+star    388.21   430.92    6.27  Delphinus            HD_201196
+star    461.17   568.29    6.32  Delphinus            14_Del
+star    564.82   530.04    6.32  Delphinus            HD_194526
+star    406.67   447.62    6.33  Delphinus            HD_200430
+star    562.80   462.80    6.35  Delphinus            HD_194578
+star    469.53   647.18    6.38  Delphinus            HD_198070
+star    504.16   509.60    6.39  Delphinus            HD_196885
+star    529.59   619.88    6.42  Delphinus            HD_195909
+star    500.73   358.27    6.43  Delphinus            HD_197076
+star    555.98   348.63    6.44  Delphinus            HD_194841
+star    561.15   359.15    6.45  Delphinus            HD_194616
+star    481.07   390.22    6.74  Delphinus            U_Del
+star    552.05   378.28    6.91  Delphinus            HD_195019
+line  Delphinus            α_Del  β_Del
+line  Delphinus            α_Del  γ^2_Del
+line  Delphinus            β_Del  δ_Del
+line  Delphinus            β_Del  ε_Del
+line  Delphinus            γ^2_Del  δ_Del

@@ -1,0 +1,38 @@
+star    593.61   350.73    3.85  Scutum               α_Sct
+star    365.23    83.33    4.22  Scutum               β_Sct
+star    812.22   405.32    4.66  Scutum               ζ_Sct
+star    703.68   836.24    4.67  Scutum               γ_Sct
+star    459.54   412.83    4.70  Scutum               δ_Sct
+star    177.10   169.27    4.83  Scutum               η_Sct
+star    435.72   353.25    4.88  Scutum               ε_Sct
+star    231.35   916.67    5.08  Scutum               HD_175156
+star    596.22   560.59    5.12  Scutum               HD_171391
+star    359.59   156.61    5.38  Scutum               R_Sct
+star    638.10   858.80    5.47  Scutum               V450_Sct
+star    375.73   495.52    5.69  Scutum               HD_173638
+star    817.92   641.83    5.71  Scutum               HD_169033
+star    620.90   857.80    5.74  Scutum               HD_171130
+star    664.32   546.95    5.77  Scutum               HD_170740
+star    502.43   315.92    5.82  Scutum               HD_172348
+star    295.21   469.19    5.82  Scutum               HD_174464
+star    317.70   172.82    5.99  Scutum               HD_174208
+star    692.88   837.41    6.02  Scutum               V432_Sct
+star    452.96   261.02    6.13  Scutum               HD_172831
+star    688.83   158.05    6.27  Scutum               HD_170547
+star    256.25   454.34    6.27  Scutum               HD_174866
+star    793.73   262.52    6.28  Scutum               HD_169370
+star    429.07   241.51    6.30  Scutum               HD_173093
+star    822.90   504.05    6.32  Scutum               HD_169009
+star    645.22   841.89    6.36  Scutum               HD_170902
+star    628.85   172.09    6.36  Scutum               HD_171149
+star    471.36   835.54    6.40  Scutum               HD_172594
+star    306.83   760.49    6.48  Scutum               HD_174328
+star    538.88   792.66    6.49  Scutum               HD_171957
+star    337.27   179.68    6.49  Scutum               HD_174005
+star    746.71   336.05    6.50  Scutum               HD_169913
+star    777.51   791.92    6.64  Scutum               HD_169454
+star    306.21   325.84    6.80  Scutum               S_Sct
+line  Scutum               α_Sct  β_Sct
+line  Scutum               α_Sct  γ_Sct
+line  Scutum               β_Sct  δ_Sct
+line  Scutum               γ_Sct  δ_Sct

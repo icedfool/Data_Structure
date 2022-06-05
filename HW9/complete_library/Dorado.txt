@@ -1,0 +1,39 @@
+star    562.99   392.11    3.30  Dorado               α_Dor
+star    425.15   516.82    3.76  Dorado               β_Dor
+star    618.90   340.14    4.26  Dorado               γ_Dor
+star    410.22   575.36    4.34  Dorado               δ_Dor
+star    386.03   532.32    4.65  Dorado               HD_40409
+star    483.70   427.62    4.71  Dorado               ζ_Dor
+star    465.86   596.78    4.81  Dorado               θ_Dor
+star    363.15   581.38    5.01  Dorado               η^2_Dor
+star    380.48   635.52    5.06  Dorado               ν_Dor
+star    404.27   596.70    5.10  Dorado               ε_Dor
+star    436.29   453.47    5.14  Dorado               λ_Dor
+star    477.36   530.84    5.19  Dorado               WZ_Dor
+star    529.23   469.93    5.28  Dorado               κ_Dor
+star    428.96   546.93    5.34  Dorado               HD_37297
+star    359.59   656.17    5.37  Dorado               π^2_Dor
+star    365.15   659.86    5.56  Dorado               π^1_Dor
+star    540.38   512.45    5.59  Dorado               R_Dor
+star    373.75   587.03    5.72  Dorado               η^1_Dor
+star    445.06   622.48    6.02  Dorado               HD_36584
+star    607.60   361.78    6.08  Dorado               HD_27604
+star    507.46   447.37    6.11  Dorado               HD_31746
+star    433.73   541.31    6.19  Dorado               HD_36876
+star    581.04   430.69    6.28  Dorado               HD_28255
+star    330.68   589.97    6.28  Dorado               HD_46730
+star    425.66   588.06    6.28  Dorado               HR_1960
+star    420.41   494.22    6.32  Dorado               HD_37501
+star    393.86   547.72    6.35  Dorado               HD_39963
+star    500.73   588.97    6.43  Dorado               HD_31754
+star    669.32   374.70    6.46  Dorado               HD_24863
+star    521.70   530.48    6.46  Dorado               HD_30610
+star    659.78   351.79    6.52  Dorado               XY_Dor
+star    523.33   415.77    6.55  Dorado               XZ_Dor
+line  Dorado               HD_40409  β_Dor
+line  Dorado               HD_40409  δ_Dor
+line  Dorado               α_Dor  β_Dor
+line  Dorado               α_Dor  γ_Dor
+line  Dorado               α_Dor  ζ_Dor
+line  Dorado               β_Dor  δ_Dor
+line  Dorado               β_Dor  ζ_Dor

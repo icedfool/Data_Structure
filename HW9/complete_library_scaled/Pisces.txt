@@ -1,0 +1,135 @@
+star    236.21   451.75    3.62  Pisces               η_Psc
+star    823.10   665.71    3.70  Pisces               γ_Psc
+star    637.83   608.61    4.03  Pisces               ω_Psc
+star    723.62   628.24    4.13  Pisces               ι_Psc
+star    170.77   560.11    4.26  Pisces               ο_Psc
+star    354.09   590.17    4.27  Pisces               ε_Psc
+star    775.31   612.48    4.27  Pisces               θ_Psc
+star     96.74   670.66    4.33  Pisces               α_Psc_A
+star    626.29   837.75    4.37  Pisces               30_Psc
+star    417.39   596.80    4.44  Pisces               δ_Psc
+star    185.01   627.11    4.45  Pisces               ν_Psc
+star    878.99   652.61    4.48  Pisces               β_Psc
+star    715.37   697.59    4.49  Pisces               λ_Psc
+star    338.25   196.74    4.51  Pisces               τ_Psc
+star    611.32   832.73    4.61  Pisces               33_Psc
+star    132.45   665.43    4.61  Pisces               ξ_Psc
+star    326.81   353.53    4.66  Pisces               χ_Psc
+star    321.86   290.97    4.67  Pisces               φ_Psc
+star    303.26   243.86    4.74  Pisces               υ_Psc
+star    233.84   617.64    4.84  Pisces               μ_Psc
+star    641.42   794.46    4.88  Pisces               27_Psc
+star    695.93   667.71    4.95  Pisces               19_Psc
+star    781.49   704.16    4.95  Pisces               κ_Psc
+star    508.97   411.81    5.01  Pisces               47_Psc
+star    808.60   628.77    5.05  Pisces               7_Psc
+star    418.81   428.36    5.07  Pisces               64_Psc
+star    627.44   785.49    5.13  Pisces               29_Psc
+star    287.13   665.21    5.13  Pisces               89_Psc
+star    342.48   174.37    5.15  Pisces               82_Psc
+star    306.39   594.55    5.21  Pisces               ζ_Psc_A
+star    299.46   218.43    5.23  Pisces               91_Psc
+star    198.53   361.78    5.24  Pisces               107_Psc
+star    351.21   346.44    5.33  Pisces               ψ¹_Psc
+star    263.10   384.37    5.35  Pisces               ρ_Psc
+star    458.79   348.73    5.36  Pisces               55_Psc
+star    428.77   454.75    5.36  Pisces               57_Psc
+star    542.80   586.18    5.38  Pisces               41_Psc
+star    489.55   369.09    5.38  Pisces               52_Psc
+star    859.40   684.24    5.42  Pisces               5_Psc
+star    898.22   702.45    5.43  Pisces               2_Psc
+star    390.51   216.66    5.44  Pisces               68_Psc
+star    689.21   779.14    5.49  Pisces               20_Psc
+star    261.37   383.08    5.50  Pisces               94_Psc
+star    374.51   168.85    5.50  Pisces               σ_Psc
+star    425.70   517.73    5.51  Pisces               58_Psc
+star    329.34   629.92    5.51  Pisces               80_Psc
+star    589.00   532.32    5.54  Pisces               34_Psc
+star    208.81   508.20    5.54  Pisces               π_Psc
+star    341.04   359.16    5.56  Pisces               ψ²_Psc
+star    332.14   378.10    5.57  Pisces               ψ³_Psc
+star    671.36   678.45    5.59  Pisces               22_Psc
+star    348.29   462.82    5.64  Pisces               72_Psc
+star    740.18   690.88    5.68  Pisces               16_Psc
+star    490.13   608.64    5.69  Pisces               51_Psc
+star    623.19   579.69    5.70  Pisces               32_Psc
+star    418.41   638.28    5.74  Pisces               HD_4628
+star    682.69   711.27    5.77  Pisces               21_Psc
+star    521.62   698.68    5.77  Pisces               44_Psc
+star    659.08   729.19    5.78  Pisces               XZ_Psc
+star    395.97   387.90    5.80  Pisces               66_Psc
+star    461.17   352.08    5.85  Pisces               54_Psc
+star    104.75   665.23    5.89  Pisces               112_Psc
+star    471.13   459.44    5.89  Pisces               53_Psc
+star    750.09   750.12    5.91  Pisces               14_Psc
+star    419.09   601.97    5.92  Pisces               62_Psc
+star    667.06   786.75    5.93  Pisces               24_Psc
+star    310.51   440.43    5.97  Pisces               87_Psc
+star    203.48   431.12    5.98  Pisces               105_Psc
+star    423.00   612.09    5.98  Pisces               60_Psc
+star    246.92   398.26    6.01  Pisces               97_Psc
+star    567.71   574.56    6.02  Pisces               35_Psc
+star    344.85   630.21    6.03  Pisces               73_Psc
+star    301.85   604.87    6.04  Pisces               88_Psc
+star    508.38   437.71    6.05  Pisces               48_Psc
+star    396.18   247.29    6.08  Pisces               67_Psc
+star    525.71   772.59    6.08  Pisces               84_G.
+star    916.67   699.29    6.11  Pisces               1_Psc
+star    427.38   381.41    6.11  Pisces               59_Psc
+star    560.75   585.11    6.12  Pisces               36_Psc
+star    340.63   498.45    6.14  Pisces               75_Psc
+star    367.50   615.83    6.14  Pisces               WW_Psc
+star    598.95   775.82    6.18  Pisces               5_Cet
+star    242.65   585.24    6.22  Pisces               118_G.
+star    656.27   604.41    6.22  Pisces               26_Psc
+star    893.39   716.64    6.22  Pisces               3_Psc
+star    217.34   463.18    6.23  Pisces               101_Psc
+star    355.10   164.89    6.23  Pisces               78_Psc
+star    533.95   490.81    6.25  Pisces               42_Psc
+star    780.14   706.60    6.26  Pisces               9_Psc
+star    188.39   364.55    6.27  Pisces               109_Psc
+star     83.33   570.90    6.27  Pisces               WZ_Psc
+star    905.29   650.95    6.28  Pisces               5_G._Psc
+star    362.28   162.25    6.28  Pisces               76_Psc
+star    666.52   693.63    6.29  Pisces               25_Psc
+star    221.56   579.84    6.31  Pisces               121_G.
+star    613.12   741.13    6.32  Pisces               HD_6
+star    796.26   720.62    6.33  Pisces               24_G.
+star    623.44   571.18    6.33  Pisces               31_Psc
+star    326.41   222.92    6.33  Pisces               DT_Psc
+star    190.83   568.36    6.34  Pisces               124_G.
+star    770.50   758.83    6.35  Pisces               30_G.
+star    340.48   643.55    6.35  Pisces               77_Psc_A
+star    898.04   587.86    6.35  Pisces               8_G._Psc
+star    902.56   744.32    6.38  Pisces               7_G._Psc
+star    759.66   746.83    6.39  Pisces               13_Psc
+star    873.81   697.98    6.39  Pisces               16_G.
+star    405.07   672.20    6.39  Pisces               98_G.
+star    206.60   585.94    6.39  Pisces               CY_Psc
+star    509.14   382.93    6.40  Pisces               46_Psc
+star    601.04   777.57    6.43  Pisces               4_Cet
+star    467.08   677.27    6.43  Pisces               92_G.
+star    744.28   704.81    6.47  Pisces               15_Psc
+star    524.14   475.88    6.48  Pisces               43_Psc
+star    425.07   357.50    6.51  Pisces               61_Psc
+star    176.74   411.61    6.55  Pisces               HR_515
+star    544.20   441.00    6.60  Pisces               40_Psc
+star    556.90   573.68    6.66  Pisces               38_Psc
+star    202.28   469.20    6.74  Pisces               104_Psc
+star    520.07   595.32    6.77  Pisces               45_Psc
+line  Pisces               α_Psc_A  ν_Psc
+line  Pisces               α_Psc_A  ο_Psc
+line  Pisces               γ_Psc  θ_Psc
+line  Pisces               γ_Psc  κ_Psc
+line  Pisces               δ_Psc  ε_Psc
+line  Pisces               δ_Psc  ω_Psc
+line  Pisces               ε_Psc  ν_Psc
+line  Pisces               η_Psc  ο_Psc
+line  Pisces               η_Psc  φ_Psc
+line  Pisces               θ_Psc  ι_Psc
+line  Pisces               ι_Psc  λ_Psc
+line  Pisces               ι_Psc  ω_Psc
+line  Pisces               κ_Psc  λ_Psc
+line  Pisces               τ_Psc  υ_Psc
+line  Pisces               τ_Psc  φ_Psc
+line  Pisces               υ_Psc  φ_Psc

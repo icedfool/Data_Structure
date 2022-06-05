@@ -1,0 +1,5 @@
+Apply to 'input_original.txt' diff 'sol_prioritize_insert.diff', save to 'my_output_prioritize_insert.txt'
+Apply to 'input_original.txt' diff 'sol_prioritize_erase.diff', save to 'my_output_prioritize_erase.txt'
+Apply to 'input_original.txt' diff 'sol_prioritize_replace.diff', save to 'my_output_prioritize_replace.txt'
+Apply to 'input_original.txt' diff 'sol_default.diff', save to 'my_output_default.txt'
+Apply to 'input_original.txt' diff 'sol_recursive.diff', save to 'my_output_recursive.txt'

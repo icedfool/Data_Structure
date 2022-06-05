@@ -1,0 +1,123 @@
+star    638.25   537.56    1.36  Leo                  Regulus
+star    216.95   483.60    2.14  Leo                  Denebola
+star    586.16   401.58    2.37  Leo                  γ^1_Leo
+star    365.33   387.76    2.56  Leo                  δ_Leo
+star    718.78   329.42    2.97  Leo                  ε_Leo
+star    360.40   476.16    3.33  Leo                  θ_Leo
+star    597.49   339.74    3.43  Leo                  ζ_Leo
+star    639.95   453.84    3.48  Leo                  η_Leo
+star    754.05   569.03    3.52  Leo                  ο_Leo_A
+star    753.74   568.75    3.70  Leo                  ο_Leo_B
+star    534.45   585.63    3.84  Leo                  ρ_Leo
+star    688.60   292.66    3.88  Leo                  μ_Leo
+star    316.48   559.96    4.00  Leo                  ι_Leo
+star    326.05   638.73    4.05  Leo                  σ_Leo
+star    442.58   317.15    4.30  Leo                  54_Leo
+star    257.80   753.09    4.30  Leo                  υ_Leo
+star    774.94   340.08    4.32  Leo                  λ_Leo
+star    641.08   571.85    4.39  Leo                  31_Leo
+star    412.79   395.12    4.42  Leo                  60_Leo
+star    344.56   804.92    4.45  Leo                  φ_Leo
+star    794.76   283.62    4.47  Leo                  κ_Leo
+star    230.21   386.04    4.50  Leo                  93_Leo
+star    363.64   343.36    4.56  Leo                  72_Leo
+star    395.45   618.41    4.62  Leo                  χ_Leo
+star    674.65   604.82    4.68  Leo                  π_Leo
+star    408.41   787.25    4.73  Leo                  61_Leo
+star    286.17   791.46    4.77  Leo                  87_Leo
+star    587.27   407.98    4.78  Leo                  40_Leo
+star    414.01   683.26    4.84  Leo                  58_Leo
+star    296.23   692.21    4.95  Leo                  τ_Leo
+star    413.57   640.29    4.98  Leo                  59_Leo
+star    790.95   542.26    4.99  Leo                  ξ_Leo
+star    772.45   621.24    5.00  Leo                  10_Leo
+star    525.95   626.60    5.07  Leo                  48_Leo
+star    792.32   569.85    5.07  Leo                  6_Leo
+star    341.62   708.71    5.18  Leo                  75_Leo
+star    260.37   368.36    5.26  Leo                  92_Leo
+star    680.80   527.83    5.26  Leo                  ν_Leo
+star    694.36   319.91    5.29  Leo                  22_Leo
+star    352.12   512.90    5.31  Leo                  73_Leo
+star    463.85   563.80    5.32  Leo                  53_Leo
+star    739.81   497.64    5.36  Leo                  ψ_Leo
+star    312.65   717.85    5.39  Leo                  79_Leo
+star    356.71   744.83    5.40  Leo                  69_Leo
+star    807.30   580.36    5.40  Leo                  ω_Leo
+star    602.40   507.67    5.42  Leo                  37_Leo
+star    536.70   501.35    5.43  Leo                  46_Leo
+star    443.55   781.94    5.45  Leo                  HD_94402
+star    476.53   500.23    5.49  Leo                  52_Leo
+star    477.51   418.48    5.50  Leo                  51_Leo
+star    386.37   711.15    5.52  Leo                  65_Leo
+star    192.15   462.97    5.53  Leo                  95_Leo
+star    296.87   421.49    5.54  Leo                  86_Leo
+star    314.44   456.37    5.58  Leo                  81_Leo
+star    567.05   594.46    5.61  Leo                  44_Leo
+star    716.33   224.44    5.64  Leo                  15_Leo
+star    730.76   536.75    5.67  Leo                  18_Leo
+star    524.89   597.09    5.67  Leo                  49_Leo
+star    654.11   363.48    5.68  Leo                  EO_Leo
+star    390.48   317.47    5.70  Leo                  67_Leo
+star    807.85   595.47    5.72  Leo                  3_Leo
+star    764.37   454.08    5.73  Leo                  8_Leo
+star    296.60   473.71    5.74  Leo                  85_Leo
+star    269.02   687.28    5.76  Leo                  89_Leo
+star    357.11   604.62    5.79  Leo                  36_G._Leo
+star    734.86   625.48    5.80  Leo                  5_G._Leo
+star    595.46   345.11    5.81  Leo                  39_Leo
+star    690.33   588.75    5.85  Leo                  10_Sex
+star    334.61   714.62    5.90  Leo                  76_Leo
+star    720.76   202.50    5.90  Leo                  DR_Leo
+star    434.91   733.12    5.91  Leo                  55_Leo
+star    433.99   639.24    5.91  Leo                  56_Leo
+star    598.03   338.26    5.95  Leo                  35_Leo
+star    400.58   744.97    5.95  Leo                  62_Leo
+star    277.78   448.57    5.95  Leo                  90_Leo
+star    556.61   577.54    6.01  Leo                  45_Leo
+star    726.17   543.63    6.02  Leo                  R_Leo
+star    683.42   599.80    6.05  Leo                  11_Sex
+star    315.75   739.78    6.05  Leo                  50_G._Leo
+star    577.04   633.32    6.06  Leo                  43_Leo
+star    706.82   374.69    6.10  Leo                  20_Leo
+star    444.91   784.08    6.12  Leo                  20_G._Leo
+star    402.18   757.79    6.12  Leo                  30_G._Leo
+star    580.23   486.29    6.16  Leo                  42_Leo
+star    296.24   769.98    6.23  Leo                  59_G._Leo
+star    731.35   292.19    6.26  Leo                  13_Leo
+star    287.09   491.53    6.27  Leo                  88_Leo
+star    369.27   298.84    6.27  Leo                  HD_97658
+star    448.41   749.34    6.31  Leo                  19_G._Leo
+star    771.59   489.61    6.32  Leo                  7_Leo
+star    305.40   675.35    6.35  Leo                  80_Leo
+star    450.05   728.43    6.37  Leo                  18_G._Leo
+star    477.00   636.54    6.38  Leo                  37_Sex
+star    801.33   300.23    6.41  Leo                  6_LMi
+star    623.83   513.71    6.43  Leo                  34_Leo
+star    266.79   813.16    6.43  Leo                  67_G._Leo
+star    726.59   541.18    6.44  Leo                  19_Leo
+star    710.42   515.76    6.45  Leo                  23_Leo
+star    281.40   385.38    6.45  Leo                  HD_100655
+star    393.78   340.42    6.48  Leo                  64_Leo
+star    664.40   263.96    6.48  Leo                  HN_Leo
+star    301.26   689.76    6.49  Leo                  83_Leo_A
+star    664.49   186.84    6.55  Leo                  18_LMi
+star    748.21   312.47    6.61  Leo                  9_Leo
+star    762.89   490.68    6.63  Leo                  11_Leo
+star    432.86   738.27    6.65  Leo                  57_Leo
+star    398.15   302.71    6.86  Leo                  52_LMi
+line  Leo                  Denebola  δ_Leo
+line  Leo                  Denebola  θ_Leo
+line  Leo                  Regulus  η_Leo
+line  Leo                  γ^1_Leo  δ_Leo
+line  Leo                  γ^1_Leo  ζ_Leo
+line  Leo                  γ^1_Leo  η_Leo
+line  Leo                  δ_Leo  θ_Leo
+line  Leo                  ε_Leo  η_Leo
+line  Leo                  ε_Leo  λ_Leo
+line  Leo                  ε_Leo  μ_Leo
+line  Leo                  ζ_Leo  μ_Leo
+line  Leo                  η_Leo  θ_Leo
+line  Leo                  θ_Leo  ι_Leo
+line  Leo                  ι_Leo  σ_Leo
+line  Leo                  κ_Leo  λ_Leo
+line  Leo                  κ_Leo  μ_Leo

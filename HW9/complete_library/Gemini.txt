@@ -1,0 +1,149 @@
+star    331.18   408.35    1.16  Gemini               Pollux
+star    376.60   344.20    1.90  Gemini               Castor_A
+star    598.80   614.58    1.93  Gemini               γ_Gem
+star    653.79   504.94    2.87  Gemini               μ_Gem
+star    568.46   463.45    3.06  Gemini               ε_Gem
+star    685.78   502.68    3.31  Gemini               η_Gem
+star    568.39   676.24    3.35  Gemini               ξ_Gem
+star    423.98   518.53    3.50  Gemini               δ_Gem
+star    329.43   471.60    3.57  Gemini               κ_Gem
+star    430.07   613.51    3.58  Gemini               λ_Gem
+star    530.25   311.46    3.60  Gemini               θ_Gem
+star    405.67   416.46    3.78  Gemini               ι_Gem
+star    488.65   544.19    4.01  Gemini               ζ_Gem
+star    365.57   430.27    4.06  Gemini               υ_Gem
+star    632.05   546.53    4.13  Gemini               ν_Gem_A
+star    726.67   485.69    4.16  Gemini               1_Gem
+star    396.66   346.99    4.16  Gemini               ρ_Gem
+star    340.05   394.04    4.23  Gemini               σ_Gem
+star    462.59   375.51    4.41  Gemini               τ_Gem
+star    573.80   670.35    4.49  Gemini               30_Gem
+star    528.63   672.24    4.71  Gemini               38_Gem
+star    315.81   573.57    4.89  Gemini               81_Gem
+star    363.95   297.10    4.89  Gemini               ο_Gem
+star    262.39   406.32    4.94  Gemini               χ_Gem
+star    298.12   427.72    4.97  Gemini               φ_Gem
+star    390.11   413.75    5.01  Gemini               65_Gem
+star    412.39   464.59    5.04  Gemini               57_Gem
+star    342.17   589.93    5.04  Gemini               74_Gem
+star    449.70   620.55    5.07  Gemini               51_Gem
+star    392.11   410.32    5.07  Gemini               64_Gem
+star    415.80   545.14    5.09  Gemini               56_Gem
+star    490.41   710.66    5.14  Gemini               HD_52960
+star    332.25   314.99    5.14  Gemini               π_Gem
+star    578.68   593.70    5.20  Gemini               26_Gem
+star    392.92   526.79    5.20  Gemini               63_Gem
+star    495.55   480.59    5.20  Gemini               ω_Gem
+star    365.05   623.35    5.27  Gemini               68_Gem
+star    539.57   523.00    5.28  Gemini               36_Gem
+star    332.57   447.59    5.30  Gemini               76_Gem
+star    373.40   360.06    5.34  Gemini               HD_60318
+star    279.01   546.54    5.38  Gemini               85_Gem
+star    562.82   396.77    5.42  Gemini               28_Gem
+star    373.34   601.90    5.45  Gemini               HD_59686
+star    470.63   624.80    5.47  Gemini               45_Gem
+star    481.83   302.96    5.55  Gemini               HD_53329
+star    328.77   649.22    5.55  Gemini               NZ_Gem
+star    617.18   652.61    5.57  Gemini               HD_46374
+star    366.86   289.35    5.58  Gemini               70_Gem
+star    546.49   667.88    5.68  Gemini               35_Gem
+star    537.17   490.91    5.68  Gemini               HD_49968
+star    542.19   334.47    5.72  Gemini               IS_Gem
+star    523.53   460.17    5.73  Gemini               37_Gem
+star    504.62   622.32    5.73  Gemini               41_Gem
+star    705.08   490.39    5.75  Gemini               3_Gem
+star    460.60   434.31    5.75  Gemini               47_Gem
+star    443.32   415.88    5.75  Gemini               53_Gem
+star    410.04   419.42    5.77  Gemini               59_Gem
+star    496.13   635.21    5.78  Gemini               HD_52556
+star    329.04   661.81    5.79  Gemini               HD_61885
+star    695.98   468.30    5.83  Gemini               5_Gem
+star    446.93   468.43    5.84  Gemini               52_Gem
+star    548.30   619.61    5.85  Gemini               33_Gem
+star    455.63   481.79    5.85  Gemini               48_Gem
+star    495.02   612.01    5.86  Gemini               HD_52609
+star    515.06   316.46    5.91  Gemini               HD_51000
+star    707.25   506.37    5.93  Gemini               HD_42049
+star    491.34   391.42    5.93  Gemini               HD_52711
+star    341.41   496.55    5.93  Gemini               HD_61603
+star    395.37   547.64    5.94  Gemini               61_Gem
+star    477.49   310.87    5.94  Gemini               HD_53686
+star    495.55   593.23    5.96  Gemini               NP_Gem
+star    591.63   673.95    5.99  Gemini               HD_47575
+star    483.91   508.11    6.00  Gemini               44_Gem
+star    489.47   682.51    6.01  Gemini               HD_52976
+star    293.19   557.55    6.03  Gemini               HD_63889
+star    730.14   409.79    6.04  Gemini               HD_40589
+star    642.60   491.44    6.05  Gemini               HD_44927
+star    350.34   306.24    6.05  Gemini               HD_61859
+star    319.28   317.10    6.06  Gemini               HD_63589
+star    299.07   661.50    6.07  Gemini               HD_63352
+star    678.07   477.68    6.09  Gemini               8_Gem
+star    589.74   516.82    6.09  Gemini               HD_47358
+star    357.36   340.98    6.16  Gemini               HD_61295
+star    411.07   501.30    6.17  Gemini               58_Gem
+star    311.62   492.28    6.18  Gemini               82_Gem
+star    625.61   603.94    6.18  Gemini               HD_45951
+star    349.78   476.02    6.18  Gemini               HD_61219
+star    436.94   362.71    6.19  Gemini               HD_56386
+star    509.72   448.01    6.20  Gemini               39_Gem
+star    635.91   541.34    6.22  Gemini               16_Gem
+star    384.75   636.72    6.23  Gemini               HD_59059
+star    333.75   657.10    6.23  Gemini               HD_61630
+star    675.81   481.87    6.24  Gemini               9_Gem
+star    637.28   615.45    6.24  Gemini               HD_45506
+star    331.20   506.69    6.25  Gemini               HD_62141
+star    620.31   589.50    6.26  Gemini               20_Gem
+star    516.92   694.20    6.26  Gemini               HD_51330
+star    583.58   615.21    6.28  Gemini               HD_47863
+star    474.39   313.88    6.31  Gemini               HD_53899
+star    664.96   587.15    6.32  Gemini               HD_44234
+star    643.81   461.27    6.35  Gemini               HD_44780
+star    557.82   584.79    6.35  Gemini               HD_49059
+star    737.61   499.69    6.36  Gemini               141_Tau
+star    394.17   420.25    6.36  Gemini               HD_58898
+star    353.71   473.85    6.37  Gemini               HD_61035
+star    624.41   621.98    6.38  Gemini               19_Gem
+star    438.47   436.79    6.38  Gemini               HD_56176
+star    507.10   450.93    6.40  Gemini               40_Gem
+star    403.06   630.41    6.41  Gemini               OT_Gem
+star    586.19   472.09    6.43  Gemini               HD_47415
+star    464.27   532.19    6.43  Gemini               HD_54563
+star    594.36   471.91    6.44  Gemini               HD_47020
+star    576.39   409.78    6.45  Gemini               25_Gem
+star    421.14   637.48    6.45  Gemini               HD_57049
+star    455.16   427.81    6.46  Gemini               50_Gem
+star    565.85   679.79    6.47  Gemini               32_Gem
+star    476.27   411.53    6.47  Gemini               HD_53744
+star    456.52   606.48    6.50  Gemini               HD_54986
+star    695.27   494.84    6.51  Gemini               6_Gem
+star    321.67   542.46    6.53  Gemini               79_Gem
+star    636.32   536.19    6.54  Gemini               15_Gem_A
+star    610.87   632.58    6.54  Gemini               W_Gem
+star    698.60   512.78    6.56  Gemini               TV_Gem
+star    668.44   484.84    6.58  Gemini               10_Gem
+star    643.25   638.49    6.64  Gemini               HD_45314
+star    715.59   480.20    6.67  Gemini               2_Gem
+star    605.54   607.38    6.73  Gemini               23_Gem
+star    644.69   571.17    6.76  Gemini               OU_Gem
+star    351.35   603.88    6.85  Gemini               HD_60848
+star    526.17   479.85    6.86  Gemini               HD_50554
+star    702.26   492.67    6.88  Gemini               4_Gem
+star    666.98   487.29    6.91  Gemini               11_Gem
+star    667.03   490.70    6.95  Gemini               12_Gem
+line  Gemini               1_Gem  η_Gem
+line  Gemini               Castor_A  τ_Gem
+line  Gemini               Pollux  υ_Gem
+line  Gemini               γ_Gem  ζ_Gem
+line  Gemini               δ_Gem  ζ_Gem
+line  Gemini               δ_Gem  λ_Gem
+line  Gemini               δ_Gem  υ_Gem
+line  Gemini               ε_Gem  μ_Gem
+line  Gemini               ε_Gem  ν_Gem_A
+line  Gemini               ε_Gem  τ_Gem
+line  Gemini               η_Gem  μ_Gem
+line  Gemini               θ_Gem  τ_Gem
+line  Gemini               ι_Gem  τ_Gem
+line  Gemini               ι_Gem  υ_Gem
+line  Gemini               κ_Gem  υ_Gem
+line  Gemini               λ_Gem  ξ_Gem

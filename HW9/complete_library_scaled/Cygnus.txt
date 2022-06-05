@@ -1,0 +1,129 @@
+star    471.17   466.01    1.25  Cygnus               Deneb
+star    568.02   604.16    2.23  Cygnus               γ_Cyg
+star    435.61   775.46    2.48  Cygnus               ε_Cyg
+star    743.50   455.33    2.86  Cygnus               δ_Cyg
+star    884.56   906.65    3.05  Cygnus               Albireo_A
+star    274.53   864.01    3.21  Cygnus               ζ_Cyg
+star    354.18   495.92    3.72  Cygnus               ξ_Cyg
+star    286.20   651.10    3.74  Cygnus               τ_Cyg
+star    779.18   266.65    3.76  Cygnus               ι_Cyg
+star    819.05   213.03    3.80  Cygnus               κ_Cyg
+star    603.36   424.30    3.80  Cygnus               ο^1_Cyg
+star    716.80   736.48    3.89  Cygnus               η_Cyg
+star    386.63   574.95    3.94  Cygnus               ν_Cyg
+star    593.31   398.11    3.96  Cygnus               ο^2_Cyg
+star    222.07   431.11    3.98  Cygnus               ρ_Cyg
+star    532.03   874.79    4.01  Cygnus               41_Cyg
+star    435.82   863.71    4.22  Cygnus               52_Cyg
+star    276.83   612.48    4.22  Cygnus               σ_Cyg
+star    187.37   319.81    4.23  Cygnus               π^2_Cyg
+star    587.49   158.48    4.28  Cygnus               33_Cyg
+star    259.28   734.43    4.41  Cygnus               υ_Cyg
+star    563.98   825.04    4.43  Cygnus               39_Cyg
+star    759.13   311.89    4.49  Cygnus               θ_Cyg
+star    431.50   706.32    4.53  Cygnus               λ_Cyg
+star    357.10   393.52    4.56  Cygnus               63_Cyg
+star    505.95   742.18    4.61  Cygnus               47_Cyg_A
+star    826.93   856.93    4.68  Cygnus               φ_Cyg
+star     88.57   872.87    4.69  Cygnus               μ^1_Cyg
+star    219.41   274.25    4.69  Cygnus               π^1_Cyg
+star    387.89   399.87    4.74  Cygnus               59_Cyg
+star    854.45   734.39    4.74  Cygnus               8_Cyg
+star    593.66   664.44    4.77  Cygnus               P_Cyg
+star    604.79   422.18    4.80  Cygnus               30_Cyg
+star    412.49   487.91    4.80  Cygnus               57_Cyg
+star    436.12   441.72    4.81  Cygnus               55_Cyg
+star    183.10   621.28    4.87  Cygnus               72_Cyg
+star    775.83   666.68    4.89  Cygnus               15_Cyg
+star    668.87   263.24    4.91  Cygnus               ψ_Cyg
+star    640.77   694.72    4.93  Cygnus               28_Cyg
+star    612.80   697.26    4.93  Cygnus               29_Cyg
+star    430.50   764.20    4.93  Cygnus               T_Cyg
+star    525.66   366.04    4.94  Cygnus               ω^1_Cyg
+star    710.52   643.42    4.95  Cygnus               22_Cyg
+star    644.99    93.35    4.98  Cygnus               HD_189276
+star    916.67   855.34    4.99  Cygnus               2_Cyg
+star    775.71   766.65    5.00  Cygnus               17_Cyg
+star    687.40   246.17    5.03  Cygnus               20_Cyg
+star    288.27   487.67    5.04  Cygnus               68_Cyg
+star    181.07   568.33    5.04  Cygnus               74_Cyg
+star    651.73   328.66    5.06  Cygnus               26_Cyg
+star    427.49   497.83    5.06  Cygnus               56_Cyg
+star    180.28   487.92    5.09  Cygnus               75_Cyg
+star    659.41   126.99    5.14  Cygnus               23_Cyg
+star    591.85   748.13    5.14  Cygnus               35_Cyg
+star    692.28   685.04    5.15  Cygnus               25_Cyg
+star    876.75   678.45    5.17  Cygnus               4_Cyg
+star    737.92   633.80    5.18  Cygnus               19_Cyg
+star    330.43   636.92    5.20  Cygnus               61_Cyg_A
+star    247.83   409.25    5.22  Cygnus               71_Cyg
+star    215.95   666.54    5.30  Cygnus               70_Cyg
+star    659.10   717.21    5.38  Cygnus               27_Cyg
+star    378.14   436.63    5.38  Cygnus               60_Cyg
+star    855.42   871.06    5.39  Cygnus               9_Cyg
+star    779.73   514.31    5.41  Cygnus               14_Cyg
+star    472.09   327.50    5.41  Cygnus               51_Cyg
+star    464.03   821.66    5.51  Cygnus               49_Cyg
+star    519.97   358.72    5.53  Cygnus               ω^2_Cyg
+star     83.33   425.46    5.57  Cygnus               V1942_Cyg
+star    590.93   692.92    5.58  Cygnus               36_Cyg
+star    299.60   867.47    5.60  Cygnus               V389_Cyg
+star    675.70   818.54    5.62  Cygnus               V1768_Cyg
+star    540.56   654.65    5.63  Cygnus               40_Cyg
+star    406.12   404.10    5.68  Cygnus               V2140_Cyg
+star    731.73   582.56    5.68  Cygnus               V380_Cyg
+star    137.21   619.01    5.69  Cygnus               79_Cyg
+star    539.12   354.13    5.73  Cygnus               43_Cyg
+star    157.47   544.90    5.73  Cygnus               77_Cyg
+star    784.95   249.21    5.73  Cygnus               7_Cyg
+star    685.44   880.63    5.73  Cygnus               Gl_777
+star    314.27   842.48    5.77  Cygnus               DT_Cyg
+star    507.81   427.83    5.78  Cygnus               V2015_Cyg
+star    561.77   680.75    5.87  Cygnus               V2119_Cyg
+star    859.91   229.55    5.88  Cygnus               V1762_Cyg
+star    725.68   186.79    5.89  Cygnus               V1143_Cyg
+star    262.55   642.59    5.89  Cygnus               V1334_Cyg
+star    531.38   709.22    5.90  Cygnus               42_Cyg
+star    222.60   680.09    5.93  Cygnus               69_Cyg
+star    211.35   435.17    5.96  Cygnus               W_Cyg
+star    130.64   695.16    5.98  Cygnus               V460_Cyg
+star    734.68   307.30    5.99  Cygnus               16_Cyg_A
+star    775.90   335.61    6.00  Cygnus               V1743_Cyg
+star    822.62   670.85    6.03  Cygnus               11_Cyg
+star    160.01   553.07    6.07  Cygnus               76_Cyg
+star    477.26   595.52    6.07  Cygnus               V2130_Cyg
+star    185.46   418.96    6.11  Cygnus               V1339_Cyg
+star    739.50   658.38    6.13  Cygnus               V2093_Cyg
+star    655.02   275.08    6.14  Cygnus               V2100_Cyg
+star    201.01   452.15    6.19  Cygnus               CP_Cyg
+star    105.43   576.50    6.20  Cygnus               V1619_Cyg
+star    522.24   696.08    6.21  Cygnus               44_Cyg
+star    696.13   387.24    6.30  Cygnus               V819_Cyg
+star    484.18   842.03    6.32  Cygnus               48_Cyg
+star    432.36   426.49    6.33  Cygnus               V2136_Cyg
+star    761.06   575.49    6.36  Cygnus               V973_Cyg
+star    749.75   162.05    6.37  Cygnus               V1817_Cyg
+star    783.58   746.74    6.39  Cygnus               V2090_Cyg
+star    710.27   175.82    6.42  Cygnus               V1351_Cyg
+star    762.96   776.30    6.42  Cygnus               V1765_Cyg
+star    139.37   326.19    6.42  Cygnus               V2173_Cyg
+star    235.77   663.20    6.46  Cygnus               HD_203857
+star    579.39   436.90    6.46  Cygnus               V1773_Cyg
+star    452.87   731.90    6.48  Cygnus               X_Cyg
+star    809.33   881.86    6.49  Cygnus               V1276_Cyg
+star    573.61   422.97    6.49  Cygnus               V1584_Cyg
+star    844.81   898.91    6.67  Cygnus               HD_185269
+star    478.31   549.60    6.81  Cygnus               HD_197037
+line  Cygnus               Albireo_A  φ_Cyg
+line  Cygnus               Deneb  γ_Cyg
+line  Cygnus               Deneb  ν_Cyg
+line  Cygnus               Deneb  ο^2_Cyg
+line  Cygnus               γ_Cyg  δ_Cyg
+line  Cygnus               γ_Cyg  ε_Cyg
+line  Cygnus               γ_Cyg  η_Cyg
+line  Cygnus               δ_Cyg  ι_Cyg
+line  Cygnus               ε_Cyg  ζ_Cyg
+line  Cygnus               ζ_Cyg  ν_Cyg
+line  Cygnus               η_Cyg  φ_Cyg
+line  Cygnus               ι_Cyg  κ_Cyg
+line  Cygnus               ι_Cyg  ο^2_Cyg

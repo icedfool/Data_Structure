@@ -1,0 +1,154 @@
+star    434.63    83.33    2.08  Ophiuchus            α_Oph
+star    554.63   643.24    2.43  Ophiuchus            η_Oph
+star    718.49   542.13    2.54  Ophiuchus            ζ_Oph
+star    833.04   407.20    2.73  Ophiuchus            δ_Oph
+star    390.12   238.42    2.76  Ophiuchus            β_Oph
+star    618.29   144.19    3.19  Ophiuchus            κ_Oph
+star    813.41   426.59    3.23  Ophiuchus            ε_Oph
+star    499.93   824.70    3.27  Ophiuchus            θ_Oph
+star    315.49   526.57    3.32  Ophiuchus            ν_Oph
+star    274.96   143.61    3.71  Ophiuchus            72_Oph
+star    367.82   275.50    3.75  Ophiuchus            γ_Oph
+star    752.54   291.33    3.82  Ophiuchus            λ_Oph
+star    304.70   272.39    3.93  Ophiuchus            67_Oph
+star    280.97   281.51    4.03  Ophiuchus            70_Oph
+star    479.77   808.96    4.16  Ophiuchus            44_Oph
+star    759.15   700.50    4.22  Ophiuchus            χ_Oph
+star    477.74   916.67    4.28  Ophiuchus            45_Oph
+star    742.13   663.54    4.29  Ophiuchus            φ_Oph
+star    530.19   855.18    4.33  Ophiuchus            36_Oph_B
+star    474.78   245.95    4.34  Ophiuchus            σ_Oph
+star    636.12   129.19    4.39  Ophiuchus            ι_Oph
+star    503.90   749.48    4.39  Ophiuchus            ξ_Oph
+star    299.00   304.80    4.42  Ophiuchus            68_Oph
+star    731.31   758.88    4.45  Ophiuchus            ω_Oph
+star    770.37   731.96    4.48  Ophiuchus            ψ_Oph
+star    474.26   430.01    4.53  Ophiuchus            HD_157950
+star    757.96   798.08    4.57  Ophiuchus            ρ_Oph_A
+star    418.90   491.47    4.58  Ophiuchus            μ_Oph
+star    765.41   499.15    4.62  Ophiuchus            υ_Oph
+star    656.41   545.33    4.64  Ophiuchus            20_Oph
+star    274.59   159.62    4.64  Ophiuchus            71_Oph
+star    524.42   336.84    4.72  Ophiuchus            41_Oph
+star    294.77   495.06    4.77  Ophiuchus            τ_Oph_B
+star    456.55   805.03    4.78  Ophiuchus            51_Oph
+star    306.93   243.96    4.79  Ophiuchus            66_Oph
+star    602.34   412.83    4.82  Ophiuchus            30_Oph
+star    206.17   266.59    4.85  Ophiuchus            74_Oph
+star    399.49   761.52    4.86  Ophiuchus            58_Oph
+star    691.62   684.80    4.91  Ophiuchus            24_Sco
+star    514.54   115.12    5.03  Ophiuchus            66_Her
+star    518.10   810.99    5.14  Ophiuchus            ο_Oph
+star    634.32   451.98    5.23  Ophiuchus            23_Oph
+star    766.25   483.60    5.24  Ophiuchus            17_G._Oph
+star    494.64   884.38    5.30  Ophiuchus            43_Oph
+star    455.16   349.44    5.31  Ophiuchus            Gliese
+star    544.94   120.48    5.32  Ophiuchus            37_Oph
+star    463.03   321.57    5.41  Ophiuchus            146_G.
+star    216.37   190.07    5.41  Ophiuchus            208_G.
+star    764.22   317.86    5.41  Ophiuchus            21_G._Oph
+star    558.11   539.21    5.43  Ophiuchus            88_G._Oph
+star    323.95   411.94    5.44  Ophiuchus            183_G.
+star    650.82   304.59    5.51  Ophiuchus            21_Oph
+star    687.97   727.75    5.55  Ophiuchus            40_G._Oph
+star    450.43   274.10    5.57  Ophiuchus            152_G.
+star    615.98   789.55    5.57  Ophiuchus            24_Oph
+star    580.07   345.93    5.63  Ophiuchus            82_G._Oph
+star    185.97   176.21    5.64  Ophiuchus            HR_6902
+star    750.79   622.71    5.66  Ophiuchus            22_G._Oph
+star    259.33   269.90    5.67  Ophiuchus            201_G.
+star    261.22   252.60    5.71  Ophiuchus            73_Oph
+star    699.20   306.09    5.74  Ophiuchus            14_Oph
+star    599.44   824.79    5.74  Ophiuchus            26_Oph
+star    725.65   376.64    5.77  Ophiuchus            12_Oph
+star    342.12   209.16    5.77  Ophiuchus            180_G.
+star    435.30   140.08    5.80  Ophiuchus            53_Oph
+star    325.87   316.79    5.82  Ophiuchus            V2052_Oph
+star    633.58   736.51    5.86  Ophiuchus            54_G._Oph
+star    600.27   826.78    5.88  Ophiuchus            66_G._Oph
+star    524.84   303.84    5.89  Ophiuchus            U_Oph
+star    476.49   914.03    5.98  Ophiuchus            140_G.
+star    564.55   680.66    5.98  Ophiuchus            85_G._Oph
+star    581.37   314.10    6.00  Ophiuchus            V2213_Oph
+star    680.38   308.95    6.02  Ophiuchus            16_Oph
+star    508.78   683.50    6.03  Ophiuchus            119_G.
+star    660.95   627.99    6.03  Ophiuchus            46_G._Oph
+star    456.38   849.20    6.05  Ophiuchus            151_G.
+star    716.27   461.07    6.05  Ophiuchus            30_G._Oph
+star    772.54   284.64    6.06  Ophiuchus            16_G._Oph
+star    566.56   349.60    6.06  Ophiuchus            86_G._Oph
+star    671.99   288.05    6.07  Ophiuchus            19_Oph
+star    684.11   815.99    6.07  Ophiuchus            36_G._Oph
+star    406.13   371.77    6.08  Ophiuchus            162_G.
+star    229.00   285.57    6.10  Ophiuchus            V2392_Oph
+star    543.20   877.17    6.12  Ophiuchus            95_G._Oph
+star    284.95   292.97    6.14  Ophiuchus            V986_Oph
+star    619.00   548.48    6.15  Ophiuchus            63_G._Oph
+star    384.36   277.76    6.16  Ophiuchus            61_Oph
+star    485.59   810.25    6.17  Ophiuchus            33_Sco
+star    526.30   284.45    6.17  Ophiuchus            V2368_Oph
+star    820.48   411.97    6.18  Ophiuchus            8_G._Oph
+star    655.60   643.02    6.18  Ophiuchus            V1010_Oph
+star    345.05   452.92    6.18  Ophiuchus            Y_Oph
+star    421.41   765.69    6.19  Ophiuchus            2_Sgr
+star    793.09   373.52    6.24  Ophiuchus            10_G._Oph
+star    339.68   111.98    6.24  Ophiuchus            V2388_Oph
+star    693.61   737.36    6.25  Ophiuchus            34_G._Oph
+star    701.78   349.64    6.25  Ophiuchus            41_G._Oph
+star    637.00   360.85    6.25  Ophiuchus            V2542_Oph
+star    839.62   418.01    6.26  Ophiuchus            5_G._Oph
+star    568.27   853.64    6.26  Ophiuchus            80_G._Oph
+star    616.98   719.13    6.27  Ophiuchus            62_G._Oph
+star    516.22   654.86    6.28  Ophiuchus            115_G.
+star    324.06   202.00    6.28  Ophiuchus            185_G.
+star    594.63   706.05    6.28  Ophiuchus            29_Oph
+star    573.18   758.40    6.29  Ophiuchus            28_Sco
+star    580.30   737.55    6.29  Ophiuchus            77_G._Oph
+star    389.18   470.97    6.30  Ophiuchus            167_G.
+star    655.93   381.98    6.32  Ophiuchus            51_G._Oph
+star    706.90   521.54    6.33  Ophiuchus            33_G._Oph
+star    526.26   854.11    6.33  Ophiuchus            36_Oph_C
+star    623.40   665.22    6.33  Ophiuchus            60_G._Oph
+star    597.14   161.84    6.33  Ophiuchus            72_G._Oph
+star    573.30   361.17    6.34  Ophiuchus            84_G._Oph
+star    548.62   172.37    6.34  Ophiuchus            97_G._Oph
+star    768.99   274.19    6.35  Ophiuchus            19_G._Oph
+star    873.03   460.92    6.35  Ophiuchus            2_G._Oph
+star    563.05   405.76    6.35  Ophiuchus            87_G._Oph
+star    304.58   206.75    6.36  Ophiuchus            192_G.
+star    501.35   822.91    6.36  Ophiuchus            32_Sco
+star    306.32   318.06    6.36  Ophiuchus            V2126_Oph
+star    576.21   136.94    6.38  Ophiuchus            83_G._Oph
+star    871.92   457.82    6.39  Ophiuchus            3_G._Oph
+star    701.33   304.85    6.40  Ophiuchus            42_G._Oph
+star    126.97   163.26    6.40  Ophiuchus            X_Oph
+star    469.14   161.90    6.42  Ophiuchus            V2114_Oph
+star    149.59   173.16    6.42  Ophiuchus            V2393_Oph
+star    508.53   285.40    6.43  Ophiuchus            123_G.
+star    711.58   502.82    6.44  Ophiuchus            31_G._Oph
+star    752.75   481.57    6.46  Ophiuchus            23_G._Oph
+star    701.19   496.40    6.47  Ophiuchus            38_G._Oph
+star    437.47   768.06    6.47  Ophiuchus            52_Oph
+star    611.45   626.58    6.48  Ophiuchus            64_G._Oph
+star    760.62   494.13    6.49  Ophiuchus            20_G._Oph
+star    505.70   714.62    6.51  Ophiuchus            HD_156846
+star    535.18   862.47    6.65  Ophiuchus            29_Sco
+star    578.15   892.75    6.73  Ophiuchus            HD_154088
+star    550.58   740.54    6.80  Ophiuchus            HD_155233
+star    519.83   855.73    6.81  Ophiuchus            38_Oph
+star    758.21   599.90    6.90  Ophiuchus            HD_148427
+line  Ophiuchus            45_Oph  θ_Oph
+line  Ophiuchus            α_Oph  β_Oph
+line  Ophiuchus            α_Oph  κ_Oph
+line  Ophiuchus            β_Oph  γ_Oph
+line  Ophiuchus            β_Oph  η_Oph
+line  Ophiuchus            γ_Oph  ν_Oph
+line  Ophiuchus            δ_Oph  ε_Oph
+line  Ophiuchus            δ_Oph  κ_Oph
+line  Ophiuchus            ε_Oph  υ_Oph
+line  Ophiuchus            ζ_Oph  η_Oph
+line  Ophiuchus            ζ_Oph  κ_Oph
+line  Ophiuchus            ζ_Oph  υ_Oph
+line  Ophiuchus            ζ_Oph  φ_Oph
+line  Ophiuchus            η_Oph  θ_Oph
+line  Ophiuchus            φ_Oph  χ_Oph

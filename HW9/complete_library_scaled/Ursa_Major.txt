@@ -1,0 +1,128 @@
+star    265.14   372.82    1.76  Ursa_Major           ε_UMa
+star    546.28   328.18    1.81  Ursa_Major           α_UMa
+star     83.33   407.27    1.85  Ursa_Major           η_UMa
+star    189.37   353.93    2.23  Ursa_Major           Mizar
+star    548.35   429.48    2.34  Ursa_Major           β_UMa
+star    403.63   463.72    2.41  Ursa_Major           γ_UMa
+star    517.74   651.67    3.00  Ursa_Major           ψ_UMa
+star    682.44   700.73    3.06  Ursa_Major           μ_UMa
+star    916.67   510.52    3.12  Ursa_Major           ι_UMa
+star    801.79   482.18    3.17  Ursa_Major           θ_UMa
+star    363.52   388.52    3.32  Ursa_Major           δ_UMa
+star    877.91   262.10    3.35  Ursa_Major           ο_UMa
+star    697.67   672.54    3.45  Ursa_Major           λ_UMa
+star    475.04   854.95    3.49  Ursa_Major           ν_UMa
+star    910.27   531.41    3.57  Ursa_Major           κ_UMa
+star    740.20   276.48    3.65  Ursa_Major           23_UMa
+star    406.11   577.48    3.69  Ursa_Major           χ_UMa
+star    719.41   360.99    3.78  Ursa_Major           υ_UMa
+star    474.67   882.08    3.79  Ursa_Major           ξ_UMa_A
+star    187.14   351.15    3.99  Ursa_Major           Alcor
+star    866.55   460.02    4.46  Ursa_Major           15_UMa
+star    794.51   477.10    4.47  Ursa_Major           26_UMa
+star    693.41   158.85    4.54  Ursa_Major           24_UMa
+star    738.45   453.04    4.55  Ursa_Major           φ_UMa
+star    825.33   213.89    4.59  Ursa_Major           π^2_UMa
+star    151.46   334.01    4.63  Ursa_Major           83_UMa
+star    570.72   676.93    4.66  Ursa_Major           ω_UMa
+star    777.17   254.00    4.67  Ursa_Major           τ_UMa
+star    645.50   724.23    4.72  Ursa_Major           HD_91312
+star    759.16   177.74    4.74  Ursa_Major           ρ_UMa
+star    478.07   764.69    4.76  Ursa_Major           55_UMa
+star    831.88   424.99    4.80  Ursa_Major           18_UMa
+star    750.49   191.53    4.80  Ursa_Major           σ^2_UMa
+star    630.53   434.12    4.82  Ursa_Major           36_UMa
+star    253.15   358.51    4.93  Ursa_Major           78_UMa
+star    625.57   253.42    4.94  Ursa_Major           ET_UMa
+star    472.03   667.17    4.99  Ursa_Major           56_UMa
+star    564.86   851.29    5.02  Ursa_Major           46_UMa
+star    551.31   727.48    5.03  Ursa_Major           47_UMa
+star    546.08   749.54    5.06  Ursa_Major           49_UMa
+star    781.62   597.67    5.08  Ursa_Major           15_LMi
+star    738.97   393.30    5.09  Ursa_Major           44_Lyn
+star    590.79   253.53    5.12  Ursa_Major           38_UMa
+star    570.28   463.55    5.12  Ursa_Major           44_UMa
+star    666.80   120.29    5.15  Ursa_Major           27_UMa
+star    755.82   194.60    5.15  Ursa_Major           σ^1_UMa
+star    617.03   414.37    5.16  Ursa_Major           37_UMa
+star    785.73   293.01    5.18  Ursa_Major           16_UMa
+star    338.68   652.73    5.22  Ursa_Major           67_UMa
+star    745.26   533.44    5.27  Ursa_Major           31_UMa
+star    814.85   376.56    5.28  Ursa_Major           17_UMa
+star    443.41   740.30    5.30  Ursa_Major           57_UMa
+star    388.98   824.96    5.31  Ursa_Major           61_UMa
+star    822.91   123.22    5.34  Ursa_Major           55_Cam
+star    337.54   352.71    5.37  Ursa_Major           74_UMa
+star    845.35   587.21    5.41  Ursa_Major           41_Lyn
+star    136.45   363.67    5.46  Ursa_Major           82_UMa
+star    826.68   195.37    5.47  Ursa_Major           2_UMa
+star    355.25   369.52    5.54  Ursa_Major           70_UMa
+star    419.80   657.98    5.56  Ursa_Major           59_UMa
+star    574.68   374.08    5.57  Ursa_Major           42_UMa
+star    794.49   223.94    5.57  Ursa_Major           6_UMa
+star    171.80   333.02    5.60  Ursa_Major           81_UMa
+star    820.40   201.69    5.63  Ursa_Major           π^1_UMa
+star    576.14   425.74    5.66  Ursa_Major           43_UMa
+star    326.35   402.70    5.68  Ursa_Major           73_UMa
+star    136.96   329.05    5.68  Ursa_Major           84_UMa
+star    114.97   328.45    5.70  Ursa_Major           86_UMa
+star    513.16   800.64    5.71  Ursa_Major           CO_UMa
+star    822.93   265.50    5.72  Ursa_Major           5_UMa
+star    879.14   221.15    5.73  Ursa_Major           57_Cam
+star    638.64   260.36    5.74  Ursa_Major           32_UMa
+star    567.87   842.04    5.74  Ursa_Major           47_LMi
+star    382.00   867.00    5.74  Ursa_Major           62_UMa
+star    683.51   705.57    5.74  Ursa_Major           HD_89744
+star    678.05   117.92    5.77  Ursa_Major           22_UMa
+star    595.01   413.49    5.79  Ursa_Major           39_UMa
+star    801.22   382.52    5.79  Ursa_Major           CG_UMa
+star    338.90   385.75    5.82  Ursa_Major           71_UMa
+star    409.45   408.87    5.83  Ursa_Major           66_UMa
+star    310.55   303.02    5.83  Ursa_Major           HD_111456
+star    623.06   194.32    5.88  Ursa_Major           EN_UMa
+star    445.30   669.95    5.94  Ursa_Major           58_UMa
+star    583.31   222.38    5.95  Ursa_Major           VY_UMa
+star    532.20   766.75    6.01  Ursa_Major           51_UMa
+star    342.93   267.73    6.02  Ursa_Major           76_UMa
+star    339.60   346.19    6.07  Ursa_Major           75_UMa
+star    538.51   225.91    6.07  Ursa_Major           EP_UMa
+star    426.99   598.89    6.09  Ursa_Major           60_UMa
+star    837.14   478.36    6.14  Ursa_Major           37_Lyn
+star    346.45   454.30    6.18  Ursa_Major           1_CVn
+star    659.62   354.48    6.18  Ursa_Major           U_UMa
+star    745.98   257.15    6.24  Ursa_Major           EZ_UMa
+star    178.21   294.89    6.28  Ursa_Major           CQ_UMa
+star    452.58   605.79    6.30  Ursa_Major           EE_UMa
+star    111.16   400.33    6.31  Ursa_Major           HD_119124
+star    614.26   253.49    6.32  Ursa_Major           35_UMa
+star    588.12   410.61    6.34  Ursa_Major           41_UMa
+star    372.55   390.71    6.34  Ursa_Major           68_UMa
+star    353.32   754.76    6.42  Ursa_Major           Groombridg
+star    907.64   250.31    6.43  Ursa_Major           56_Cam
+star    195.71   206.37    6.49  Ursa_Major           HR_5256
+star    708.13   274.23    6.51  Ursa_Major           28_UMa
+star    373.62   595.74    6.54  Ursa_Major           65_UMa
+star    686.21   693.81    6.78  Ursa_Major           25_LMi
+star    791.16   612.56    6.81  Ursa_Major           14_LMi
+star    842.20   510.79    6.90  Ursa_Major           39_Lyn
+line  Ursa_Major           23_UMa  α_UMa
+line  Ursa_Major           23_UMa  ο_UMa
+line  Ursa_Major           23_UMa  υ_UMa
+line  Ursa_Major           Mizar  ε_UMa
+line  Ursa_Major           Mizar  η_UMa
+line  Ursa_Major           α_UMa  β_UMa
+line  Ursa_Major           α_UMa  δ_UMa
+line  Ursa_Major           β_UMa  γ_UMa
+line  Ursa_Major           β_UMa  υ_UMa
+line  Ursa_Major           γ_UMa  δ_UMa
+line  Ursa_Major           γ_UMa  χ_UMa
+line  Ursa_Major           δ_UMa  ε_UMa
+line  Ursa_Major           θ_UMa  κ_UMa
+line  Ursa_Major           θ_UMa  υ_UMa
+line  Ursa_Major           ι_UMa  κ_UMa
+line  Ursa_Major           λ_UMa  μ_UMa
+line  Ursa_Major           μ_UMa  ψ_UMa
+line  Ursa_Major           ν_UMa  ξ_UMa_A
+line  Ursa_Major           ν_UMa  χ_UMa
+line  Ursa_Major           ο_UMa  υ_UMa
+line  Ursa_Major           χ_UMa  ψ_UMa

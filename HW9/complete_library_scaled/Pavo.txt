@@ -1,0 +1,101 @@
+star    214.35   225.43    1.94  Pavo                 α_Pav
+star    221.09   545.26    3.42  Pavo                 β_Pav
+star    337.40   516.61    3.55  Pavo                 δ_Pav
+star    819.93   529.63    3.61  Pavo                 η_Pav
+star    393.47   731.92    3.97  Pavo                 ε_Pav
+star    589.29   688.79    4.01  Pavo                 ζ_Pav
+star     83.33   572.63    4.21  Pavo                 γ_Pav
+star    609.03   383.99    4.22  Pavo                 λ_Pav
+star    756.47   468.30    4.33  Pavo                 π_Pav
+star    723.32   383.99    4.35  Pavo                 ξ_Pav
+star    570.74   546.50    4.40  Pavo                 κ_Pav
+star    686.84   401.50    4.63  Pavo                 ν_Pav
+star    202.60   357.96    4.75  Pavo                 φ^1_Pav
+star    620.06   475.12    4.78  Pavo                 HD_172555
+star    203.01   390.14    4.85  Pavo                 ρ_Pav
+star    330.98   291.44    4.95  Pavo                 NU_Pav
+star    187.40   696.29    5.06  Pavo                 ο_Pav
+star    185.09   361.82    5.11  Pavo                 φ^2_Pav
+star    235.89   559.88    5.14  Pavo                 υ_Pav
+star    592.04   315.99    5.14  Pavo                 ω_Pav
+star    348.57   273.58    5.24  Pavo                 HD_188162
+star    526.92   581.58    5.31  Pavo                 HD_177389
+star    363.21   538.21    5.32  Pavo                 μ^2_Pav
+star    419.12   715.77    5.39  Pavo                 HD_186219
+star    376.27   280.32    5.41  Pavo                 HD_186957
+star    234.70   629.99    5.41  Pavo                 σ_Pav
+star    139.76   696.88    5.47  Pavo                 SX_Pav
+star    766.28   413.95    5.47  Pavo                 ι_Pav
+star    507.29   522.30    5.52  Pavo                 HD_179366
+star    737.55   441.26    5.58  Pavo                 HD_166599
+star    160.24   434.65    5.67  Pavo                 HD_198160
+star    238.21   783.32    5.67  Pavo                 HD_200525
+star    608.04   480.04    5.71  Pavo                 θ_Pav
+star    726.09   250.86    5.74  Pavo                 HD_169836
+star    382.45   609.42    5.74  Pavo                 HD_188097
+star    119.66   503.15    5.75  Pavo                 HD_200751
+star    367.98   537.75    5.75  Pavo                 μ^1_Pav
+star    628.16   465.85    5.76  Pavo                 HD_172211
+star    855.60   382.38    5.78  Pavo                 HD_161814
+star    596.20   774.91    5.88  Pavo                 HD_169570
+star    545.08   594.06    5.89  Pavo                 HD_175986
+star    912.44   313.90    5.97  Pavo                 HD_160720
+star    563.05   526.35    5.98  Pavo                 HD_175401
+star    462.45   579.98    5.98  Pavo                 HD_182709
+star    641.51   352.79    6.04  Pavo                 HD_172630
+star    563.85   736.60    6.04  Pavo                 HD_172881
+star    393.90   490.33    6.04  Pavo                 NZ_Pav
+star    353.43   552.11    6.07  Pavo                 HD_189567
+star    426.21   496.21    6.08  Pavo                 HD_184996
+star    302.03   430.42    6.09  Pavo                 HD_191603
+star    280.18   644.72    6.09  Pavo                 HD_195402
+star    183.31   759.34    6.09  Pavo                 HD_203212
+star    702.63   430.46    6.13  Pavo                 HD_168740
+star    716.16   463.52    6.17  Pavo                 HD_167425
+star    225.31   766.46    6.18  Pavo                 HD_200924
+star    426.52   237.36    6.19  Pavo                 HD_184585
+star    383.08   341.18    6.21  Pavo                 HD_186837
+star    366.36   346.44    6.21  Pavo                 HD_187653
+star    662.67   216.68    6.22  Pavo                 HD_172781
+star    206.90   436.14    6.22  Pavo                 HD_196317
+star    505.79   605.59    6.25  Pavo                 τ_Pav
+star    284.24   427.71    6.27  Pavo                 HD_192531
+star    154.39   697.77    6.28  Pavo                 Y_Pav
+star    576.67   240.64    6.30  Pavo                 HD_176522
+star    682.57   602.70    6.32  Pavo                 HD_166841
+star     99.29   539.50    6.32  Pavo                 HD_202299
+star    483.95   577.95    6.33  Pavo                 HD_181019
+star    220.27   439.58    6.34  Pavo                 HD_195772
+star    631.95   469.60    6.35  Pavo                 HD_172021
+star    774.11   546.31    6.36  Pavo                 HD_162521
+star    282.46   237.75    6.36  Pavo                 HD_191095
+star    194.16   624.94    6.36  Pavo                 HD_199475
+star    433.40   523.26    6.37  Pavo                 HD_184586
+star    796.39   321.76    6.38  Pavo                 HD_165497
+star    380.22   596.39    6.38  Pavo                 HD_188164
+star    750.17   496.78    6.40  Pavo                 HD_164871
+star    703.07   285.25    6.40  Pavo                 HD_170525
+star    843.44   432.24    6.41  Pavo                 HD_161475
+star    296.39   694.07    6.41  Pavo                 HD_195190
+star    509.99   475.15    6.42  Pavo                 HD_179419
+star    401.19   529.65    6.44  Pavo                 HD_186584
+star    339.49   522.12    6.45  Pavo                 HD_190222
+star    736.62   462.76    6.47  Pavo                 HD_166251
+star    588.75   401.66    6.47  Pavo                 HD_174877
+star    786.55   542.97    6.48  Pavo                 HD_161955
+star    550.40   651.25    6.49  Pavo                 HD_175007
+star    299.78   542.88    6.49  Pavo                 HD_192887
+star    815.57   334.01    6.84  Pavo                 HD_164427
+star    916.67   322.11    6.84  Pavo                 V_Pav
+line  Pavo                 α_Pav  γ_Pav
+line  Pavo                 α_Pav  δ_Pav
+line  Pavo                 β_Pav  γ_Pav
+line  Pavo                 β_Pav  δ_Pav
+line  Pavo                 δ_Pav  ε_Pav
+line  Pavo                 δ_Pav  ζ_Pav
+line  Pavo                 δ_Pav  κ_Pav
+line  Pavo                 δ_Pav  λ_Pav
+line  Pavo                 η_Pav  π_Pav
+line  Pavo                 κ_Pav  π_Pav
+line  Pavo                 λ_Pav  ξ_Pav
+line  Pavo                 ξ_Pav  π_Pav

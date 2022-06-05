@@ -1,0 +1,35 @@
+star    695.26   451.03    2.58  Corvus               γ_Crv
+star    418.07   822.82    2.65  Corvus               β_Crv
+star    481.72   384.68    2.94  Corvus               δ_Crv
+star    773.52   775.52    3.02  Corvus               ε_Crv
+star    794.42   909.76    4.02  Corvus               α_Crv
+star    447.89   364.60    4.30  Corvus               η_Crv
+star    619.19   197.51    5.15  Corvus               HD_107418
+star    304.24   164.66    5.17  Corvus               VV_Crv
+star    620.66   747.53    5.20  Corvus               ζ_Crv
+star    916.67   591.34    5.28  Corvus               31_Crt
+star    758.13   837.54    5.45  Corvus               3_Crv
+star    423.32   151.18    5.58  Corvus               HD_109272
+star    478.00   841.33    5.63  Corvus               HD_108821
+star    578.61   913.72    5.66  Corvus               6_Crv
+star    438.78   216.23    5.74  Corvus               HD_109141
+star    704.21   661.33    5.82  Corvus               HD_106485
+star    626.30   745.03    5.94  Corvus               HD_107295
+star    348.16   496.58    6.00  Corvus               HD_109931
+star    303.82   593.51    6.02  Corvus               HD_110385
+star    676.98   396.80    6.05  Corvus               HD_106819
+star     83.33   318.37    6.18  Corvus               HD_112304
+star    391.94   640.84    6.20  Corvus               TU_Crv
+star    430.28   593.63    6.26  Corvus               HD_109238
+star    913.42   729.87    6.28  Corvus               HD_104307
+star    512.89   391.99    6.30  Corvus               HD_108477
+star    477.57   186.42    6.37  Corvus               HD_108799
+star    443.47   683.81    6.41  Corvus               HD_109132
+star    582.60    86.28    6.48  Corvus               TT_Crv
+star    636.30   559.43    6.70  Corvus               R_Crv
+star    221.69    90.66    6.88  Corvus               HD_111031
+line  Corvus               α_Crv  ε_Crv
+line  Corvus               β_Crv  δ_Crv
+line  Corvus               β_Crv  ε_Crv
+line  Corvus               γ_Crv  δ_Crv
+line  Corvus               γ_Crv  ε_Crv

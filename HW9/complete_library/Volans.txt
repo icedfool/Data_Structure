@@ -1,0 +1,38 @@
+star    574.26   524.25    3.62  Volans               γ^2_Vol
+star    454.23   443.72    3.77  Volans               β_Vol
+star    524.16   554.49    3.93  Volans               ζ_Vol
+star    570.13   478.35    3.97  Volans               δ_Vol
+star    391.95   460.22    4.00  Volans               α_Vol
+star    487.28   484.51    4.35  Volans               ε_Vol
+star    466.52   433.35    5.06  Volans               HD_70514
+star    597.45   483.28    5.18  Volans               HD_53501
+star    443.22   520.12    5.19  Volans               θ_Vol
+star    473.12   569.11    5.28  Volans               η_Vol
+star    472.94   536.11    5.33  Volans               κ^1_Vol
+star    413.46   462.07    5.34  Volans               HD_76143
+star    596.46   537.96    5.41  Volans               ι_Vol
+star    459.69   512.57    5.51  Volans               HD_72337
+star    472.65   535.97    5.63  Volans               κ^2_Vol
+star    517.71   442.23    5.78  Volans               HD_64484
+star    404.18   498.23    5.89  Volans               HD_77887
+star    451.06   417.19    5.95  Volans               HD_71863
+star    420.55   443.41    6.03  Volans               HD_75171
+star    608.05   531.74    6.10  Volans               HD_50002
+star    435.83   560.00    6.10  Volans               HD_76270
+star    459.87   569.95    6.11  Volans               HD_73468
+star    523.80   505.80    6.16  Volans               HD_63584
+star    529.80   584.10    6.33  Volans               HD_62153
+star    501.48   564.92    6.33  Volans               HD_66920
+star    429.22   484.08    6.33  Volans               HD_75116
+star    595.68   576.95    6.36  Volans               HD_49947
+star    526.54   440.46    6.37  Volans               HD_63513
+star    557.65   415.90    6.38  Volans               HD_60150
+star    583.92   496.65    6.47  Volans               HD_55151
+star    549.19   537.15    6.49  Volans               HD_59640
+star    606.23   555.73    6.50  Volans               HD_49268
+line  Volans               α_Vol  β_Vol
+line  Volans               α_Vol  ε_Vol
+line  Volans               β_Vol  ε_Vol
+line  Volans               γ^2_Vol  δ_Vol
+line  Volans               γ^2_Vol  ε_Vol
+line  Volans               δ_Vol  ε_Vol

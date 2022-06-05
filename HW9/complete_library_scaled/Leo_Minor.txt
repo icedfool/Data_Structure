@@ -1,0 +1,44 @@
+star    144.97   399.23    3.79  Leo_Minor            46_LMi
+star    384.26   298.41    4.20  Leo_Minor            β_LMi
+star    571.97   363.65    4.49  Leo_Minor            21_LMi
+star    870.30   290.55    4.54  Leo_Minor            10_LMi
+star    276.07   509.17    4.68  Leo_Minor            37_LMi
+star    400.08   430.48    4.72  Leo_Minor            30_LMi
+star    212.15   901.84    5.08  Leo_Minor            41_LMi
+star    646.21    98.16    5.11  Leo_Minor            19_LMi
+star    204.31   563.89    5.36  Leo_Minor            42_LMi
+star    637.90   511.63    5.37  Leo_Minor            20_LMi
+star    860.38   318.35    5.39  Leo_Minor            11_LMi
+star    901.38   345.96    5.40  Leo_Minor            8_LMi
+star    492.70   633.77    5.49  Leo_Minor            23_LMi
+star    222.17   761.80    5.51  Leo_Minor            40_LMi
+star    416.70   434.21    5.52  Leo_Minor            28_LMi
+star    330.47   374.79    5.57  Leo_Minor            34_LMi
+star    366.89   197.85    5.79  Leo_Minor            32_LMi
+star    285.17   240.75    5.84  Leo_Minor            38_LMi
+star    534.86   266.97    5.86  Leo_Minor            HD_88231
+star    916.67   410.17    5.87  Leo_Minor            7_LMi
+star    426.55   425.71    5.89  Leo_Minor            27_LMi
+star    342.36   493.38    5.90  Leo_Minor            33_LMi
+star    242.25   520.13    6.02  Leo_Minor            RX_LMi
+star    157.47   683.30    6.05  Leo_Minor            44_LMi
+star    799.73   356.95    6.12  Leo_Minor            13_LMi
+star    170.79   619.01    6.15  Leo_Minor            43_LMi
+star    102.19   790.90    6.19  Leo_Minor            48_LMi
+star    876.23   285.82    6.19  Leo_Minor            9_LMi
+star    568.77   528.66    6.23  Leo_Minor            HD_87822
+star    306.73   313.31    6.29  Leo_Minor            35_LMi
+star    775.79   385.45    6.30  Leo_Minor            R_LMi
+star    533.39   120.05    6.34  Leo_Minor            HD_88161
+star     83.33   788.83    6.36  Leo_Minor            50_LMi
+star    419.22   619.93    6.36  Leo_Minor            HD_89993
+star    288.31   414.41    6.42  Leo_Minor            36_LMi
+star    490.65   662.14    6.46  Leo_Minor            24_LMi
+star    502.91   536.09    6.47  Leo_Minor            22_LMi
+star    402.73   356.73    6.49  Leo_Minor            29_LMi
+star    714.81   158.06    6.64  Leo_Minor            16_LMi
+line  Leo_Minor            10_LMi  21_LMi
+line  Leo_Minor            21_LMi  30_LMi
+line  Leo_Minor            21_LMi  β_LMi
+line  Leo_Minor            30_LMi  46_LMi
+line  Leo_Minor            46_LMi  β_LMi

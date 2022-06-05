@@ -1,0 +1,13 @@
+star    548.44   362.46   -1.00  Unknown              STAR_00001
+star    333.47   641.18   -1.00  Unknown              STAR_00002
+star    328.57   387.20   -1.00  Unknown              STAR_00003
+star    666.53   268.36   -1.00  Unknown              STAR_00004
+star    548.87   299.59   -1.00  Unknown              STAR_00005
+star    610.49   404.59   -1.00  Unknown              STAR_00006
+star    339.07   475.11   -1.00  Unknown              STAR_00007
+star    310.37   565.27   -1.00  Unknown              STAR_00008
+star    733.39   210.07   -1.00  Unknown              STAR_00009
+star    723.68   269.11   -1.00  Unknown              STAR_00010
+star    630.42   237.41   -1.00  Unknown              STAR_00011
+star    623.36   487.33   -1.00  Unknown              STAR_00012
+star    199.09   507.35   -1.00  Unknown              STAR_00013

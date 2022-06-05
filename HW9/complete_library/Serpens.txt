@@ -1,0 +1,90 @@
+star    841.84   447.20    2.63  Serpens              α_Ser
+star    174.55   606.69    3.23  Serpens              η_Ser
+star    820.35   619.23    3.54  Serpens              μ_Ser
+star    362.49   822.88    3.54  Serpens              ξ_Ser
+star    826.49   292.01    3.65  Serpens              β_Ser
+star    815.00   481.51    3.71  Serpens              ε_Ser
+star    908.59   526.14    5.20  Serpens              10_Ser
+star    946.90   526.75    5.20  Serpens              5_Ser
+star    808.36   297.16    5.20  Serpens              R_Ser
+star    813.47   613.42    5.20  Serpens              b_Ser
+star    150.80   552.28    5.20  Serpens              d_Ser
+star    784.19   288.38    5.20  Serpens              γ_Ser
+star    878.21   375.21    5.20  Serpens              δ_Ser_A
+star    258.97   622.21    5.20  Serpens              ζ_Ser
+star     42.37   479.16    5.20  Serpens              θ^1_Ser
+star    839.43   220.05    5.20  Serpens              ι_Ser
+star    812.85   246.08    5.20  Serpens              κ_Ser
+star    832.21   431.17    5.20  Serpens              λ_Ser
+star    429.76   781.03    5.20  Serpens              ν_Ser
+star    344.16   780.57    5.20  Serpens              ο_Ser
+star    752.83   169.11    5.20  Serpens              π_Ser
+star    798.95   198.79    5.20  Serpens              ρ_Ser
+star    681.11   542.81    5.20  Serpens              σ_Ser
+star    908.61   290.64    5.20  Serpens              τ^1_Ser
+star    817.74   521.29    5.21  Serpens              ω_Ser
+star    871.74   384.46    5.26  Serpens              16_Ser
+star    962.41   471.06    5.32  Serpens              3_Ser
+star    847.27   335.83    5.34  Serpens              χ_Ser
+star    940.00   545.22    5.35  Serpens              6_Ser
+star    141.38   590.03    5.38  Serpens              c_Ser
+star    194.28   827.05    5.39  Serpens              32_G.
+star    835.58   590.80    5.39  Serpens              A^2_Ser
+star    786.64   210.03    5.45  Serpens              QY_Ser
+star    890.74   579.24    5.50  Serpens              A^1_Ser
+star    370.27   753.38    5.54  Serpens              6_G._Ser
+star    782.04   309.75    5.54  Serpens              φ_Ser
+star     37.59   508.13    5.56  Serpens              64_Ser
+star    837.56   464.31    5.57  Serpens              22_G.
+star    961.24   550.79    5.62  Serpens              4_Ser
+star    741.40   388.03    5.63  Serpens              45_Ser
+star    738.39   411.61    5.69  Serpens              47_Ser
+star    823.39   314.39    5.71  Serpens              υ_Ser
+star    110.53   560.03    5.76  Serpens              e_Ser
+star    839.81   240.29    5.80  Serpens              τ^7_Ser
+star    772.27   482.85    5.82  Serpens              3_Her
+star    238.91   701.67    5.84  Serpens              19_G.
+star    844.18   515.39    5.86  Serpens              ψ_Ser
+star    955.40   229.63    5.90  Serpens              FL_Ser
+star    737.57   500.13    5.93  Serpens              41_G.
+star    132.36   572.71    5.93  Serpens              61_Ser
+star    864.88   279.60    5.93  Serpens              τ^5_Ser
+star    362.62   825.73    5.94  Serpens              9_G._Ser
+star    846.88   281.47    6.00  Serpens              τ^6_Ser
+star    799.84   330.41    6.07  Serpens              39_Ser
+star    759.68   473.21    6.07  Serpens              43_Ser
+star    866.36   253.53    6.10  Serpens              τ^3_Ser
+star    928.94   575.72    6.11  Serpens              8_Ser
+star    175.27   461.45    6.14  Serpens              NW_Ser
+star    830.26   260.67    6.15  Serpens              τ^8_Ser
+star    403.53   775.17    6.20  Serpens              47_Oph
+star    882.29   280.39    6.22  Serpens              τ^2_Ser
+star    796.92   410.26    6.28  Serpens              40_Ser
+star    926.24   339.35    6.29  Serpens              7_Ser
+star    837.52   543.82    6.32  Serpens              23_G.
+star    164.00   618.34    6.36  Serpens              36_G.
+star    132.59   491.38    6.41  Serpens              MV_Ser
+star    428.29   744.73    6.46  Serpens              2_G._Ser
+star    958.60   444.53    6.47  Serpens              4_G._Ser
+star    737.76   410.24    6.47  Serpens              FQ_Ser
+star    119.91   468.75    6.47  Serpens              FR_Ser
+star    699.98   534.55    6.50  Serpens              48_G.
+star    950.82   541.11    6.50  Serpens              5_G._Ser
+star    875.79   568.60    6.51  Serpens              14_Ser
+star    866.31   296.92    6.51  Serpens              τ^4_Ser
+star    825.50   290.24    6.70  Serpens              29_Ser
+star    739.32   384.78    6.74  Serpens              46_Ser
+star    184.74   722.21    6.92  Serpens              168443
+line  Serpens              α_Ser  δ_Ser_A
+line  Serpens              α_Ser  ε_Ser
+line  Serpens              β_Ser  γ_Ser
+line  Serpens              β_Ser  δ_Ser_A
+line  Serpens              β_Ser  ι_Ser
+line  Serpens              γ_Ser  κ_Ser
+line  Serpens              ε_Ser  ε_Ser
+line  Serpens              ε_Ser  μ_Ser
+line  Serpens              ε_Ser  μ_Ser
+line  Serpens              η_Ser  θ^1_Ser
+line  Serpens              η_Ser  ξ_Ser
+line  Serpens              ι_Ser  κ_Ser
+line  Serpens              μ_Ser  ξ_Ser

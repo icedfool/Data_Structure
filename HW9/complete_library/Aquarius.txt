@@ -1,0 +1,73 @@
+star    685.07   413.23    2.90  Aquarius             β_Aqr
+star    540.19   316.65    2.95  Aquarius             α_Aqr
+star    330.67   584.92    3.27  Aquarius             δ_Aqr
+star    439.97   309.96    3.65  Aquarius             ζ^1_Aqr
+star    273.45   679.05    3.68  Aquarius             88_Aqr
+star    336.95   441.09    3.73  Aquarius             λ_Aqr
+star    858.27   495.35    3.78  Aquarius             ε_Aqr
+star    471.23   333.66    3.86  Aquarius             γ_Aqr
+star    217.94   662.59    3.96  Aquarius             98_Aqr
+star    411.50   311.56    4.04  Aquarius             η_Aqr
+star    351.22   545.77    4.05  Aquarius             τ^2_Aqr
+star    491.51   444.66    4.17  Aquarius             θ_Aqr
+star    243.28   416.83    4.22  Aquarius             φ_Aqr
+star    237.83   469.95    4.24  Aquarius             ψ^1_Aqr
+star    533.75   551.72    4.29  Aquarius             ι_Aqr
+star    206.36   672.46    4.38  Aquarius             99_Aqr
+star    229.34   471.92    4.41  Aquarius             ψ^2_Aqr
+star    862.47   417.81    4.43  Aquarius             3_Aqr
+star    286.95   722.76    4.48  Aquarius             86_Aqr
+star    131.20   570.48    4.49  Aquarius             ω^2_Aqr
+star    770.02   520.22    4.50  Aquarius             ν_Aqr
+star    377.61   636.60    4.68  Aquarius             66_Aqr
+star    657.95   451.48    4.68  Aquarius             ξ_Aqr
+star    178.10   678.56    4.70  Aquarius             101_Aqr
+star    272.83   701.17    4.71  Aquarius             89_Aqr
+star    839.66   484.53    4.73  Aquarius             μ_Aqr
+star    550.78   348.45    4.74  Aquarius             ο_Aqr
+star    455.45   286.25    4.80  Aquarius             π_Aqr
+star    139.65   627.03    4.82  Aquarius             104_Aqr
+star    431.72   494.54    4.82  Aquarius             σ_Aqr
+star    233.12   446.39    4.93  Aquarius             χ_Aqr
+star    142.70   564.15    4.97  Aquarius             ω^1_Aqr
+star    225.10   479.56    4.99  Aquarius             ψ^3_Aqr
+star    401.06   382.31    5.04  Aquarius             κ_Aqr
+star    652.45   277.24    5.10  Aquarius             25_Aqr
+star    467.44   684.55    5.12  Aquarius             47_Aqr
+star    896.30   326.42    5.15  Aquarius             1_Aqr
+star    103.70   648.38    5.17  Aquarius             108_Aqr
+star    227.05   546.61    5.19  Aquarius             94_Aqr_B
+star    213.72   574.82    5.19  Aquarius             97_Aqr
+star    414.33   668.91    5.21  Aquarius             υ_Aqr
+star    130.70   635.59    5.24  Aquarius             106_Aqr
+star    361.50   650.30    5.24  Aquarius             68_Aqr
+star    133.43   586.12    5.27  Aquarius             258_G.
+star    124.22   642.99    5.28  Aquarius             107_Aqr
+star    544.47   326.81    5.29  Aquarius             32_Aqr
+star    497.24   675.99    5.33  Aquarius             41_Aqr
+star    490.41   532.71    5.34  Aquarius             42_Aqr
+star    477.00   445.11    5.35  Aquarius             ρ_Aqr
+star    140.72   630.62    5.36  Aquarius             103_Aqr
+star    517.06   511.10    5.43  Aquarius             38_Aqr
+star    283.01   444.22    5.44  Aquarius             83_Aqr
+star    709.50   542.23    5.48  Aquarius             18_Aqr
+star    712.02   379.95    5.48  Aquarius             21_Aqr
+star    822.24   495.38    5.49  Aquarius             7_Aqr
+line  Aquarius             88_Aqr  ψ^1_Aqr
+line  Aquarius             98_Aqr  ψ^1_Aqr
+line  Aquarius             α_Aqr  β_Aqr
+line  Aquarius             α_Aqr  γ_Aqr
+line  Aquarius             α_Aqr  θ_Aqr
+line  Aquarius             α_Aqr  π_Aqr
+line  Aquarius             β_Aqr  ι_Aqr
+line  Aquarius             β_Aqr  μ_Aqr
+line  Aquarius             γ_Aqr  ζ^1_Aqr
+line  Aquarius             δ_Aqr  τ^2_Aqr
+line  Aquarius             δ_Aqr  ψ^1_Aqr
+line  Aquarius             ε_Aqr  μ_Aqr
+line  Aquarius             ζ^1_Aqr  η_Aqr
+line  Aquarius             ζ^1_Aqr  π_Aqr
+line  Aquarius             θ_Aqr  λ_Aqr
+line  Aquarius             λ_Aqr  τ^2_Aqr
+line  Aquarius             λ_Aqr  φ_Aqr
+line  Aquarius             φ_Aqr  ψ^1_Aqr

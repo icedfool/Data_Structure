@@ -1,0 +1,40 @@
+star    719.04   823.18    2.79  Hydrus               β_Hyi
+star    559.55   197.93    2.86  Hydrus               α_Hyi
+star    273.33   716.28    3.26  Hydrus               γ_Hyi
+star    471.00   460.33    4.08  Hydrus               δ_Hyi
+star    409.09   451.22    4.12  Hydrus               ε_Hyi
+star    563.90   423.05    4.68  Hydrus               η^2_Hyi
+star    415.17   705.98    4.76  Hydrus               ν_Hyi
+star    385.23   430.16    4.83  Hydrus               ζ_Hyi
+star    704.71   724.22    5.09  Hydrus               λ_Hyi
+star    474.24   848.96    5.27  Hydrus               μ_Hyi
+star    361.56   596.67    5.51  Hydrus               θ_Hyi
+star    379.95   802.20    5.51  Hydrus               ι_Hyi
+star    495.76   429.00    5.57  Hydrus               π^1_Hyi
+star    491.34   425.57    5.67  Hydrus               π^2_Hyi
+star    411.14   855.16    5.70  Hydrus               BN_Hyi
+star    637.45   175.30    5.70  Hydrus               HD_10615
+star    689.84   316.12    5.92  Hydrus               HD_8810
+star    723.90   832.50    5.96  Hydrus               HD_1801
+star    267.28   523.71    5.96  Hydrus               HD_21722
+star    477.76   645.75    5.99  Hydrus               κ_Hyi
+star    679.44    83.33    6.03  Hydrus               HD_9896
+star    547.65   887.86    6.05  Hydrus               τ^2_Hyi
+star    574.12   172.63    6.07  Hydrus               HD_11995
+star    549.33   363.61    6.09  Hydrus               HD_12477
+star    579.31   829.60    6.11  Hydrus               HD_10042
+star    322.50   505.06    6.12  Hydrus               HD_19940
+star    275.36   532.34    6.14  Hydrus               HD_21563
+star    538.75   819.74    6.15  Hydrus               σ_Hyi
+star    671.56    87.06    6.18  Hydrus               HD_10052
+star    240.11   626.03    6.26  Hydrus               CT_Hyi
+star    562.33   851.32    6.33  Hydrus               τ^1_Hyi
+star    557.16   340.14    6.36  Hydrus               HD_12270
+star    577.20   152.69    6.43  Hydrus               HD_11944
+star    759.89   787.52    6.49  Hydrus               HD_1221
+star    691.54   916.67    6.59  Hydrus               GJ_3021
+star    404.99   563.30    6.66  Hydrus               CN_Hyi
+star    571.48   434.59    6.77  Hydrus               η^1_Hyi
+line  Hydrus               α_Hyi  β_Hyi
+line  Hydrus               α_Hyi  γ_Hyi
+line  Hydrus               β_Hyi  γ_Hyi

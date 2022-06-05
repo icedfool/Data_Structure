@@ -1,0 +1,117 @@
+star    689.59   691.43    2.07  Andromeda            α_And
+star    418.75   555.64    2.07  Andromeda            β_And
+star    227.86   379.61    2.10  Andromeda            γ^1_And
+star    547.92   660.84    3.27  Andromeda            δ_And
+star    347.92   270.73    3.59  Andromeda            51_And
+star    916.67   369.66    3.62  Andromeda            ο_And
+star    770.40   315.23    3.81  Andromeda            λ_And
+star    476.87   499.52    3.86  Andromeda            μ_And
+star    509.12   794.43    4.08  Andromeda            ζ_And
+star    324.63   420.67    4.10  Andromeda            υ_And
+star    768.33   360.94    4.15  Andromeda            κ_And
+star    441.91   312.77    4.26  Andromeda            φ_And
+star    780.60   381.55    4.29  Andromeda            ι_And
+star    551.34   692.72    4.34  Andromeda            ε_And
+star    558.82   601.61    4.34  Andromeda            π_And
+star    461.31   809.41    4.40  Andromeda            η_And
+star    636.68   535.24    4.51  Andromeda            σ_And
+star    839.69   236.74    4.53  Andromeda            7_And
+star    507.16   446.62    4.53  Andromeda            ν_And
+star    639.65   495.24    4.61  Andromeda            θ_And
+star    862.04   216.56    4.64  Andromeda            3_And
+star    205.58   198.61    4.73  Andromeda            65_And
+star    188.02   465.95    4.78  Andromeda            58_And
+star    825.19   248.85    4.82  Andromeda            8_And
+star    372.15   343.16    4.83  Andromeda            ω_And
+star    205.50   331.84    4.84  Andromeda            60_And
+star    391.69   343.30    4.87  Andromeda            ξ_And
+star    310.38   392.24    4.96  Andromeda            41_H._And
+star    307.15   435.21    4.96  Andromeda            τ_And
+star    740.76   321.02    4.97  Andromeda            ψ_And
+star    654.73   338.45    5.01  Andromeda            22_And
+star    326.21   357.29    5.01  Andromeda            χ_And
+star    440.69   382.22    5.04  Andromeda            41_And
+star    911.75   361.65    5.09  Andromeda            2_And
+star    558.59   375.75    5.14  Andromeda            V428_And
+star    623.85   511.09    5.16  Andromeda            ρ_And
+star    590.70   377.22    5.18  Andromeda            HD_2421
+star    207.24   205.19    5.19  Andromeda            64_And
+star    589.85   683.30    5.20  Andromeda            GN_And
+star    821.85   459.96    5.22  Andromeda            14_And
+star    368.81   308.67    5.27  Andromeda            49_And
+star    541.29   481.45    5.30  Andromeda            32_And
+star    873.29   293.29    5.30  Andromeda            4_And
+star    205.07   262.47    5.31  Andromeda            62_And
+star    247.26   194.59    5.31  Andromeda            6_Per
+star    748.87   233.75    5.35  Andromeda            18_And
+star    259.36   421.99    5.42  Andromeda            55_And
+star    821.57   258.13    5.44  Andromeda            11_And
+star    472.21   805.78    5.46  Andromeda            36_And
+star    805.13   441.83    5.55  Andromeda            V340_And
+star    218.70   205.77    5.57  Andromeda            PZ_And
+star    365.22   505.41    5.60  Andromeda            47_And
+star    428.29   420.38    5.67  Andromeda            44_And
+star    855.58   234.86    5.68  Andromeda            5_And
+star    233.17   490.73    5.69  Andromeda            56_And
+star    471.69   368.35    5.69  Andromeda            HD_5788
+star    650.89   444.92    5.71  Andromeda            23_And
+star     83.33   443.67    5.72  Andromeda            HD_16028
+star    822.62   380.94    5.75  Andromeda            V388_And
+star    866.71   472.83    5.77  Andromeda            12_And
+star    416.47   511.20    5.80  Andromeda            45_And
+star    853.03   392.06    5.81  Andromeda            10_And
+star    154.76   378.39    5.81  Andromeda            HD_14622
+star    778.42   357.13    5.81  Andromeda            HD_222109
+star    721.55   592.12    5.81  Andromeda            HD_224635
+star    756.86   530.82    5.86  Andromeda            OU_And
+star    582.71   604.22    5.88  Andromeda            HD_2767
+star    633.18   657.31    5.89  Andromeda            HD_1606
+star    320.73   508.78    5.90  Andromeda            KK_And
+star    879.61   353.53    5.91  Andromeda            6_And
+star    455.85   438.24    5.95  Andromeda            39_And
+star    859.94   396.98    5.98  Andromeda            AN_And
+star    465.77   594.16    5.99  Andromeda            HD_5608
+star    536.67   787.71    6.06  Andromeda            HD_3883
+star    697.78   692.12    6.07  Andromeda            V439_And
+star    734.03   313.29    6.08  Andromeda            HD_223229
+star    184.96   439.41    6.09  Andromeda            59_And_A
+star    627.14   388.37    6.10  Andromeda            26_And
+star    683.80   419.83    6.11  Andromeda            HD_225218
+star    636.27   391.95    6.12  Andromeda            HD_1185
+star    508.27   364.12    6.13  Andromeda            GO_And
+star    201.07   190.59    6.16  Andromeda            66_And
+star    812.52   487.68    6.18  Andromeda            HD_221776
+star    784.16   255.51    6.19  Andromeda            HD_221246
+star    353.46   269.71    6.20  Andromeda            OP_And
+star    668.94   736.08    6.24  Andromeda            HD_895
+star    840.18   351.05    6.25  Andromeda            HD_220105
+star    577.88   713.68    6.26  Andromeda            HD_2942
+star    347.04   569.02    6.34  Andromeda            HD_8673
+star    691.36   352.23    6.36  Andromeda            CG_And
+star     99.10   397.20    6.36  Andromeda            HD_16004
+star    903.65   335.52    6.37  Andromeda            LN_And
+star    839.32   405.25    6.37  Andromeda            V385_And
+star    333.12   336.89    6.38  Andromeda            GY_And
+star    359.58   432.82    6.42  Andromeda            V529_And
+star    759.29   348.44    6.43  Andromeda            HD_222641
+star    384.46   514.82    6.44  Andromeda            HD_7853
+star    465.08   311.88    6.46  Andromeda            HD_6114
+star    843.19   320.65    6.48  Andromeda            ET_And
+star    792.65   499.17    6.49  Andromeda            HD_222399
+star    561.68   734.74    6.50  Andromeda            PY_And
+line  Andromeda            51_And  φ_And
+line  Andromeda            α_And  δ_And
+line  Andromeda            β_And  γ^1_And
+line  Andromeda            β_And  δ_And
+line  Andromeda            β_And  μ_And
+line  Andromeda            β_And  π_And
+line  Andromeda            δ_And  ε_And
+line  Andromeda            δ_And  π_And
+line  Andromeda            ε_And  ζ_And
+line  Andromeda            ζ_And  η_And
+line  Andromeda            ι_And  κ_And
+line  Andromeda            ι_And  ο_And
+line  Andromeda            ι_And  π_And
+line  Andromeda            κ_And  λ_And
+line  Andromeda            μ_And  ν_And
+line  Andromeda            ν_And  φ_And

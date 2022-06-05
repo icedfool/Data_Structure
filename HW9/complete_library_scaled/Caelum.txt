@@ -1,0 +1,23 @@
+star    550.65   663.91    4.44  Caelum               α_Cae
+star    317.09   354.51    4.55  Caelum               γ^1_Cae
+star    539.69   431.80    5.04  Caelum               β_Cae
+star    632.57   817.92    5.07  Caelum               δ_Cae
+star    531.32   119.61    5.66  Caelum               HD_30080
+star    446.01   322.06    5.82  Caelum               HD_31093
+star    330.21   172.19    5.92  Caelum               HD_32515
+star    353.81   561.11    6.02  Caelum               HD_32453
+star    501.70   540.28    6.04  Caelum               HD_30432
+star    461.49   637.05    6.06  Caelum               ν_Cae
+star    659.10   916.67    6.10  Caelum               HD_28454
+star    416.61   554.63    6.11  Caelum               HD_31529
+star    641.54   894.72    6.13  Caelum               HD_28700
+star    521.88   624.34    6.24  Caelum               λ_Cae
+star    336.90   661.63    6.30  Caelum               HD_32820
+star    317.29   365.42    6.32  Caelum               X_Cae
+star    481.87    83.33    6.35  Caelum               ζ_Cae
+star    682.91   781.59    6.38  Caelum               HD_28246
+star    580.30   664.98    6.40  Caelum               HD_29559
+star    663.79   672.38    6.41  Caelum               RV_Cae
+line  Caelum               α_Cae  β_Cae
+line  Caelum               α_Cae  δ_Cae
+line  Caelum               β_Cae  γ^1_Cae

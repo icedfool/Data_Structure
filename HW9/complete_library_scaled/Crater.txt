@@ -1,0 +1,42 @@
+star    560.70   444.84    3.56  Crater               δ_Crt
+star    497.29   582.71    4.06  Crater               γ_Crt
+star    779.92   615.65    4.08  Crater               α_Crt
+star    642.46   826.98    4.46  Crater               β_Crt
+star    358.79   209.93    4.70  Crater               θ_Crt
+star    273.58   617.29    4.71  Crater               ζ_Crt
+star    500.03   258.77    4.81  Crater               ε_Crt
+star    514.41   634.70    5.08  Crater               λ_Crt
+star    145.16   564.36    5.17  Crater               η_Crt
+star    337.73   371.38    5.48  Crater               ι_Crt
+star    748.51   282.62    5.51  Crater               HD_95808
+star    848.92   402.04    5.65  Crater               HD_94481
+star    446.46   903.36    5.77  Crater               HD_99922
+star    780.95   415.38    5.86  Crater               HD_95314
+star    785.76   523.40    5.88  Crater               HD_95234
+star    470.51   329.81    5.93  Crater               κ_Crt
+star    403.69   116.19    5.94  Crater               HD_100343
+star    401.86   516.65    6.05  Crater               HD_100418
+star    721.77   271.85    6.09  Crater               HD_96220
+star    589.94    83.33    6.11  Crater               HD_98088
+star    636.70   622.23    6.11  Crater               ψ_Crt
+star    207.17   501.02    6.13  Crater               HD_102845
+star    327.15   533.93    6.17  Crater               VX_Crt
+star    325.06   431.74    6.21  Crater               HD_101369
+star    306.41   708.68    6.21  Crater               HD_101695
+star    420.83   729.73    6.24  Crater               HD_100219
+star    222.68   237.11    6.24  Crater               HD_102574
+star    190.25   326.96    6.34  Crater               HD_102990
+star    854.84   482.45    6.34  Crater               HD_94386
+star    742.44   383.60    6.34  Crater               HD_95870
+star    770.17   496.30    6.35  Crater               HD_95441
+star    633.32   776.07    6.39  Crater               HD_97428
+star    345.71   916.67    6.40  Crater               HD_101259
+star    603.79   341.34    6.58  Crater               SY_Crt
+line  Crater               α_Crt  β_Crt
+line  Crater               α_Crt  δ_Crt
+line  Crater               β_Crt  γ_Crt
+line  Crater               γ_Crt  δ_Crt
+line  Crater               γ_Crt  ζ_Crt
+line  Crater               δ_Crt  ε_Crt
+line  Crater               ε_Crt  θ_Crt
+line  Crater               ζ_Crt  η_Crt

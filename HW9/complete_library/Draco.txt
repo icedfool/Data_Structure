@@ -1,0 +1,110 @@
+star    367.56   848.38    2.24  Draco                γ_Dra
+star    580.71   670.51    2.73  Draco                η_Dra
+star    438.73   841.12    2.79  Draco                β_Dra
+star    285.01   537.18    3.07  Draco                δ_Dra
+star    485.00   611.13    3.17  Draco                ζ_Dra
+star    713.33   667.08    3.29  Draco                ι_Dra
+star    385.72   480.14    3.55  Draco                χ_Dra
+star    789.71   493.81    3.67  Draco                Thuban
+star    386.31   759.55    3.73  Draco                ξ_Dra
+star    814.11   232.01    3.82  Draco                λ_Dra
+star    260.32   470.15    3.84  Draco                ε_Dra
+star    790.23   316.69    3.85  Draco                κ_Dra
+star    639.87   706.03    4.01  Draco                θ_Dra
+star    380.19   503.85    4.22  Draco                φ_Dra
+star    596.75   137.36    4.28  Draco                HD_81817
+star    325.17   446.22    4.45  Draco                τ_Dra
+star    218.21   490.76    4.51  Draco                ρ_Dra
+star    434.70   498.42    4.57  Draco                ψ^1_Dra_A
+star    800.75   471.99    4.58  Draco                CU_Dra
+star    257.75   561.24    4.60  Draco                π_Dra
+star    268.05   685.63    4.63  Draco                ο_Dra
+star    274.19   491.59    4.67  Draco                σ_Dra
+star    296.38   737.45    4.77  Draco                45_Dra
+star    437.69   557.97    4.77  Draco                ω_Dra
+star    347.30   599.36    4.82  Draco                42_Dra
+star    335.54   490.28    4.82  Draco                υ_Dra
+star    537.80   624.94    4.84  Draco                18_Dra
+star    548.61   759.42    4.84  Draco                HD_151613
+star    703.09   159.70    4.86  Draco                HD_91190
+star    435.67   792.72    4.86  Draco                ν^2_Dra
+star    508.85   619.35    4.88  Draco                19_Dra
+star    435.90   792.54    4.89  Draco                ν^1_Dra
+star    503.45   803.71    4.91  Draco                μ_Dra_A
+star    215.77   821.56    4.92  Draco                HD_175535
+star    545.88   549.17    4.94  Draco                15_Dra
+star    786.01   316.76    4.95  Draco                6_Dra
+star    668.57   764.43    4.96  Draco                CL_Dra
+star    323.03   713.80    4.98  Draco                39_Dra
+star    364.29   624.34    4.99  Draco                36_Dra
+star    210.62   691.66    5.00  Draco                54_Dra
+star    800.93   316.05    5.01  Draco                CQ_Dra
+star    386.71   862.64    5.02  Draco                30_Dra
+star    434.41   414.36    5.02  Draco                35_Dra
+star    266.26   754.55    5.03  Draco                46_Dra
+star    580.84   819.93    5.07  Draco                17_Dra
+star    445.12   569.23    5.07  Draco                27_Dra
+star    356.61   399.45    5.11  Draco                59_Dra
+star    209.52   707.07    5.13  Draco                53_Dra
+star    270.37   372.20    5.18  Draco                AF_Dra
+star    813.87   238.71    5.19  Draco                2_Dra
+star    188.60   534.65    5.22  Draco                64_Dra
+star    434.58   677.71    5.23  Draco                26_Dra
+star    842.96   381.97    5.23  Draco                8_Dra
+star    854.68   257.38    5.32  Draco                3_Dra
+star    370.85   426.57    5.37  Draco                50_Dra
+star    822.87   378.80    5.37  Draco                9_Dra
+star    353.11   295.55    5.38  Draco                75_Dra
+star    197.07   816.97    5.39  Draco                LV_Dra
+star    202.39   767.77    5.40  Draco                51_Dra
+star    153.97   569.04    5.40  Draco                66_Dra
+star    828.34   358.84    5.43  Draco                7_Dra
+star    416.76   498.99    5.43  Draco                ψ^2_Dra
+star    225.70   736.73    5.51  Draco                49_Dra
+star    581.00   820.31    5.53  Draco                16_Dra
+star    208.69   459.67    5.59  Draco                AC_Dra
+star    247.27   706.24    5.67  Draco                48_Dra
+star    145.60   560.22    5.70  Draco                68_Dra
+star    135.62   547.31    5.71  Draco                DE_Dra
+star    791.09   289.45    5.72  Draco                HD_106574
+star    432.62   361.22    5.74  Draco                41_Dra
+star    603.11   776.00    5.75  Draco                DQ_Dra
+star    361.62   276.58    5.76  Draco                76_Dra
+star    404.67   813.83    5.76  Draco                HD_161693
+star    243.75   791.91    5.91  Draco                CX_Dra
+star    188.88   489.12    5.91  Draco                HD_193664
+star    377.83   549.57    5.96  Draco                37_Dra
+star    348.39   298.98    5.96  Draco                74_Dra
+star    725.69   755.76    5.97  Draco                HD_139357
+star    864.38   407.96    6.01  Draco                HD_113337
+star    313.00   374.43    6.20  Draco                69_Dra
+star    345.51   393.86    6.22  Draco                UX_Dra
+star    770.28   583.94    6.24  Draco                DL_Dra
+star    436.52   391.23    6.25  Draco                HD_164428
+star    276.88   565.76    6.26  Draco                55_Dra
+star    797.26   584.54    6.26  Draco                ER_Dra
+star    185.48   536.29    6.27  Draco                65_Dra
+star    753.08   277.12    6.29  Draco                DK_Dra
+star    473.04   699.13    6.32  Draco                VW_Dra
+star    244.36   497.85    6.34  Draco                CN_Dra
+star    508.29   621.08    6.40  Draco                20_Dra
+star    448.67   463.05    6.61  Draco                29_Dra
+star    834.16   378.74    6.63  Draco                RY_Dra
+star    597.84   534.45    6.75  Draco                HD_143105
+star    375.17   549.23    6.79  Draco                38_Dra
+star    664.02   198.20    6.88  Draco                HD_97619
+line  Draco                Thuban  ι_Dra
+line  Draco                Thuban  κ_Dra
+line  Draco                β_Dra  γ_Dra
+line  Draco                β_Dra  ν^2_Dra
+line  Draco                γ_Dra  ξ_Dra
+line  Draco                δ_Dra  ε_Dra
+line  Draco                δ_Dra  ξ_Dra
+line  Draco                δ_Dra  φ_Dra
+line  Draco                ζ_Dra  η_Dra
+line  Draco                ζ_Dra  φ_Dra
+line  Draco                η_Dra  θ_Dra
+line  Draco                θ_Dra  ι_Dra
+line  Draco                κ_Dra  λ_Dra
+line  Draco                ν^2_Dra  ξ_Dra
+line  Draco                φ_Dra  χ_Dra

@@ -1,0 +1,32 @@
+star    652.67   484.03    4.05  Chamaeleon           α_Cha
+star    526.29   466.71    4.11  Chamaeleon           γ_Cha
+star    444.00   491.87    4.24  Chamaeleon           β_Cha
+star    645.16   490.66    4.34  Chamaeleon           θ_Cha
+star    516.74   500.05    4.45  Chamaeleon           δ^2_Cha
+star    452.71   468.66    4.88  Chamaeleon           ε_Cha
+star    439.10   441.85    5.04  Chamaeleon           κ_Cha
+star    565.02   515.58    5.07  Chamaeleon           ζ_Cha
+star    572.26   515.36    5.34  Chamaeleon           ι_Cha
+star    576.54   443.09    5.43  Chamaeleon           ν_Cha
+star    517.13   498.83    5.46  Chamaeleon           δ^1_Cha
+star    615.63   501.62    5.46  Chamaeleon           η_Cha
+star    542.56   532.36    5.53  Chamaeleon           μ¹_Cha
+star    463.95   424.03    5.64  Chamaeleon           π_Cha
+star    607.39   537.08    5.67  Chamaeleon           HD_72922
+star    607.57   507.76    5.79  Chamaeleon           HD_76236
+star    520.04   486.93    5.97  Chamaeleon           DR_Cha
+star    613.34   502.39    6.05  Chamaeleon           RS_Cha
+star    609.27   452.91    6.13  Chamaeleon           HD_80194
+star    528.90   426.71    6.29  Chamaeleon           HD_92209
+star    347.33   478.42    6.32  Chamaeleon           DY_Cha
+star    491.44   486.14    6.35  Chamaeleon           HD_98617
+star    511.79   482.91    6.36  Chamaeleon           HD_94717
+star    483.98   450.86    6.43  Chamaeleon           HD_99015
+star    557.66   497.33    6.47  Chamaeleon           HD_86320
+star    542.85   520.85    6.60  Chamaeleon           μ^2_Cha
+star    452.17   468.30    6.70  Chamaeleon           104237
+line  Chamaeleon           α_Cha  γ_Cha
+line  Chamaeleon           β_Cha  δ^2_Cha
+line  Chamaeleon           β_Cha  ε_Cha
+line  Chamaeleon           γ_Cha  δ^2_Cha
+line  Chamaeleon           γ_Cha  ε_Cha

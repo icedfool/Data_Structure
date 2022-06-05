@@ -1,0 +1,26 @@
+star    444.40   450.92    5.08  Mensa                α_Men
+star    489.61   472.25    5.18  Mensa                γ_Men
+star    524.91   384.84    5.30  Mensa                β_Men
+star    427.62   542.11    5.45  Mensa                θ_Men
+star    478.20   526.35    5.46  Mensa                κ_Men
+star    529.64   448.42    5.47  Mensa                η_Men
+star    553.16   381.08    5.53  Mensa                μ_Men
+star    404.20   548.09    5.54  Mensa                ε_Men
+star    448.31   559.88    5.61  Mensa                ζ_Men
+star    490.37   544.44    5.65  Mensa                π_Men
+star    548.19   544.82    5.67  Mensa                δ_Men
+star    595.80   527.97    5.68  Mensa                HD_22676
+star    540.34   567.39    5.78  Mensa                ν_Men
+star    483.29   427.24    5.79  Mensa                WX_Men
+star    515.26   579.02    5.84  Mensa                ξ_Men
+star    489.20   515.65    6.04  Mensa                ι_Men
+star    540.79   497.68    6.05  Mensa                HD_30479
+star    499.63   618.92    6.18  Mensa                TZ_Men
+star    518.75   414.50    6.26  Mensa                HD_33875
+star    536.42   404.84    6.28  Mensa                HD_31975
+star    590.84   525.06    6.29  Mensa                HD_23474
+star    519.75   506.48    6.29  Mensa                HD_33519
+star    506.90   423.77    6.49  Mensa                HD_35184
+star    465.11   410.94    6.54  Mensa                λ_Men
+star    480.44   426.73    6.70  Mensa                HD_38283
+line  Mensa                α_Men  γ_Men

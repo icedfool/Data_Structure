@@ -1,0 +1,5 @@
+compute_diff LINE input_hello_world.cpp input_hello_world_revised.cpp output_hello_world_line.diff
+render_diff LINE input_hello_world.cpp output_hello_world_line.diff output_hello_world_line.html
+
+compute_diff LINE input_hello_world.cpp input_hello_goodbye_world.cpp output_hello_goodbye_line.diff
+render_diff LINE input_hello_world.cpp output_hello_goodbye_line.diff output_hello_goodbye_line.html

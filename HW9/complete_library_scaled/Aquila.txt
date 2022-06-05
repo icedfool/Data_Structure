@@ -1,0 +1,121 @@
+star    433.62   327.12    0.76  Aquila               Altair
+star    466.34   276.82    2.72  Aquila               γ_Aql
+star    754.47   182.85    2.99  Aquila               ζ_Aql
+star    284.19   607.54    3.24  Aquila               θ_Aql
+star    615.95   494.01    3.36  Aquila               δ_Aql
+star    754.42   725.05    3.43  Aquila               λ_Aql
+star    400.40   398.23    3.71  Aquila               β_Aql
+star    420.21   555.24    3.87  Aquila               η_Aql
+star    786.77   749.45    4.02  Aquila               12_Aql
+star    793.36   148.24    4.02  Aquila               ε_Aql
+star     92.08   613.72    4.31  Aquila               71_Aql
+star    534.56   621.93    4.36  Aquila               ι_Aql
+star    553.48   370.31    4.45  Aquila               μ_Aql
+star    608.66   574.68    4.64  Aquila               ν_Aql
+star    408.63   338.77    4.72  Aquila               ξ_Aql
+star    153.70   666.06    4.91  Aquila               69_Aql
+star    103.72   655.72    4.91  Aquila               70_Aql
+star    533.28   787.44    4.93  Aquila               κ_Aql
+star    651.40   740.96    4.98  Aquila               26_Aql
+star    907.92   522.53    5.02  Aquila               4_Aql
+star    578.50   665.39    5.03  Aquila               36_Aql
+star    745.86   262.94    5.07  Aquila               18_Aql
+star    666.46   552.81    5.10  Aquila               23_Aql
+star    545.87   887.96    5.12  Aquila               37_Aql
+star    432.28   282.41    5.12  Aquila               ο_Aql
+star    701.28   517.53    5.14  Aquila               21_Aql
+star    617.94   238.52    5.17  Aquila               31_Aql
+star    516.64   427.80    5.18  Aquila               σ_Aql
+star    734.27   407.53    5.23  Aquila               19_Aql
+star    798.76   189.39    5.27  Aquila               11_Aql
+star    395.58   253.28    5.28  Aquila               φ_Aql
+star    492.84   241.96    5.28  Aquila               χ_Aql_A
+star    668.79   248.31    5.28  Aquila               ω^1_Aql
+star    200.61   427.73    5.30  Aquila               132_G.
+star    799.70    83.33    5.33  Aquila               FF_Aql
+star    707.15   813.01    5.35  Aquila               20_Aql
+star    434.14   893.56    5.38  Aquila               51_Aql
+star    778.74   690.75    5.40  Aquila               14_Aql
+star    763.92   700.46    5.40  Aquila               15_Aql
+star    270.37   612.88    5.44  Aquila               66_Aql
+star    526.81   719.08    5.45  Aquila               42_Aql
+star    651.60   610.26    5.46  Aquila               27_Aql
+star    337.33   372.70    5.51  Aquila               τ_Aql
+star    655.37   226.00    5.53  Aquila               28_Aql
+star    830.60   391.04    5.58  Aquila               62_Ser
+star    680.59   443.79    5.59  Aquila               22_Aql
+star    403.71   576.44    5.60  Aquila               58_Aql
+star    414.27   674.65    5.63  Aquila               V1291
+star    505.49   602.63    5.64  Aquila               45_Aql
+star    334.01   604.61    5.67  Aquila               62_Aql
+star    405.84   821.49    5.70  Aquila               57_Aql_A
+star    449.24   242.21    5.70  Aquila               π_Aql_B
+star    347.66   121.54    5.73  Aquila               14_Sge
+star    409.45   831.39    5.76  Aquila               56_Aql
+star    590.49   527.90    5.79  Aquila               35_Aql
+star    638.83   591.75    5.81  Aquila               42_G.
+star    774.62   530.85    5.82  Aquila               13_G.
+star    595.30   499.43    5.84  Aquila               49_G.
+star    369.60   870.51    5.87  Aquila               100_G.
+star    896.48   610.40    5.89  Aquila               5_Aql
+star    470.10   363.49    5.89  Aquila               υ_Aql
+star    360.45   335.77    5.90  Aquila               103_G.
+star    800.61   181.26    5.91  Aquila               10_Aql
+star    307.75   603.55    5.97  Aquila               64_Aql
+star    503.52   185.03    5.98  Aquila               QS_Aql
+star    446.59   896.62    6.00  Aquila               80_G.
+star    654.15   250.11    6.03  Aquila               ω^2_Aql
+star    223.90   614.48    6.05  Aquila               131_G.
+star    861.22   678.99    6.08  Aquila               8_Aql
+star    752.03   344.90    6.09  Aquila               R_Aql
+star    579.28   484.51    6.09  Aquila               V923_Aql
+star    181.59   663.91    6.10  Aquila               137_G.
+star    421.41   338.33    6.10  Aquila               V500_Aql
+star    162.60   679.81    6.12  Aquila               68_Aql
+star    429.62   655.79    6.12  Aquila               85_G.
+star    188.95   551.82    6.14  Aquila               194244
+star    425.32   247.49    6.16  Aquila               187923
+star    370.23   544.23    6.17  Aquila               101_G.
+star    671.74   525.28    6.19  Aquila               34_G.
+star    825.91   635.43    6.20  Aquila               6_G._Aql
+star     99.24   578.95    6.21  Aquila               145_G.
+star    809.94   402.11    6.22  Aquila               7_G._Aql
+star    874.19   558.48    6.24  Aquila               4_G._Aql
+star    780.48   340.54    6.25  Aquila               12_G.
+star    588.46   577.41    6.25  Aquila               52_G.
+star    430.12   305.08    6.25  Aquila               88_G.
+star    478.88   199.65    6.25  Aquila               ψ_Aql
+star    662.12   305.28    6.31  Aquila               37_G.
+star    632.76   797.94    6.31  Aquila               43_G.
+star    496.26   849.21    6.31  Aquila               71_G.
+star    543.32   799.81    6.32  Aquila               60_G.
+star    495.40   231.44    6.33  Aquila               46_Aql
+star    729.22   596.41    6.34  Aquila               25_G.
+star    633.97   296.89    6.34  Aquila               44_G.
+star    555.89   425.81    6.35  Aquila               V450_Aql
+star    519.35   486.37    6.36  Aquila               67_G.
+star    544.00   499.97    6.37  Aquila               61_G.
+star    333.69   136.51    6.37  Aquila               Aql
+star    587.60   787.86    6.37  Aquila               U_Aql
+star    664.26   574.49    6.40  Aquila               24_Aql
+star    188.48   543.10    6.41  Aquila               136_G.
+star    477.27   331.28    6.43  Aquila               75_G.
+star    321.41   702.01    6.47  Aquila               110_G.
+star    271.46   593.21    6.47  Aquila               122_G.
+star    134.48   520.27    6.47  Aquila               142_G.
+star    468.17   668.11    6.47  Aquila               77_G.
+star    427.88   465.68    6.47  Aquila               87_G.
+star    619.16   725.78    6.50  Aquila               V1691
+star    767.34   748.04    6.78  Aquila               V_Aql
+line  Aquila               12_Aql  λ_Aql
+line  Aquila               Altair  β_Aql
+line  Aquila               Altair  γ_Aql
+line  Aquila               γ_Aql  δ_Aql
+line  Aquila               δ_Aql  ζ_Aql
+line  Aquila               δ_Aql  η_Aql
+line  Aquila               δ_Aql  λ_Aql
+line  Aquila               ε_Aql  ζ_Aql
+line  Aquila               ζ_Aql  λ_Aql
+line  Aquila               η_Aql  θ_Aql
+line  Aquila               θ_Aql  ι_Aql
+line  Aquila               ι_Aql  λ_Aql

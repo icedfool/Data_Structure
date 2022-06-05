@@ -1,0 +1,29 @@
+star    483.61   448.69    3.00  Triangulum           β_Tri
+star    546.79   541.30    3.42  Triangulum           α_Tri
+star    455.63   468.57    4.03  Triangulum           γ_Tri
+star    456.68   461.99    4.84  Triangulum           δ_Tri
+star    473.66   530.48    4.94  Triangulum           ι_Tri
+star    404.00   427.08    5.15  Triangulum           14_Tri
+star    460.55   477.13    5.25  Triangulum           7_Tri
+star    448.53   559.28    5.29  Triangulum           10_Tri
+star    413.84   540.55    5.29  Triangulum           12_Tri
+star    389.65   451.85    5.38  Triangulum           15_Tri
+star    384.71   458.98    5.40  Triangulum           R_Tri
+star    507.85   478.01    5.50  Triangulum           ε_Tri
+star    417.68   503.47    5.55  Triangulum           11_Tri
+star    581.16   440.19    5.63  Triangulum           HD_10390
+star    560.35   486.25    5.78  Triangulum           HD_11007
+star    530.21   572.92    5.84  Triangulum           HD_11928
+star    399.89   454.89    5.84  Triangulum           HD_15755
+star    411.56   535.89    5.89  Triangulum           13_Tri
+star    589.31   530.54    5.97  Triangulum           HD_10348
+star    383.30   505.33    6.07  Triangulum           HD_16187
+star    383.09   482.89    6.23  Triangulum           HD_16220
+star    477.17   509.13    6.24  Triangulum           5_Tri
+star    408.70   467.64    6.26  Triangulum           HD_15464
+star    578.67   493.79    6.32  Triangulum           HD_10588
+star    465.07   558.57    6.35  Triangulum           HD_13747
+star    616.91   444.95    6.39  Triangulum           HD_9298
+line  Triangulum           α_Tri  β_Tri
+line  Triangulum           α_Tri  γ_Tri
+line  Triangulum           β_Tri  γ_Tri

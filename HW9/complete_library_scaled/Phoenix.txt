@@ -1,0 +1,81 @@
+star    660.33   331.47    2.40  Phoenix              α_Phe
+star    470.05   442.74    3.32  Phoenix              β_Phe
+star    360.19   360.66    3.41  Phoenix              γ_Phe
+star    729.40   431.18    3.88  Phoenix              ε_Phe
+star    363.95   513.40    3.93  Phoenix              δ_Phe
+star    657.65   367.64    3.93  Phoenix              κ_Phe
+star    470.15   667.94    3.94  Phoenix              ζ_Phe
+star    562.10   725.47    4.36  Phoenix              η_Phe
+star    255.22   456.20    4.39  Phoenix              ψ_Phe
+star    582.99   426.33    4.59  Phoenix              μ_Phe
+star    901.58   382.30    4.69  Phoenix              ι_Phe
+star    871.45   452.82    4.74  Phoenix              HD_222095
+star    622.97   500.72    4.76  Phoenix              λ^1_Phe
+star    426.89   413.54    4.97  Phoenix              ν_Phe
+star    233.88   358.01    5.12  Phoenix              φ_Phe
+star    742.87   620.93    5.13  Phoenix              π_Phe
+star    211.11   422.47    5.15  Phoenix              χ_Phe
+star    803.01   565.19    5.18  Phoenix              σ_Phe
+star    456.76   305.00    5.21  Phoenix              υ_Phe
+star    538.41   554.78    5.24  Phoenix              ρ_Phe
+star    484.62   433.78    5.39  Phoenix              HD_6245
+star    654.59   267.88    5.42  Phoenix              HD_2490
+star    373.50   310.94    5.42  Phoenix              HD_8651
+star    308.65   567.87    5.49  Phoenix              HD_10934
+star    605.75   478.26    5.51  Phoenix              λ^2_Phe
+star    745.01   556.68    5.53  Phoenix              HD_224865
+star    206.75   351.05    5.57  Phoenix              HD_12296
+star    603.35   593.89    5.57  Phoenix              HD_3158
+star    628.46   485.52    5.67  Phoenix              HD_2726
+star    729.82   520.31    5.70  Phoenix              HD_142
+star    753.19   517.09    5.71  Phoenix              τ_Phe
+star    568.91   700.62    5.72  Phoenix              ξ_Phe
+star    561.59   464.41    5.80  Phoenix              HD_4391
+star    170.71   399.53    5.84  Phoenix              HD_13336
+star    132.05   345.72    5.91  Phoenix              HD_13940
+star    286.08   555.47    5.94  Phoenix              BD_Phe
+star    569.04   335.69    5.94  Phoenix              HD_4293
+star    591.25   392.58    6.00  Phoenix              HD_3750
+star    903.66   443.71    6.02  Phoenix              HD_221323
+star    821.23   301.39    6.03  Phoenix              HD_224022
+star    594.61   657.89    6.04  Phoenix              HD_3303
+star    857.33   480.47    6.07  Phoenix              θ_Phe
+star    846.64   435.61    6.08  Phoenix              HD_222803
+star    495.33   713.05    6.12  Phoenix              ω_Phe
+star    276.94   492.87    6.14  Phoenix              HD_11332
+star    559.70   627.17    6.15  Phoenix              HD_4304
+star     83.33   350.77    6.17  Phoenix              HD_15064
+star    351.29   421.72    6.17  Phoenix              HD_9414
+star    264.44   332.67    6.18  Phoenix              HD_11022
+star    642.53   293.90    6.18  Phoenix              HD_2724
+star    364.51   451.63    6.22  Phoenix              AW_Phe
+star    883.84   584.19    6.22  Phoenix              HD_220802
+star    630.73   547.21    6.26  Phoenix              HD_2529
+star    380.57   390.70    6.26  Phoenix              HD_8681
+star    360.32   531.28    6.27  Phoenix              HD_9544
+star    776.79   399.88    6.28  Phoenix              HD_224750
+star    547.77   441.47    6.28  Phoenix              HD_4737
+star    109.88   407.42    6.30  Phoenix              HD_14832
+star    168.28   408.26    6.32  Phoenix              HD_13423
+star    863.61   307.22    6.32  Phoenix              HD_223011
+star    698.10   647.07    6.32  Phoenix              HD_469
+star    694.41   359.67    6.33  Phoenix              HD_1483
+star    113.62   369.36    6.36  Phoenix              HD_14509
+star    588.66   646.29    6.40  Phoenix              HD_3488
+star    467.25   732.12    6.41  Phoenix              HD_7082
+star    916.67   437.93    6.43  Phoenix              HD_221051
+star    314.08   276.94    6.43  Phoenix              HD_9895
+star    236.33   286.41    6.44  Phoenix              HD_11421
+star    543.94   354.08    6.47  Phoenix              HR_239
+star    152.57   332.28    6.49  Phoenix              HD_13387
+star    805.15   488.50    6.49  Phoenix              HD_223549
+star    734.75   628.89    6.49  Phoenix              HD_224782
+star    166.28   356.29    6.50  Phoenix              HD_13218
+star    519.44   459.98    6.80  Phoenix              HD_5388
+line  Phoenix              α_Phe  β_Phe
+line  Phoenix              α_Phe  ε_Phe
+line  Phoenix              β_Phe  γ_Phe
+line  Phoenix              β_Phe  ε_Phe
+line  Phoenix              β_Phe  ζ_Phe
+line  Phoenix              γ_Phe  δ_Phe
+line  Phoenix              δ_Phe  ζ_Phe

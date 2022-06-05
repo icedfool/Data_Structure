@@ -1,0 +1,25 @@
+star    312.64   481.68    3.51  Sagitta              γ_Sge
+star    431.64   526.20    3.82  Sagitta              δ_Sge_A
+star    508.76   549.58    4.39  Sagitta              α_Sge
+star    498.70   573.58    4.39  Sagitta              β_Sge
+star    415.10   498.96    5.01  Sagitta              ζ_Sge
+star    246.38   457.60    5.09  Sagitta              η_Sge
+star    296.84   569.41    5.33  Sagitta              13_Sge
+star    320.55   602.40    5.54  Sagitta              11_Sge
+star    765.48   400.98    5.65  Sagitta              1_Sge
+star    538.94   618.58    5.67  Sagitta              ε_Sge
+star    338.92   609.65    5.71  Sagitta              S_Sge
+star    253.36   588.06    5.80  Sagitta              15_Sge
+star    134.05   381.42    6.11  Sagitta              18_Sge
+star    379.17   519.50    6.23  Sagitta              9_Sge
+star    676.43   595.26    6.27  Sagitta              2_Sge
+star    516.13   613.87    6.37  Sagitta              V340_Sge
+star    210.36   604.77    6.39  Sagitta              V344_Sge
+star    731.71   474.47    6.50  Sagitta              U_Sge
+star    198.30   414.70    6.51  Sagitta              θ_Sge
+star    801.67   595.22    6.69  Sagitta              V338_Sge
+star    672.28   594.50    6.84  Sagitta              3_Sge
+star    642.55   535.46    6.86  Sagitta              183143
+line  Sagitta              α_Sge  δ_Sge_A
+line  Sagitta              β_Sge  δ_Sge_A
+line  Sagitta              γ_Sge  δ_Sge_A

@@ -1,0 +1,40 @@
+star    224.65   436.77    1.76  Ursa_Major           ε_UMa
+star    484.38   395.53    1.81  Ursa_Major           α_UMa
+star     56.69   468.60    1.85  Ursa_Major           η_UMa
+star    154.65   419.32    2.23  Ursa_Major           Mizar
+star    486.29   489.12    2.34  Ursa_Major           β_UMa
+star    352.60   520.75    2.41  Ursa_Major           γ_UMa
+star    458.01   694.38    3.00  Ursa_Major           ψ_UMa
+star    610.17   739.71    3.06  Ursa_Major           μ_UMa
+star    826.56   563.99    3.12  Ursa_Major           ι_UMa
+star    720.43   537.81    3.17  Ursa_Major           θ_UMa
+star    315.54   451.28    3.32  Ursa_Major           δ_UMa
+star    790.76   334.48    3.35  Ursa_Major           ο_UMa
+star    624.24   713.67    3.45  Ursa_Major           λ_UMa
+star    418.56   882.19    3.49  Ursa_Major           ν_UMa
+star    820.65   583.28    3.57  Ursa_Major           κ_UMa
+star    663.53   347.77    3.65  Ursa_Major           23_UMa
+star    354.88   625.85    3.69  Ursa_Major           χ_UMa
+star    644.33   425.84    3.78  Ursa_Major           υ_UMa
+star    418.23   907.25    3.79  Ursa_Major           ξ_UMa_A
+line  Ursa_Major           23_UMa  α_UMa
+line  Ursa_Major           23_UMa  ο_UMa
+line  Ursa_Major           23_UMa  υ_UMa
+line  Ursa_Major           Mizar  ε_UMa
+line  Ursa_Major           Mizar  η_UMa
+line  Ursa_Major           α_UMa  β_UMa
+line  Ursa_Major           α_UMa  δ_UMa
+line  Ursa_Major           β_UMa  γ_UMa
+line  Ursa_Major           β_UMa  υ_UMa
+line  Ursa_Major           γ_UMa  δ_UMa
+line  Ursa_Major           γ_UMa  χ_UMa
+line  Ursa_Major           δ_UMa  ε_UMa
+line  Ursa_Major           θ_UMa  κ_UMa
+line  Ursa_Major           θ_UMa  υ_UMa
+line  Ursa_Major           ι_UMa  κ_UMa
+line  Ursa_Major           λ_UMa  μ_UMa
+line  Ursa_Major           μ_UMa  ψ_UMa
+line  Ursa_Major           ν_UMa  ξ_UMa_A
+line  Ursa_Major           ν_UMa  χ_UMa
+line  Ursa_Major           ο_UMa  υ_UMa
+line  Ursa_Major           χ_UMa  ψ_UMa

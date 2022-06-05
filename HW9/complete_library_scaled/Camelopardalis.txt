@@ -1,0 +1,69 @@
+star    582.08   760.17    4.03  Camelopardalis       β_Cam
+star    830.00   706.39    4.21  Camelopardalis       CS_Cam
+star    594.06   629.49    4.26  Camelopardalis       α_Cam
+star    737.24   613.66    4.39  Camelopardalis       BE_Cam
+star    610.95   903.23    4.43  Camelopardalis       7_Cam
+star    837.24   728.42    4.55  Camelopardalis       CE_Cam
+star    417.06   376.88    4.55  Camelopardalis       M_Cam
+star    690.21   495.42    4.59  Camelopardalis       γ_Cam
+star    796.01   584.04    4.74  Camelopardalis       BK_Cam
+star    424.35   554.17    4.76  Camelopardalis       L_Cam
+star    761.76   655.34    4.78  Camelopardalis       PLX_772
+star    446.81   261.41    4.92  Camelopardalis       VZ_Cam
+star    737.72   670.63    4.95  Camelopardalis       H_Cam
+star    751.89   711.09    4.99  Camelopardalis       HD_24480
+star    771.52   654.40    5.06  Camelopardalis       BD_Cam
+star    668.78   910.38    5.07  Camelopardalis       3_Cam
+star    534.10   352.66    5.08  Camelopardalis       K_Cam
+star    866.23   796.28    5.09  Camelopardalis       D_Cam
+star    357.11   542.97    5.11  Camelopardalis       43_Cam
+star    797.04   609.76    5.13  Camelopardalis       CQ_Cam
+star    351.78   571.85    5.14  Camelopardalis       42_Cam
+star    273.86    86.52    5.14  Camelopardalis       N_Cam
+star    441.52   767.25    5.20  Camelopardalis       31_Cam
+star    576.45   792.62    5.22  Camelopardalis       11_Cam
+star    527.17   824.74    5.24  Camelopardalis       16_Cam
+star    377.44   165.58    5.25  Camelopardalis       NSV_4864
+star    633.20   835.62    5.29  Camelopardalis       4_Cam
+star    397.05   780.74    5.35  Camelopardalis       37_Cam
+star    667.39   902.08    5.36  Camelopardalis       2_Cam
+star    419.04   633.88    5.36  Camelopardalis       36_Cam
+star    386.18   754.77    5.37  Camelopardalis       40_Cam
+star    402.99    83.33    5.38  Camelopardalis       Σ_1694
+star    691.54   737.14    5.40  Camelopardalis       NSV_1558
+star    511.97   703.82    5.43  Camelopardalis       17_Cam
+star    548.45   466.22    5.44  Camelopardalis       BN_Cam
+star    605.28   690.82    5.47  Camelopardalis       HD_30442
+star    615.19   870.27    5.52  Camelopardalis       5_Cam
+star    691.18   888.32    5.78  Camelopardalis       DL_Cam
+star    257.25    92.52    5.78  Camelopardalis       HD_104985
+star    456.57   851.58    5.93  Camelopardalis       26_Cam
+star    225.38   558.24    5.93  Camelopardalis       51_Cam
+star    133.77   629.44    6.02  Camelopardalis       53_Cam
+star    467.98   842.58    6.05  Camelopardalis       24_Cam
+star    576.22   791.57    6.08  Camelopardalis       12_Cam
+star    603.87   916.67    6.09  Camelopardalis       8_Cam
+star    538.90   812.35    6.13  Camelopardalis       15_Cam
+star    446.37   788.20    6.14  Camelopardalis       30_Cam
+star    496.00   679.11    6.15  Camelopardalis       19_Cam
+star    474.18   736.16    6.17  Camelopardalis       23_Cam
+star    339.73   104.58    6.21  Camelopardalis       FR_Cam
+star    831.47   777.19    6.29  Camelopardalis       KZ_Cam
+star    216.77   694.09    6.36  Camelopardalis       47_Cam
+star    423.69   685.41    6.42  Camelopardalis       HD_40956
+star    500.11   830.92    6.44  Camelopardalis       18_Cam
+star    556.83   559.85    6.44  Camelopardalis       HD_32518
+star    553.51   712.30    6.49  Camelopardalis       14_Cam
+star    194.94   606.75    6.50  Camelopardalis       49_Cam
+star    446.20   832.93    6.53  Camelopardalis       29_Cam
+star    461.45   347.10    6.60  Camelopardalis       HD_44385
+star    608.64   858.66    6.63  Camelopardalis       6_Cam
+star    659.49   442.79    6.75  Camelopardalis       HD_24064
+star    457.06   834.05    6.79  Camelopardalis       28_Cam
+line  Camelopardalis       7_Cam  β_Cam
+line  Camelopardalis       BE_Cam  CS_Cam
+line  Camelopardalis       BE_Cam  γ_Cam
+line  Camelopardalis       L_Cam  M_Cam
+line  Camelopardalis       L_Cam  α_Cam
+line  Camelopardalis       α_Cam  β_Cam
+line  Camelopardalis       α_Cam  γ_Cam

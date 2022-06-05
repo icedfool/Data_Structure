@@ -1,0 +1,57 @@
+star    120.48   474.24    1.17  Piscis_Austrinus     Fomalhaut
+star    271.37   357.40    4.18  Piscis_Austrinus     ε_PsA
+star    144.54   595.64    4.20  Piscis_Austrinus     δ_PsA
+star    360.40   578.30    4.29  Piscis_Austrinus     β_PsA
+star    769.95   621.64    4.35  Piscis_Austrinus     ι_PsA
+star    175.58   607.74    4.46  Piscis_Austrinus     γ_PsA
+star    564.83   607.37    4.50  Piscis_Austrinus     μ_PsA
+star    549.97   588.36    4.94  Piscis_Austrinus     τ_PsA
+star    562.68   651.69    4.99  Piscis_Austrinus     υ_PsA
+star    753.25   530.36    5.02  Piscis_Austrinus     θ_PsA
+star     87.09   693.34    5.12  Piscis_Austrinus     π_PsA
+star    549.70   650.04    5.37  Piscis_Austrinus     HD_210271
+star    641.24   419.73    5.43  Piscis_Austrinus     η_PsA
+star    517.52   386.18    5.45  Piscis_Austrinus     λ_PsA
+star    102.34   468.88    5.51  Piscis_Austrinus     WX_PsA
+star     84.72   444.61    5.55  Piscis_Austrinus     HD_217484
+star    525.12   277.74    5.58  Piscis_Austrinus     HD_210848
+star     84.98   289.12    5.66  Piscis_Austrinus     HD_217303
+star    296.15   610.75    5.66  Piscis_Austrinus     VZ_PsA
+star    875.68   342.38    5.73  Piscis_Austrinus     8_PsA
+star    314.42   550.55    5.82  Piscis_Austrinus     HD_214122
+star    279.09   509.30    5.88  Piscis_Austrinus     HD_214690
+star    373.36   357.66    5.95  Piscis_Austrinus     HD_213135
+star    874.96   671.29    5.97  Piscis_Austrinus     6_PsA
+star    609.22   349.51    5.97  Piscis_Austrinus     UU_PsA
+star    177.40   466.83    5.99  Piscis_Austrinus     21_PsA
+star    142.56   557.54    6.09  Piscis_Austrinus     HD_216761
+star    840.32   629.45    6.10  Piscis_Austrinus     7_PsA
+star    258.96   455.40    6.12  Piscis_Austrinus     19_PsA
+star    497.23   307.25    6.14  Piscis_Austrinus     HD_211291
+star    131.81   722.26    6.15  Piscis_Austrinus     HD_217096
+star    531.50   326.02    6.19  Piscis_Austrinus     HD_210739
+star    817.67   653.77    6.28  Piscis_Austrinus     HD_205872
+star    224.28   659.16    6.28  Piscis_Austrinus     HD_215669
+star    281.64   410.97    6.30  Piscis_Austrinus     HD_214599
+star     83.33   308.70    6.30  Piscis_Austrinus     HD_217358
+star    201.23   312.91    6.31  Piscis_Austrinus     HD_215782
+star    197.68   603.48    6.34  Piscis_Austrinus     HD_216042
+star    561.73   613.04    6.37  Piscis_Austrinus     HD_210111
+star    680.82   512.75    6.41  Piscis_Austrinus     HD_208285
+star    872.73   491.08    6.42  Piscis_Austrinus     HD_205265
+star    362.23   314.39    6.43  Piscis_Austrinus     ζ_PsA
+star    556.94   409.37    6.44  Piscis_Austrinus     HD_210300
+star    605.82   479.64    6.45  Piscis_Austrinus     13_PsA
+star    291.33   428.45    6.46  Piscis_Austrinus     HD_214462
+star    137.58   555.02    6.48  Piscis_Austrinus     TW_PsA
+star    916.67   561.65    6.52  Piscis_Austrinus     5_PsA
+line  Piscis_Austrinus     Fomalhaut  δ_PsA
+line  Piscis_Austrinus     Fomalhaut  ε_PsA
+line  Piscis_Austrinus     β_PsA  γ_PsA
+line  Piscis_Austrinus     β_PsA  μ_PsA
+line  Piscis_Austrinus     γ_PsA  δ_PsA
+line  Piscis_Austrinus     ε_PsA  τ_PsA
+line  Piscis_Austrinus     θ_PsA  ι_PsA
+line  Piscis_Austrinus     θ_PsA  μ_PsA
+line  Piscis_Austrinus     ι_PsA  μ_PsA
+line  Piscis_Austrinus     μ_PsA  τ_PsA

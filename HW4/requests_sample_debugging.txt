@@ -1,0 +1,9 @@
+compute_diff WORD input_original.txt input_sample.txt output_original_sample.diff
+apply_diff WORD input_original.txt output_original_sample.diff output_applied.txt
+assert_same WORD input_sample.txt output_applied.txt
+invert_diff WORD input_original.txt output_original_sample.diff output_inverted.diff
+apply_diff WORD input_sample.txt output_inverted.diff output_reapplied.txt
+assert_same WORD input_original.txt output_reapplied.txt
+compute_diff WORD input_sample.txt input_original.txt output_sample_original.diff
+assert_same_diff WORD output_inverted.diff output_sample_original.diff
+render_diff WORD input_original.txt output_original_sample.diff output_original_sample.html

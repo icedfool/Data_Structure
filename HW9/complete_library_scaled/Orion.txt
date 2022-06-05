@@ -1,0 +1,237 @@
+star    635.85   854.18    0.18  Orion                Rigel
+star    360.68   429.19    0.42  Orion                Betelgeuse
+star    564.55   458.34    1.64  Orion                Bellatrix
+star    489.16   665.01    1.69  Orion                Alnilam
+star    458.07   685.19    1.88  Orion                Alnitak_A
+star    411.37   893.69    2.07  Orion                Saiph
+star    517.95   640.35    2.20  Orion                Mintaka_AB
+star    494.49   792.90    2.75  Orion                ι_Ori
+star    802.24   439.83    3.19  Orion                π^3_Ori
+star    569.39   697.48    3.35  Orion                η_Ori
+star    496.47   360.64    3.47  Orion                Meissa_A
+star    615.51   817.81    3.59  Orion                τ_Ori
+star    793.88   477.02    3.68  Orion                π^4_Ori
+star    774.59   563.88    3.71  Orion                π^5_Ori
+star    471.84   703.11    3.77  Orion                σ_Ori_AB
+star    753.17   262.27    4.06  Orion                ο^2_Ori
+star    484.54   378.13    4.09  Orion                φ^2_Ori
+star    313.04   367.79    4.12  Orion                μ_Ori
+star    572.34   843.89    4.13  Orion                29_Ori
+star    526.14   469.40    4.20  Orion                32_Ori
+star    795.64   386.98    4.35  Orion                π^2_Ori
+star    498.62   372.74    4.39  Orion                φ^1_Ori
+star    372.91    83.33    4.39  Orion                χ^1_Ori
+star    282.45   228.99    4.42  Orion                ν_Ori
+star    253.25   243.76    4.45  Orion                ξ_Ori
+star    645.62   553.46    4.46  Orion                ρ_Ori
+star    745.75   584.07    4.47  Orion                π^6_Ori
+star    468.88   519.40    4.50  Orion                ω_Ori
+star    326.52   715.47    4.53  Orion                HD_40657
+star    494.82   763.91    4.58  Orion                42_Ori
+star    553.23   547.43    4.59  Orion                ψ^2_Ori
+star    518.27   830.39    4.62  Orion                υ_Ori
+star    766.18   353.25    4.64  Orion                π^1_Ori
+star    311.85    86.57    4.64  Orion                χ^2_Ori
+star    697.51   212.00    4.65  Orion                11_Ori
+star    533.50   661.99    4.71  Orion                31_Ori
+star    777.40   242.17    4.71  Orion                ο^1_Ori
+star    588.01   642.47    4.72  Orion                22_Ori
+star    378.25   581.19    4.76  Orion                56_Ori
+star    471.05   828.01    4.77  Orion                49_Ori
+star    497.14   795.39    4.78  Orion                HD_36960
+star    663.76   207.08    4.81  Orion                15_Ori
+star    567.57   581.59    4.89  Orion                ψ^1_Ori
+star    446.30   591.82    4.90  Orion                51_Ori
+star    191.80   710.70    4.91  Orion                HD_44131
+star    254.69   192.24    4.95  Orion                69_Ori
+star    457.46   662.99    4.95  Orion                HD_37756
+star    494.84   779.55    4.98  Orion                θ^2_Ori_A
+star    580.53   535.06    5.00  Orion                23_Ori
+star    221.64   295.71    5.04  Orion                74_Ori
+star    569.42   656.43    5.07  Orion                27_Ori
+star    495.57   778.84    5.13  Orion                θ^1_Ori_C
+star    314.30    98.35    5.14  Orion                64_Ori
+star    765.77   318.63    5.18  Orion                6_Ori
+star    650.35   195.18    5.18  Orion                HD_33554
+star    240.85   111.74    5.20  Orion                71_Ori
+star    334.66   616.58    5.21  Orion                60_Ori
+star    492.96   764.39    5.24  Orion                45_Ori
+star    409.04   455.44    5.26  Orion                52_Ori
+star    502.37   529.12    5.32  Orion                38_Ori
+star    680.55   399.05    5.33  Orion                14_Ori
+star    780.44   561.96    5.33  Orion                5_Ori
+star    768.62   417.88    5.33  Orion                HD_31296
+star    605.49   560.93    5.34  Orion                21_Ori
+star    232.89   191.68    5.34  Orion                72_Ori
+star    513.27   675.64    5.34  Orion                HD_36591
+star    823.03   310.35    5.35  Orion                HD_30210
+star    386.46   836.00    5.36  Orion                55_Ori
+star    507.56   663.76    5.36  Orion                VV_Ori
+star    215.04   358.86    5.39  Orion                75_Ori
+star    834.16   325.37    5.39  Orion                HD_30034
+star    363.63    85.94    5.40  Orion                U_Ori
+star    670.17   362.86    5.43  Orion                16_Ori
+star    226.50   288.21    5.44  Orion                73_Ori
+star    523.13   542.10    5.46  Orion                33_Ori
+star    635.40   490.70    5.50  Orion                HD_34043
+star    624.28   322.07    5.52  Orion                18_Ori
+star    504.61   242.33    5.60  Orion                35_Ori
+star    564.52   911.27    5.60  Orion                HD_35536
+star    495.92   352.31    5.60  Orion                HD_36881
+star    221.16   644.71    5.62  Orion                HD_43318
+star    293.39   517.61    5.63  Orion                66_Ori
+star    293.78   483.08    5.67  Orion                63_Ori
+star    200.73   231.30    5.67  Orion                HD_44033
+star    589.59   643.39    5.68  Orion                HD_35007
+star    574.73   636.43    5.69  Orion                HD_35299
+star    338.20   282.21    5.70  Orion                HD_40369
+star    266.01   562.79    5.70  Orion                HD_42111
+star    210.83   491.05    5.70  Orion                HD_43587
+star    486.59   797.08    5.71  Orion                HD_37209
+star    259.79    95.25    5.76  Orion                68_Ori
+star    532.26   583.23    5.77  Orion                HD_36166
+star    587.24   401.48    5.78  Orion                HD_34989
+star    417.32   371.72    5.78  Orion                HD_38527
+star    754.90   221.21    5.79  Orion                HD_31373
+star    396.02   362.16    5.79  Orion                HD_39007
+star    535.74   726.11    5.80  Orion                HD_36134
+star    232.96   732.82    5.83  Orion                HD_43023
+star    241.38   144.82    5.86  Orion                HD_42954
+star    476.95   425.86    5.87  Orion                HD_37320
+star    357.74   757.54    5.87  Orion                HD_39910
+star    656.24   603.32    5.88  Orion                HD_33646
+star    337.59   581.47    5.89  Orion                59_Ori
+star    659.09   699.61    5.89  Orion                HD_33608
+star    351.23   317.13    5.89  Orion                HD_40020
+star    648.28   796.40    5.90  Orion                HD_33833
+star    723.59   611.41    5.91  Orion                HD_32263
+star    231.90   253.18    5.91  Orion                HD_43112
+star    368.90    97.14    5.92  Orion                57_Ori
+star    503.84   672.33    5.92  Orion                HD_36780
+star    527.45   213.99    5.93  Orion                HD_36162
+star    455.76   622.93    5.93  Orion                HD_37788
+star    418.23   600.13    5.94  Orion                HD_38529
+star    381.73   876.82    5.95  Orion                HD_39421
+star    472.74   810.81    5.96  Orion                HD_37481
+star    393.67   510.95    5.96  Orion                HD_39051
+star    385.39    94.12    5.96  Orion                HD_39286
+star    483.47   330.72    5.97  Orion                HD_37171
+star    443.76   816.76    5.97  Orion                HD_38089
+star    404.78   743.58    5.97  Orion                HD_38858
+star    391.50   576.61    5.97  Orion                HD_39118
+star    352.69   371.80    5.97  Orion                HD_39885
+star    770.84   617.91    5.98  Orion                HD_31331
+star    576.54   860.17    5.99  Orion                HD_35281
+star    466.58   729.34    5.99  Orion                HD_37594
+star    362.56   605.37    5.99  Orion                HD_39775
+star    181.53   287.16    6.00  Orion                HD_44497
+star    480.72   793.66    6.03  Orion                HD_37303
+star    811.22   532.01    6.04  Orion                HD_30545
+star    702.51   714.23    6.04  Orion                HD_32686
+star    255.78   259.14    6.04  Orion                HD_42477
+star    413.67   916.67    6.04  Orion                V1031_Ori
+star    222.02   464.73    6.07  Orion                HD_43285
+star    644.12   577.93    6.08  Orion                HD_33883
+star    428.99   522.43    6.09  Orion                HD_38309
+star    307.40   312.50    6.09  Orion                HD_41076
+star    699.46   599.16    6.10  Orion                W_Ori
+star    787.35   357.80    6.11  Orion                HD_30870
+star    667.84   647.04    6.11  Orion                HD_33419
+star    481.72   387.38    6.11  Orion                HD_37232
+star    213.25   238.66    6.12  Orion                HD_43683
+star    573.70   655.74    6.13  Orion                HD_35317
+star    368.20   342.59    6.13  Orion                HD_39632
+star    734.89   234.76    6.14  Orion                HD_31764
+star    681.67   372.49    6.15  Orion                13_Ori
+star    632.02   670.29    6.15  Orion                HD_34180
+star    513.66   631.86    6.15  Orion                HD_36558
+star    477.74   763.25    6.16  Orion                HD_37356
+star    560.52   617.88    6.18  Orion                HD_35588
+star    548.62   216.71    6.18  Orion                HD_35693
+star    529.31   517.10    6.21  Orion                CK_Ori
+star    338.98   658.87    6.21  Orion                HD_40347
+star    459.03   709.23    6.22  Orion                HD_37744
+star    340.94   598.26    6.22  Orion                HD_40282
+star    522.26   814.42    6.23  Orion                HD_36430
+star    661.51   693.14    6.24  Orion                HD_33555
+star    558.47   782.24    6.24  Orion                HD_35640
+star    503.86   660.48    6.24  Orion                HD_36779
+star    494.91   752.69    6.24  Orion                HD_37016
+star    422.07   748.36    6.24  Orion                HD_38495
+star    203.93   383.11    6.24  Orion                HD_43821
+star    754.34   660.00    6.25  Orion                HD_31623
+star    500.97   632.53    6.25  Orion                HD_36840
+star    357.19   762.20    6.28  Orion                HD_39927
+star    165.84   228.95    6.30  Orion                BL_Ori
+star    782.71   258.15    6.30  Orion                HD_30869
+star    365.96   543.61    6.30  Orion                HD_39685
+star    731.41   687.47    6.31  Orion                HD_32115
+star    441.67   676.18    6.31  Orion                V1197_Ori
+star    211.29   159.92    6.32  Orion                HD_43819
+star    827.08   710.57    6.33  Orion                HD_30321
+star    642.42   616.44    6.33  Orion                HD_33946
+star    602.83   670.51    6.33  Orion                HD_34648
+star    568.54   567.71    6.33  Orion                HD_35407
+star    529.02   833.96    6.33  Orion                HD_36285
+star    748.15   691.30    6.34  Orion                HD_31739
+star    575.66   486.39    6.34  Orion                V1649_Ori
+star    540.05   259.16    6.35  Orion                HD_35909
+star    171.73   193.24    6.35  Orion                HD_44867
+star    550.40   568.09    6.36  Orion                HD_35775
+star    263.83   139.11    6.37  Orion                HD_42351
+star    219.00   598.74    6.37  Orion                HD_43358
+star    538.80   722.32    6.39  Orion                HD_36058
+star    228.01   163.93    6.39  Orion                HD_43335
+star    494.45   779.57    6.39  Orion                θ^2_Ori_B
+star    596.59   778.03    6.40  Orion                HD_34880
+star    493.37   720.88    6.40  Orion                V1377_Ori
+star    554.18   444.17    6.41  Orion                HD_35656
+star    545.18   596.64    6.41  Orion                HD_35912
+star    451.85   711.16    6.41  Orion                HD_37904
+star    759.50   414.55    6.42  Orion                HD_31423
+star    622.61   578.61    6.42  Orion                HD_34317
+star    594.97   562.38    6.43  Orion                HD_34878
+star    561.70   672.82    6.44  Orion                HD_35575
+star    241.50   340.51    6.44  Orion                V1357_Ori
+star    722.42   587.17    6.45  Orion                HD_32273
+star    503.95   822.93    6.45  Orion                HD_36814
+star    239.96   466.28    6.45  Orion                V1389_Ori
+star    458.56   913.47    6.46  Orion                HD_37808
+star    533.78   654.08    6.49  Orion                HD_36150
+star    466.95   894.79    6.49  Orion                HD_37635
+star    590.78   522.22    6.49  Orion                V1369_Ori
+star    762.05   483.02    6.50  Orion                HD_31411
+star    488.93   785.82    6.51  Orion                HD_37150
+star    494.96   754.58    6.56  Orion                HD_37017
+star    471.57   702.96    6.61  Orion                σ_Ori_E
+star    220.49   513.50    6.62  Orion                HD_43317
+star    583.25   865.07    6.77  Orion                HD_35155
+star    517.94   639.95    6.83  Orion                Mintaka_C
+star    246.89   445.39    6.84  Orion                HD_42618
+star    496.90   761.03    6.90  Orion                KX_Ori
+star    521.64   732.40    6.97  Orion                Gliese_205
+star    456.82   673.31    6.97  Orion                V901_Ori
+line  Orion                11_Ori  ο^2_Ori
+line  Orion                Alnilam  Alnitak_A
+line  Orion                Alnilam  Mintaka_AB
+line  Orion                Alnitak_A  Betelgeuse
+line  Orion                Alnitak_A  Saiph
+line  Orion                Bellatrix  Betelgeuse
+line  Orion                Bellatrix  Meissa_A
+line  Orion                Bellatrix  Mintaka_AB
+line  Orion                Bellatrix  π^3_Ori
+line  Orion                Betelgeuse  Meissa_A
+line  Orion                Betelgeuse  μ_Ori
+line  Orion                Mintaka_AB  η_Ori
+line  Orion                Rigel  η_Ori
+line  Orion                μ_Ori  ξ_Ori
+line  Orion                ν_Ori  ξ_Ori
+line  Orion                ν_Ori  χ^1_Ori
+line  Orion                ξ_Ori  χ^2_Ori
+line  Orion                ο^2_Ori  π^1_Ori
+line  Orion                π^1_Ori  π^2_Ori
+line  Orion                π^2_Ori  π^3_Ori
+line  Orion                π^3_Ori  π^4_Ori
+line  Orion                π^4_Ori  π^5_Ori
+line  Orion                π^5_Ori  π^6_Ori
+line  Orion                χ^1_Ori  χ^2_Ori

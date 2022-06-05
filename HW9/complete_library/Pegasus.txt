@@ -1,0 +1,127 @@
+star    771.68   641.80    2.38  Pegasus              ε_Peg
+star    442.72   333.20    2.44  Pegasus              β_Peg
+star    430.07   556.88    2.49  Pegasus              α_Peg
+star    152.20   533.95    2.83  Pegasus              γ_Peg
+star    522.74   297.97    2.93  Pegasus              η_Peg
+star    527.87   634.61    3.41  Pegasus              ζ_Peg
+star    494.42   394.62    3.51  Pegasus              μ_Peg
+star    663.05   711.50    3.52  Pegasus              θ_Peg
+star    663.73   378.98    3.77  Pegasus              ι_Peg
+star    507.97   412.77    3.97  Pegasus              λ_Peg
+star    847.80   461.16    4.08  Pegasus              1_Peg
+star    749.69   368.39    4.14  Pegasus              κ_Peg
+star    505.60   611.24    4.20  Pegasus              ξ_Peg
+star    643.33   245.42    4.28  Pegasus              π_Peg
+star    762.94   512.32    4.34  Pegasus              9_Peg
+star    353.56   410.01    4.42  Pegasus              υ_Peg
+star    809.74   397.99    4.52  Pegasus              2_Peg
+star    418.16   657.00    4.54  Pegasus              55_Peg
+star    326.53   594.09    4.54  Pegasus              70_Peg
+star    372.62   405.30    4.58  Pegasus              τ_Peg
+star    232.77   369.10    4.63  Pegasus              ψ_Peg
+star    427.52   377.86    4.76  Pegasus              56_Peg
+star    605.72   329.48    4.78  Pegasus              32_Peg
+star    586.92   739.26    4.78  Pegasus              35_Peg
+star    157.59   446.30    4.79  Pegasus              χ_Peg
+star    527.38   313.63    4.80  Pegasus              ο_Peg
+star    612.86   609.79    4.82  Pegasus              31_Peg
+star    682.75   729.99    4.86  Pegasus              ν_Peg
+star    468.53   668.69    4.91  Pegasus              ρ_Peg
+star    293.85   301.98    4.93  Pegasus              78_Peg
+star    334.79   271.67    4.97  Pegasus              72_Peg
+star    407.13   669.17    5.05  Pegasus              57_Peg
+star    240.20   475.45    5.06  Pegasus              φ_Peg
+star    721.73   292.17    5.07  Pegasus              14_Peg
+star    716.98   365.90    5.09  Pegasus              16_Peg
+star    351.57   603.48    5.09  Pegasus              66_Peg
+star    265.53   631.37    5.09  Pegasus              77_Peg
+star    397.69   668.03    5.15  Pegasus              59_Peg
+star    480.87   651.36    5.16  Pegasus              σ_Peg
+star    748.76   415.47    5.29  Pegasus              12_Peg
+star    782.19   712.94    5.30  Pegasus              7_Peg
+star    228.19   617.06    5.30  Pegasus              82_Peg
+star    320.49   423.50    5.33  Pegasus              71_Peg
+star    740.18   515.15    5.34  Pegasus              13_Peg
+star    379.49   266.37    5.35  Pegasus              64_Peg
+star    618.86   719.99    5.37  Pegasus              30_Peg
+star    405.41   649.37    5.39  Pegasus              58_Peg
+star    462.92   460.75    5.45  Pegasus              51_Peg
+star    787.24   475.81    5.46  Pegasus              5_Peg
+star    296.73   493.34    5.49  Pegasus              75_Peg
+star    577.78   743.88    5.51  Pegasus              37_Peg
+star    714.39   316.43    5.52  Pegasus              15_Peg
+star    716.77   607.52    5.54  Pegasus              17_Peg
+star    178.74   568.74    5.55  Pegasus              86_Peg
+star    369.84   256.04    5.56  Pegasus              67_Peg
+star    174.24   483.68    5.57  Pegasus              87_Peg
+star    842.84   390.62    5.58  Pegasus              34_Vul
+star    381.24   290.35    5.58  Pegasus              63_Peg
+star    646.08   245.40    5.58  Pegasus              π^1_Peg
+star    580.93   663.62    5.60  Pegasus              36_Peg
+star    698.68   590.44    5.61  Pegasus              20_Peg
+star    762.09   765.15    5.63  Pegasus              11_Peg
+star    337.10   234.85    5.63  Pegasus              73_Peg
+star    570.69   257.71    5.64  Pegasus              38_Peg
+star    701.07   674.41    5.65  Pegasus              19_Peg
+star    797.78   710.05    5.66  Pegasus              4_Peg
+star    664.98   316.37    5.69  Pegasus              23_Peg
+star    592.32   744.29    5.76  Pegasus              34_Peg
+star    452.21   618.00    5.76  Pegasus              52_Peg
+star    231.81   645.72    5.77  Pegasus              80_Peg
+star    780.76   459.79    5.77  Pegasus              NZ_Peg
+star    664.05   442.37    5.79  Pegasus              25_Peg
+star    221.65   333.88    5.80  Pegasus              85_Peg
+star    690.36   620.98    5.83  Pegasus              21_Peg
+star    538.73   483.34    5.84  Pegasus              40_Peg
+star    816.39   422.87    5.84  Pegasus              NV_Peg
+star    479.70   529.66    5.86  Pegasus              IM_Peg
+star    651.84   541.77    5.93  Pegasus              HD_210702
+star    271.89   308.85    5.95  Pegasus              79_Peg
+star    765.90   557.15    5.96  Pegasus              HN_Peg
+star    422.54   453.11    5.97  Pegasus              HR_8799
+star    279.32   643.89    5.99  Pegasus              47_G._Peg
+star    347.16   378.88    5.99  Pegasus              69_Peg
+star    706.02   700.52    6.00  Pegasus              18_Peg
+star    831.68   470.46    6.08  Pegasus              IK_Peg
+star    245.39   431.24    6.13  Pegasus              23_Psc
+star    433.59   251.79    6.13  Pegasus              V343_Peg
+star    732.23   696.41    6.14  Pegasus              13_G._Peg
+star    616.40   679.08    6.18  Pegasus              31_G._Peg
+star    752.74   515.84    6.18  Pegasus              V372_Peg
+star    800.71   695.34    6.19  Pegasus              3_Peg
+star    410.58   353.27    6.19  Pegasus              60_Peg
+star    600.69   459.45    6.20  Pegasus              33_Peg
+star    637.51   672.20    6.21  Pegasus              29_G._Peg
+star    295.81   520.83    6.26  Pegasus              74_Peg
+star    511.59   485.99    6.27  Pegasus              45_Peg
+star    726.63   446.35    6.27  Pegasus              HO_Peg
+star    361.06   455.43    6.28  Pegasus              65_Peg
+star    274.70   527.60    6.30  Pegasus              76_Peg
+star    668.52   506.83    6.31  Pegasus              OY_Peg
+star    535.00   480.58    6.33  Pegasus              41_Peg
+star    566.04   309.41    6.33  Pegasus              GX_Peg
+star    838.27   664.67    6.39  Pegasus              2_G._Peg
+star    710.34   447.98    6.39  Pegasus              HD_208527
+star    473.24   527.78    6.39  Pegasus              HR_Peg
+star    834.59   692.74    6.41  Pegasus              3_G._Peg
+star    337.24   322.09    6.41  Pegasus              V354_Peg
+star    564.44   470.84    6.43  Pegasus              39_Peg
+star    454.23   659.04    6.43  Pegasus              41_G._Peg
+star    653.94   455.46    6.45  Pegasus              28_Peg
+star    220.31   541.53    6.45  Pegasus              V363_Peg
+star    607.89   353.49    6.46  Pegasus              PT_Peg
+star    775.37   681.90    6.47  Pegasus              10_G._Peg
+star    702.35   487.26    6.50  Pegasus              HD_208897
+star    397.13   328.45    6.51  Pegasus              61_Peg
+star    440.18   457.50    6.62  Pegasus              MT_Peg
+line  Pegasus              α_Peg  β_Peg
+line  Pegasus              α_Peg  γ_Peg
+line  Pegasus              α_Peg  ζ_Peg
+line  Pegasus              β_Peg  η_Peg
+line  Pegasus              β_Peg  μ_Peg
+line  Pegasus              ε_Peg  θ_Peg
+line  Pegasus              ζ_Peg  θ_Peg
+line  Pegasus              η_Peg  π_Peg
+line  Pegasus              ι_Peg  κ_Peg
+line  Pegasus              ι_Peg  λ_Peg
+line  Pegasus              λ_Peg  μ_Peg

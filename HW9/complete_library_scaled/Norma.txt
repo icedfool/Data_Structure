@@ -1,0 +1,51 @@
+star    415.94   434.96    4.01  Norma                γ^2_Nor
+star    352.73   315.44    4.46  Norma                ε_Nor
+star    533.71   793.13    4.63  Norma                ι^1_Nor
+star    542.52   389.71    4.65  Norma                η_Nor
+star    518.16   198.40    4.73  Norma                δ_Nor
+star    284.45   155.45    4.91  Norma                μ_Nor
+star    468.10   645.00    4.95  Norma                κ_Nor
+star    437.20   430.07    4.97  Norma                γ^1_Nor
+star    447.51   302.50    5.13  Norma                θ_Nor
+star    394.77   408.35    5.32  Norma                HD_147152
+star    328.41   255.27    5.35  Norma                QU_Nor
+star    715.55   548.50    5.43  Norma                HD_139129
+star    407.47    83.33    5.44  Norma                λ_Nor
+star    444.73   606.85    5.45  Norma                V368_Nor
+star    497.37   800.43    5.57  Norma                ι^2_Nor
+star    456.43   800.04    5.61  Norma                HD_145782
+star    381.03   836.04    5.67  Norma                HD_147977
+star    619.80   668.04    5.74  Norma                V360_Nor
+star    421.71   670.49    5.76  Norma                HD_146690
+star    632.03   581.40    5.78  Norma                HD_141168
+star    578.79   907.26    5.78  Norma                HD_142049
+star    469.61   687.97    5.78  Norma                ζ_Nor
+star    645.58   378.77    5.86  Norma                HD_141194
+star    382.33   142.34    5.89  Norma                HD_147225
+star    671.44   901.08    5.95  Norma                HD_139211
+star    638.12   290.87    6.00  Norma                HD_141544
+star    700.04   410.18    6.02  Norma                HD_139871
+star    468.60   599.66    6.03  Norma                V367_Nor
+star    643.48   545.59    6.05  Norma                HD_140979
+star    368.61   797.18    6.09  Norma                V378_Nor
+star    561.80   616.63    6.10  Norma                HD_142919
+star    652.56   213.58    6.11  Norma                HD_141296
+star    552.79   642.72    6.12  Norma                HD_143101
+star    441.52    92.76    6.14  Norma                HD_145921
+star    509.52   718.31    6.16  Norma                HD_144183
+star    667.62   668.16    6.20  Norma                T_Nor
+star    439.23   572.75    6.30  Norma                HD_146145
+star    591.75   340.63    6.31  Norma                HD_142529
+star    365.31   210.73    6.32  Norma                HD_147614
+star    549.54   479.20    6.38  Norma                HD_143321
+star    529.19   858.92    6.40  Norma                HD_143548
+star    442.74   601.47    6.40  Norma                HD_146059
+star    677.21   469.71    6.41  Norma                HD_140274
+star    437.38   800.07    6.45  Norma                S_Nor
+star    646.39   916.67    6.46  Norma                HD_139915
+star    531.08   601.33    6.46  Norma                QY_Nor
+star    301.83   345.71    6.71  Norma                HD_148937
+line  Norma                γ^2_Nor  ε_Nor
+line  Norma                γ^2_Nor  η_Nor
+line  Norma                δ_Nor  ε_Nor
+line  Norma                δ_Nor  η_Nor

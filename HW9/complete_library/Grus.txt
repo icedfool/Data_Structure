@@ -1,0 +1,68 @@
+star    553.81   532.31    1.73  Grus                 α_Gru
+star    451.53   526.60    2.07  Grus                 β_Gru
+star    617.90   371.81    3.00  Grus                 γ_Gru
+star    436.33   604.05    3.49  Grus                 ε_Gru
+star    366.45   502.52    3.88  Grus                 ι_Gru
+star    493.31   467.90    3.97  Grus                 δ^1_Gru
+star    404.65   630.48    4.11  Grus                 ζ_Gru
+star    491.64   472.28    4.12  Grus                 δ^2_Gru
+star    374.52   471.54    4.28  Grus                 θ_Gru
+star    572.85   404.29    4.47  Grus                 λ_Gru
+star    539.02   432.79    4.79  Grus                 μ^1_Gru
+star    445.13   641.64    4.84  Grus                 η_Gru
+star    447.84   431.20    4.84  Grus                 ρ_Gru
+star    536.00   437.46    5.11  Grus                 μ^2_Gru
+star    679.12   449.79    5.29  Grus                 ξ_Gru
+star    515.94   645.42    5.36  Grus                 HD_211415
+star    396.59   652.04    5.37  Grus                 κ_Gru
+star    421.89   392.57    5.43  Grus                 HD_216149
+star    609.78   368.75    5.45  Grus                 HD_208321
+star    497.60   392.01    5.47  Grus                 ν_Gru
+star    597.68   387.09    5.50  Grus                 HD_208737
+star    442.42   520.85    5.52  Grus                 HD_215405
+star    337.41   637.12    5.53  Grus                 ο_Gru
+star    333.87   428.51    5.54  Grus                 φ_Gru
+star    662.65   511.64    5.57  Grus                 HD_204960
+star    611.34   545.71    5.57  Grus                 HD_207129
+star    510.60   511.09    5.62  Grus                 π^2_Gru
+star    368.10   391.25    5.62  Grus                 υ_Gru
+star    401.66   599.34    5.68  Grus                 HD_217403
+star    410.50   546.84    5.72  Grus                 τ^3_Gru
+star    341.37   622.00    5.75  Grus                 HD_220440
+star    344.76   432.17    5.77  Grus                 HD_219263
+star    381.01   435.32    5.79  Grus                 HD_217842
+star    384.50   596.07    5.81  Grus                 HD_218269
+star    363.80   460.97    5.83  Grus                 HD_218630
+star    469.26   416.81    5.85  Grus                 σ^2_Gru
+star    359.63   421.65    5.90  Grus                 DL_Gru
+star    345.78   491.43    5.92  Grus                 HD_219507
+star    451.74   532.27    5.99  Grus                 HD_214953
+star    499.78   554.42    6.00  Grus                 S_Gru
+star    420.24   557.33    6.03  Grus                 τ^1_Gru
+star    346.44   593.54    6.04  Grus                 HD_220003
+star    450.89   480.59    6.06  Grus                 HD_214987
+star    535.31   486.80    6.10  Grus                 HD_211053
+star    320.88   470.61    6.12  Grus                 HD_220401
+star    347.35   654.69    6.13  Grus                 HD_220392
+star    606.58   376.92    6.18  Grus                 BZ_Gru
+star    542.17   433.60    6.23  Grus                 HD_210918
+star    646.83   397.14    6.28  Grus                 HD_206642
+star    470.90   416.68    6.28  Grus                 σ^1_Gru
+star    666.52   478.18    6.32  Grus                 HD_205096
+star    382.99   577.35    6.33  Grus                 HD_218255
+star    405.61   345.31    6.40  Grus                 HD_216666
+star    511.78   511.49    6.42  Grus                 π^1_Gru
+star    546.80   551.75    6.43  Grus                 HD_210204
+star    380.03   347.42    6.46  Grus                 HD_217642
+star    441.33   575.56    6.49  Grus                 HD_215504
+star    338.90   434.41    6.49  Grus                 HD_219531
+star    441.99   563.06    6.63  Grus                 HD_215456
+star    415.42   555.70    6.67  Grus                 τ^2_Gru
+line  Grus                 α_Gru  β_Gru
+line  Grus                 α_Gru  δ^1_Gru
+line  Grus                 β_Gru  δ^1_Gru
+line  Grus                 β_Gru  ε_Gru
+line  Grus                 γ_Gru  λ_Gru
+line  Grus                 δ^1_Gru  μ^1_Gru
+line  Grus                 ε_Gru  ζ_Gru
+line  Grus                 λ_Gru  μ^1_Gru

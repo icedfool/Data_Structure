@@ -1,0 +1,103 @@
+star    510.08   424.22    1.79  Perseus              α_Per
+star    562.91   578.26    2.09  Perseus              Algol
+star    399.29   729.95    2.84  Perseus              ζ_Per
+star    398.04   589.74    2.90  Perseus              ε_Per
+star    560.86   359.48    2.91  Perseus              γ_Per_A
+star    561.01   359.24    3.00  Perseus              γ_Per_B
+star    455.52   458.64    3.01  Perseus              δ_Per
+star    574.64   614.38    3.32  Perseus              ρ_Per
+star    592.35   315.53    3.77  Perseus              η_Per
+star    442.82   548.88    3.77  Perseus              ν_Per
+star    555.71   510.54    3.79  Perseus              κ_Per
+star    435.76   726.04    3.84  Perseus              ο_Per
+star    589.38   370.24    3.93  Perseus              τ_Per_A
+star    380.67   452.32    3.96  Perseus              48_Per
+star    387.42   661.81    3.98  Perseus              ξ_Per
+star    589.16   370.33    4.00  Perseus              τ_Per_B
+star    779.72   367.11    4.01  Perseus              φ_Per
+star    553.23   427.60    4.05  Perseus              ι_Per
+star    623.84   428.32    4.10  Perseus              θ_Per
+star    364.77   437.57    4.12  Perseus              μ_Per
+star    624.73   619.36    4.22  Perseus              16_Per
+star    276.42   546.76    4.25  Perseus              58_Per
+star    393.14   407.61    4.25  Perseus              λ_Per
+star    474.64   452.54    4.32  Perseus              ψ_Per
+star    491.75   456.53    4.36  Perseus              σ_Per
+star    626.31   675.55    4.56  Perseus              17_Per
+star    361.24   403.61    4.60  Perseus              HD_26961_b
+star    553.45   602.03    4.61  Perseus              ω_Per
+star    495.77   430.21    4.67  Perseus              34_Per
+star    343.30   573.99    4.67  Perseus              52_Per
+star    595.36   598.69    4.68  Perseus              π_Per
+star    555.34   304.55    4.77  Perseus              HD_18970_k
+star    339.89   467.06    4.80  Perseus              53_Per
+star    529.65   695.50    4.85  Perseus              HD_20468
+star    220.28   599.44    4.89  Perseus              1_Aur
+star    649.17   583.79    4.91  Perseus              12_Per
+star    310.05   671.58    4.93  Perseus              54_Per
+star    599.43   675.84    4.94  Perseus              24_Per
+star    518.94   538.13    4.96  Perseus              32_Per
+star    444.21   698.01    4.97  Perseus              40_Per
+star    713.89   317.90    4.99  Perseus              4_Per
+star    499.39   438.04    4.99  Perseus              HD_21278
+star    524.63   420.07    5.05  Perseus              31_Per
+star    609.30   730.52    5.10  Perseus              21_Per
+star    417.44   711.03    5.14  Perseus              42_Per
+star    525.99   417.83    5.16  Perseus              29_Per
+star    660.38   306.19    5.16  Perseus              9_Per
+star    421.20   404.96    5.28  Perseus              43_Per
+star    485.35   490.20    5.30  Perseus              36_Per
+star    265.53   506.44    5.30  Perseus              59_Per
+star    513.20   435.51    5.32  Perseus              V575_Per
+star    614.10   620.09    5.34  Perseus              20_Per
+star    634.89   513.65    5.43  Perseus              14_Per
+star    487.18   455.92    5.47  Perseus              V396_Per
+star    530.33   525.86    5.49  Perseus              30_Per
+star    358.42   619.09    5.52  Perseus              50_Per
+star    734.53   300.11    5.53  Perseus              1_Per
+star    358.03   391.98    5.55  Perseus              HD_27192_b
+star    680.29   256.41    5.66  Perseus              V472_Per
+star    757.70   372.24    5.70  Perseus              2_Per
+star    749.03   403.64    5.70  Perseus              3_Per
+star    294.76   676.24    5.73  Perseus              55_Per
+star    662.18   269.75    5.75  Perseus              8_Per
+star    612.82   326.85    5.76  Perseus              11_Per
+star    293.84   679.02    5.77  Perseus              56_Per
+star    478.68   597.30    5.79  Perseus              IW_Per
+star    432.07   523.88    5.95  Perseus              V376_Per
+star    537.98   730.02    5.98  Perseus              V573_Per
+star    663.60   276.18    5.99  Perseus              7_Per
+star    358.95   624.61    6.07  Perseus              49_Per
+star    292.97   518.51    6.09  Perseus              57_Per
+star    505.38   437.10    6.09  Perseus              V576_Per
+star    337.32   543.78    6.22  Perseus              V545_Per
+star    650.70   294.65    6.25  Perseus              10_Per
+star    592.66   294.96    6.25  Perseus              V480_Per
+star    658.60   315.00    6.29  Perseus              V440_Per
+star    677.76   270.74    6.38  Perseus              5_Per
+star    558.85   467.57    6.38  Perseus              V521_Per
+star    484.12   511.14    6.42  Perseus              KP_Per
+star    533.52   404.91    6.46  Perseus              V572_Per
+star    569.59   457.54    6.48  Perseus              V509_Per
+star    662.90   283.01    6.55  Perseus              V520_Per
+star    393.64   743.59    6.79  Perseus              X_Per
+line  Perseus              48_Per  δ_Per
+line  Perseus              48_Per  μ_Per
+line  Perseus              Algol  ε_Per
+line  Perseus              Algol  κ_Per
+line  Perseus              Algol  ρ_Per
+line  Perseus              HD_26961_b  λ_Per
+line  Perseus              HD_26961_b  μ_Per
+line  Perseus              α_Per  γ_Per_A
+line  Perseus              α_Per  δ_Per
+line  Perseus              α_Per  ι_Per
+line  Perseus              γ_Per_A  η_Per
+line  Perseus              γ_Per_A  τ_Per_A
+line  Perseus              δ_Per  ε_Per
+line  Perseus              ε_Per  ξ_Per
+line  Perseus              ζ_Per  ξ_Per
+line  Perseus              ζ_Per  ο_Per
+line  Perseus              η_Per  τ_Per_A
+line  Perseus              θ_Per  ι_Per
+line  Perseus              ι_Per  κ_Per
+line  Perseus              ι_Per  τ_Per_A

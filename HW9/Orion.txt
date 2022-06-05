@@ -1,0 +1,46 @@
+star    590.61   702.67    0.18  Orion                Rigel
+star    415.19   431.75    0.42  Orion                Betelgeuse
+star    545.15   450.33    1.64  Orion                Bellatrix
+star    497.09   582.08    1.69  Orion                Alnilam
+star    477.27   594.94    1.88  Orion                Alnitak_A
+star    447.51   727.86    2.07  Orion                Saiph
+star    515.45   566.36    2.20  Orion                Mintaka_AB
+star    696.67   438.53    3.19  Orion                π^3_Ori
+star    548.24   602.78    3.35  Orion                η_Ori
+star    501.76   388.05    3.47  Orion                Meissa_A
+star    691.35   462.24    3.68  Orion                π^4_Ori
+star    679.05   517.61    3.71  Orion                π^5_Ori
+star    665.39   325.34    4.06  Orion                ο^2_Ori
+star    384.82   392.61    4.12  Orion                μ_Ori
+star    692.47   404.84    4.35  Orion                π^2_Ori
+star    422.99   211.28    4.39  Orion                χ^1_Ori
+star    365.32   304.13    4.42  Orion                ν_Ori
+star    346.71   313.55    4.45  Orion                ξ_Ori
+star    660.66   530.48    4.47  Orion                π^6_Ori
+star    673.69   383.34    4.64  Orion                π^1_Ori
+star    384.07   213.34    4.64  Orion                χ^2_Ori
+star    629.91   293.30    4.65  Orion                11_Ori
+line  Orion                11_Ori  ο^2_Ori
+line  Orion                Alnilam  Alnitak_A
+line  Orion                Alnilam  Mintaka_AB
+line  Orion                Alnitak_A  Betelgeuse
+line  Orion                Alnitak_A  Saiph
+line  Orion                Bellatrix  Betelgeuse
+line  Orion                Bellatrix  Meissa_A
+line  Orion                Bellatrix  Mintaka_AB
+line  Orion                Bellatrix  π^3_Ori
+line  Orion                Betelgeuse  Meissa_A
+line  Orion                Betelgeuse  μ_Ori
+line  Orion                Mintaka_AB  η_Ori
+line  Orion                Rigel  η_Ori
+line  Orion                μ_Ori  ξ_Ori
+line  Orion                ν_Ori  ξ_Ori
+line  Orion                ν_Ori  χ^1_Ori
+line  Orion                ξ_Ori  χ^2_Ori
+line  Orion                ο^2_Ori  π^1_Ori
+line  Orion                π^1_Ori  π^2_Ori
+line  Orion                π^2_Ori  π^3_Ori
+line  Orion                π^3_Ori  π^4_Ori
+line  Orion                π^4_Ori  π^5_Ori
+line  Orion                π^5_Ori  π^6_Ori
+line  Orion                χ^1_Ori  χ^2_Ori

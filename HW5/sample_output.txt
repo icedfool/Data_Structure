@@ -1,0 +1,143 @@
+=====================================================================
+test_example()
+
+A 5x1 horizontal row:
+  42  42  42  42  42
+
+A 1x3 vertical column:
+  99
+  99
+  99
+
+A 4x3 grid of zeros:
+   0   0   0   0
+   0   0   0   0
+   0   0   0   0
+
+Now let's initialize the grid values:
+   1   2   3   4
+   5   6   7   8
+   9  10  11  12
+
+Let's join the vertical column on the right: 
+   1   2   3   4  99
+   5   6   7   8  99
+   9  10  11  12  99
+
+And stack the horizontal row on the top: 
+  42  42  42  42  42
+   1   2   3   4  99
+   5   6   7   8  99
+   9  10  11  12  99
+
+done with test_example()
+=====================================================================
+test_iterators()
+
+A 4x3 grid of dots:
+   .   .   .   .   .   .
+   .   .   .   .   .   .
+   .   .   .   .   .   .
+   .   .   .   .   .   .
+
+Use an iterator to walk along a specific path in the grid:
+   .   .   .   .   .   .
+   .   6   5   4   3   .
+   .   7   8   .   2   .
+   .   .   9   .   1   0
+
+Reset all values in the grid to a specific value
+   ?   ?   ?   ?   ?   ?
+   ?   ?   ?   ?   ?   ?
+   ?   ?   ?   ?   ?   ?
+   ?   ?   ?   ?   ?   ?
+
+Label by snaking horizontally through the grid:
+   a   b   c   d   e   f
+   l   k   j   i   h   g
+   m   n   o   p   q   r
+   x   w   v   u   t   s
+
+done with test_iterators()
+=====================================================================
+test_separation()
+
+Prepare an interesting grid:
+   1   2   3   4   5   6   7
+  14  13  12  11  10   9   8
+  15  16  17  18  19  20  21
+  28  27  26  25  24  23  22
+  29  30  31  32  33  34  35
+
+Lifting off the top:
+   1   2   3   4   5   6   7
+  14  13  12  11  10   9   8
+
+Leaving the rest:
+  15  16  17  18  19  20  21
+  28  27  26  25  24  23  22
+  29  30  31  32  33  34  35
+
+Chopping off the right:
+  17  18  19  20  21
+  26  25  24  23  22
+  31  32  33  34  35
+
+Leaving the rest:
+  15  16
+  28  27
+  29  30
+
+Join it back together on the other side:
+  17  18  19  20  21  15  16
+  26  25  24  23  22  28  27
+  31  32  33  34  35  29  30
+
+And stack on the top:
+  17  18  19  20  21  15  16
+  26  25  24  23  22  28  27
+  31  32  33  34  35  29  30
+   1   2   3   4   5   6   7
+  14  13  12  11  10   9   8
+
+done with test_separation()
+=====================================================================
+test_iterators_part_2()
+
+A 6x4 grid of _'s:
+   _   _   _   _   _   _
+   _   _   _   _   _   _
+   _   _   _   _   _   _
+   _   _   _   _   _   _
+
+Label by spiraling into the grid:
+   A   B   C   D   E   F
+   P   Q   R   S   T   G
+   O   X   W   V   U   H
+   N   M   L   K   J   I
+
+And a larger example:
+   1   2   3   4   5   6   7   8
+  32  33  34  35  36  37  38   9
+  31  56  57  58  59  60  39  10
+  30  55  72  73  74  61  40  11
+  29  54  71  80  75  62  41  12
+  28  53  70  79  76  63  42  13
+  27  52  69  78  77  64  43  14
+  26  51  68  67  66  65  44  15
+  25  50  49  48  47  46  45  16
+  24  23  22  21  20  19  18  17
+
+A dereferenced iterator can be an l-value (and modify data):
+   1   2   3   4   5   6   7   8
+  32  33  34  35  36  37  38   9
+  31  56  57  -1  59  60  39  10
+  30  55  72  73  74  61  40  11
+  29  54  71  80  75  62  41  12
+  28  53  70  79  76  63  42  13
+  27  52  69  78  77  64  43  14
+  26  51  68  67  66   0  44  15
+  25  50  49  48  47  46  45  16
+  24  23  22  21  20  19  18  17
+
+done with test_iterators_part_2()

@@ -1,0 +1,183 @@
+star    803.15   988.21    0.45  Eridanus             Achernar_α
+star    183.02   117.44    2.78  Eridanus             β_Eri
+star    682.72   711.26    2.88  Eridanus             θ^1_Eri
+star    481.28   245.76    2.97  Eridanus             γ_Eri
+star    544.54   181.16    3.52  Eridanus             δ_Eri
+star    412.34   598.14    3.55  Eridanus             υ^4_Eri
+star    756.43   895.27    3.56  Eridanus             φ_Eri
+star    805.61   904.67    3.69  Eridanus             χ_Eri
+star    637.75   392.75    3.70  Eridanus             τ^4_Eri
+star    588.85   176.81    3.72  Eridanus             ε_Eri
+star    343.49   546.37    3.81  Eridanus             υ^2_Eri
+star    312.79   265.44    3.86  Eridanus             53_Eri
+star    744.00   175.57    3.89  Eridanus             η_Eri
+star    315.05    77.06    3.93  Eridanus             ν_Eri
+star    390.51   602.67    3.97  Eridanus             υ^3_Eri
+star    275.89    78.04    4.01  Eridanus             μ_Eri
+star    421.00   131.64    4.04  Eridanus             ο^1_Eri
+star    703.18   429.21    4.08  Eridanus             τ^3_Eri
+star    740.58   709.18    4.11  Eridanus             ι_Eri
+star    514.88   636.86    4.17  Eridanus             HD_24160_g
+star    527.19   415.60    4.22  Eridanus             τ^6_Eri
+star    748.84   835.91    4.24  Eridanus             κ_Eri
+star    180.19   180.56    4.25  Eridanus             λ_Eri
+star    607.46   751.17    4.26  Eridanus             Eri^[3]
+star    580.39   388.43    4.26  Eridanus             τ^5_Eri
+star    517.59   660.41    4.30  Eridanus             HD_24071_f
+star    309.01   359.47    4.32  Eridanus             54_Eri
+star    245.39   117.67    4.36  Eridanus             ω_Eri
+star    406.37   145.86    4.43  Eridanus             40_Eri_A_ο
+star    531.87   221.42    4.43  Eridanus             π_Eri
+star    497.02    64.77    4.46  Eridanus             32_Eri_A_w
+star    779.28   347.26    4.47  Eridanus             τ^1_Eri
+star    349.82   532.35    4.49  Eridanus             υ^1_Eri
+star    555.24   704.40    4.57  Eridanus             HD_22663_y
+star    537.64   655.55    4.59  Eridanus             HD_23319_h
+star    474.94   428.96    4.62  Eridanus             τ^9_Eri
+star    499.71   439.19    4.64  Eridanus             τ^8_Eri
+star    599.76   102.14    4.74  Eridanus             17_Eri
+star    732.30   757.76    4.74  Eridanus             HD_16754_s
+star    751.85   387.32    4.76  Eridanus             τ^2_Eri
+star    221.53   241.90    4.78  Eridanus             64_Eri
+star    662.16   168.78    4.80  Eridanus             ζ_Eri
+star    210.68   150.24    4.80  Eridanus             ψ_Eri
+star    641.60   406.07    4.86  Eridanus             15_Eri
+star    410.89   190.66    4.87  Eridanus             39_Eri
+star    333.81    20.73    4.91  Eridanus             45_Eri
+star    308.12   227.80    4.99  Eridanus             HD_29573
+star    265.41   302.26    5.03  Eridanus             60_Eri
+star    814.61   935.41    5.04  Eridanus             HD_10939_q
+star    179.11   107.17    5.11  Eridanus             68_Eri
+star    500.09   612.31    5.11  Eridanus             HD_24626_i
+star    187.31   109.66    5.12  Eridanus             66_Eri
+star    745.61    87.21    5.16  Eridanus             40_G.
+star    369.45    80.88    5.17  Eridanus             ξ_Eri
+star    325.68   159.48    5.20  Eridanus             47_Eri
+star    309.42    62.63    5.22  Eridanus             51_Eri
+star    572.07   315.51    5.24  Eridanus             20_Eri
+star    326.01   172.17    5.24  Eridanus             242_G.
+star    539.68    35.03    5.24  Eridanus             24_Eri
+star    523.84   426.47    5.24  Eridanus             τ^7_Eri
+star    711.76   150.86    5.26  Eridanus             ρ^3_Eri
+star    465.43    41.44    5.28  Eridanus             35_Eri
+star    718.35   152.78    5.32  Eridanus             ρ^2_Eri
+star    460.72    20.20    5.38  Eridanus             164_G.
+star    389.93   372.16    5.38  Eridanus             212_G.
+star    219.64   202.59    5.39  Eridanus             63_Eri
+star    427.45   132.95    5.44  Eridanus             37_Eri
+star    722.21   434.80    5.44  Eridanus             4_Eri
+star    434.43   296.56    5.45  Eridanus             GU_Eri
+star    308.09   266.70    5.46  Eridanus             257_G.
+star    503.97   105.44    5.48  Eridanus             30_Eri
+star    276.79   313.92    5.49  Eridanus             58_Eri
+star    230.57   114.19    5.50  Eridanus             62_Eri
+star    628.44   425.04    5.50  Eridanus             83_G.
+star    820.89   939.98    5.52  Eridanus             HD_10647_q
+star    556.33   103.37    5.53  Eridanus             22_Eri
+star    537.80    20.62    5.56  Eridanus             25_Eri
+star    732.93    65.23    5.56  Eridanus             5_Eri
+star    602.05   232.88    5.57  Eridanus             94_G.
+star    474.93   229.59    5.61  Eridanus             160_G.
+star    349.72   241.49    5.61  Eridanus             DU_Eri
+star    454.22   233.62    5.62  Eridanus             169_G.
+star    497.73   705.13    5.70  Eridanus             153_G.
+star    425.98   165.50    5.70  Eridanus             184_G.
+star    246.18   313.05    5.71  Eridanus             278_G.
+star    326.28   133.87    5.71  Eridanus             46_Eri
+star    244.95   307.50    5.71  Eridanus             R_Eri
+star    292.65   388.81    5.72  Eridanus             267_G.
+star    609.31   209.05    5.74  Eridanus             91_G.
+star    724.85   152.86    5.75  Eridanus             ρ^1_Eri
+star    272.26   303.68    5.76  Eridanus             59_Eri
+star    576.26   742.96    5.76  Eridanus             99_G.
+star    330.86    73.73    5.76  Eridanus             DZ_Eri
+star    807.42   973.85    5.76  Eridanus             HD_10360_p
+star    263.54   119.95    5.77  Eridanus             HD_30562
+star    283.96   166.86    5.78  Eridanus             56_Eri
+star    183.42   178.68    5.80  Eridanus             291_G.
+star    426.54   366.05    5.80  Eridanus             GW_Eri
+star    383.75   446.49    5.81  Eridanus             216_G.
+star    650.09   814.94    5.81  Eridanus             58_G.
+star    719.93   430.15    5.82  Eridanus             6_Eri
+star    720.24   192.11    5.84  Eridanus             53_G.
+star    477.13   107.37    5.85  Eridanus             159_G.
+star    383.06   145.77    5.85  Eridanus             EM_Eri
+star    565.39   140.73    5.86  Eridanus             109_G.
+star    378.82    19.52    5.86  Eridanus             211_G.
+star    203.70   100.43    5.86  Eridanus             287_G.
+star    742.67   887.04    5.90  Eridanus             15_G.
+star    521.63    11.79    5.91  Eridanus             129_G.
+star    473.61   540.64    5.93  Eridanus             163_G.
+star    739.55   410.26    5.93  Eridanus             35_G.
+star    369.42   631.16    5.95  Eridanus             233_G.
+star    563.31   110.55    5.97  Eridanus             21_Eri
+star    286.27   171.70    5.98  Eridanus             55_Eri_A
+star    492.94   221.24    5.99  Eridanus             DO_Eri
+star    399.64   373.12    6.00  Eridanus             GZ_Eri
+star    756.91   243.73    6.05  Eridanus             HD_17925
+star    330.47   203.26    6.06  Eridanus             236_G.
+star    390.69   460.72    6.08  Eridanus             214_G.
+star    711.56   813.26    6.09  Eridanus             20_G.
+star    367.78   433.10    6.11  Eridanus             222_G.
+star    727.93    71.80    6.11  Eridanus             7_Eri
+star    331.18   362.46    6.12  Eridanus             247_G.
+star    658.78   174.37    6.14  Eridanus             14_Eri
+star    733.53   189.91    6.14  Eridanus             45_G.
+star    232.35   270.43    6.15  Eridanus             281_G.
+star    383.02   122.75    6.15  Eridanus             EK_Eri
+star    775.45   887.66    6.17  Eridanus             86
+star    487.01   180.65    6.18  Eridanus             DL_Eri
+star    298.65   506.81    6.18  Eridanus             EX_Eri
+star    560.85   193.03    6.19  Eridanus             113_G.
+star    721.24   132.59    6.20  Eridanus             54_G.
+star    630.68   149.66    6.20  Eridanus             86_G.
+star    501.69   331.56    6.21  Eridanus             147_G.
+star    560.81    72.71    6.22  Eridanus             112_G.
+star    345.66   251.16    6.22  Eridanus             229_G.
+star    212.47   125.74    6.22  Eridanus             HR_1614
+star    581.53   183.68    6.25  Eridanus             104_G.
+star    338.96   549.29    6.28  Eridanus             253_G.
+star    758.55   186.17    6.31  Eridanus             33_G.
+star    589.52   727.45    6.33  Eridanus             89_G.
+star    450.37   368.26    6.34  Eridanus             173_G.
+star    316.35    81.35    6.34  Eridanus             248_G.
+star    556.50   276.10    6.35  Eridanus             114_G.
+star    729.79   719.11    6.35  Eridanus             21_G.
+star    707.88   707.27    6.36  Eridanus             31_G.
+star    679.60   246.71    6.36  Eridanus             66_G.
+star    337.52   433.99    6.37  Eridanus             246_G.
+star    816.84   879.34    6.37  Eridanus             9_G._Eri
+star    395.74   628.10    6.38  Eridanus             218_G.
+star    439.19   622.13    6.43  Eridanus             188_G.
+star    531.76   710.23    6.45  Eridanus             126_G.
+star    412.74    35.83    6.45  Eridanus             GY_Eri
+star    514.56    40.82    6.47  Eridanus             134_G.
+star    767.47   399.89    6.48  Eridanus             26_G.
+star    576.65   102.34    6.49  Eridanus             105_G.
+star    552.87   216.52    6.49  Eridanus             117_G.
+line  Eridanus             Achernar_α  χ_Eri
+line  Eridanus             Eri^[3]  HD_22663_y
+line  Eridanus             Eri^[3]  θ^1_Eri
+line  Eridanus             HD_22663_y  HD_24160_g
+line  Eridanus             HD_24160_g  υ^4_Eri
+line  Eridanus             β_Eri  μ_Eri
+line  Eridanus             γ_Eri  ο^1_Eri
+line  Eridanus             γ_Eri  π_Eri
+line  Eridanus             δ_Eri  ε_Eri
+line  Eridanus             δ_Eri  π_Eri
+line  Eridanus             ε_Eri  η_Eri
+line  Eridanus             η_Eri  τ^1_Eri
+line  Eridanus             θ^1_Eri  ι_Eri
+line  Eridanus             ι_Eri  κ_Eri
+line  Eridanus             κ_Eri  χ_Eri
+line  Eridanus             μ_Eri  ν_Eri
+line  Eridanus             ν_Eri  ο^1_Eri
+line  Eridanus             τ^1_Eri  τ^3_Eri
+line  Eridanus             τ^3_Eri  τ^4_Eri
+line  Eridanus             τ^4_Eri  τ^5_Eri
+line  Eridanus             τ^5_Eri  τ^6_Eri
+line  Eridanus             τ^6_Eri  τ^8_Eri
+line  Eridanus             τ^8_Eri  τ^9_Eri
+line  Eridanus             τ^9_Eri  υ^2_Eri
+line  Eridanus             υ^2_Eri  υ^3_Eri
+line  Eridanus             υ^3_Eri  υ^4_Eri

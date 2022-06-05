@@ -1,0 +1,3 @@
+0 INSERT "#include <string>"
+2 REPLACE "int main(int argc, char* argv[]) {"
+4 ERASE

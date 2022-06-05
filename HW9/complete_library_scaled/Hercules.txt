@@ -1,0 +1,148 @@
+star    750.70   594.22    2.78  Hercules             β_Her
+star    690.31   405.38    2.81  Hercules             ζ_Her
+star    553.07   538.25    3.12  Hercules             δ_Her
+star    554.04   310.90    3.16  Hercules             π_Her
+star    554.26   736.01    3.31  Hercules             α^1_Her
+star    421.04   478.68    3.42  Hercules             μ_Her
+star    673.29   268.12    3.48  Hercules             η_Her
+star    376.69   446.09    3.70  Hercules             ξ_Her
+star    790.20   635.06    3.74  Hercules             γ_Her
+star    474.34   139.29    3.82  Hercules             ι_Her
+star    335.88   451.40    3.84  Hercules             ο_Her
+star    253.55   575.44    3.85  Hercules             109_Her
+star    398.56   295.76    3.86  Hercules             θ_Her
+star    735.80   126.99    3.91  Hercules             τ_Her
+star    613.86   421.55    3.92  Hercules             ε_Her
+star    159.06   583.28    4.19  Hercules             110_Her
+star    698.17   201.23    4.20  Hercules             σ_Her
+star    775.98   147.42    4.23  Hercules             φ_Her
+star    348.28   589.99    4.26  Hercules             95_Her
+star    147.51   626.47    4.34  Hercules             111_Her
+star    315.64   601.54    4.37  Hercules             102_Her
+star    485.95   512.71    4.41  Hercules             λ_Her
+star    375.44   427.97    4.41  Hercules             ν_Her
+star    128.34   536.41    4.50  Hercules             113_Her
+star    521.25   304.18    4.51  Hercules             ρ_Her_A
+star    780.56   732.54    4.57  Hercules             ω_Her
+star    838.91   184.31    4.60  Hercules             χ_Her
+star    544.13   301.79    4.64  Hercules             69_Her
+star    348.38   682.00    4.67  Hercules             93_Her
+star    790.76   125.26    4.72  Hercules             υ_Her
+star    544.58   380.83    4.80  Hercules             68_Her
+star    640.50   140.13    4.82  Hercules             52_Her
+star    718.45   209.82    4.83  Hercules             30_Her
+star    749.77   782.49    4.84  Hercules             29_Her
+star    668.83    85.93    4.86  Hercules             42_Her
+star    597.34   766.45    4.89  Hercules             60_Her
+star    268.33   573.81    4.92  Hercules             106_Her
+star    324.62   399.45    4.96  Hercules             104_Her
+star    329.71   576.22    4.96  Hercules             98_Her
+star    607.53   741.15    4.97  Hercules             32_Oph
+star    854.09   667.66    5.00  Hercules             κ_Her
+star    528.70   666.92    5.01  Hercules             V656_Her
+star    653.87   539.86    5.03  Hercules             51_Her
+star    341.95   417.55    5.05  Hercules             99_Her
+star    408.40   517.98    5.09  Hercules             87_Her
+star    313.87   616.01    5.10  Hercules             101_Her
+star    882.54   649.14    5.10  Hercules             5_Her
+star    281.82   442.75    5.12  Hercules             107_Her
+star    527.56   544.50    5.13  Hercules             70_Her
+star    689.76   839.70    5.15  Hercules             43_Her
+star    415.33   245.46    5.17  Hercules             90_Her
+star    681.49   900.14    5.22  Hercules             45_Her
+star    750.49   613.49    5.24  Hercules             HD_148897
+star    343.35   604.05    5.25  Hercules             96_Her
+star    607.15   371.53    5.27  Hercules             59_Her
+star    278.39   527.45    5.30  Hercules             105_Her
+star    643.08   405.87    5.34  Hercules             53_Her
+star    829.43   172.98    5.35  Hercules             2_Her
+star    641.60   658.68    5.35  Hercules             54_Her
+star    487.41    93.84    5.35  Hercules             82_Her
+star    531.05   392.62    5.38  Hercules             72_Her
+star    581.05   327.25    5.41  Hercules             HD_155103
+star    134.59   561.50    5.43  Hercules             112_Her
+star    842.63   890.71    5.46  Hercules             9_Her
+star    381.07   507.71    5.47  Hercules             89_Her
+star    669.04   864.87    5.48  Hercules             47_Her
+star    537.60   137.15    5.51  Hercules             74_Her
+star    741.00   291.63    5.53  Hercules             25_Her
+star    429.29   703.05    5.55  Hercules             HR_6594
+star    529.96   251.55    5.55  Hercules             V819_Her
+star    434.32   539.87    5.56  Hercules             83_Her
+star    284.79   424.12    5.61  Hercules             108_Her
+star    752.78   890.68    5.63  Hercules             n_Her
+star    482.95   468.75    5.66  Hercules             78_Her
+star    513.08   573.57    5.70  Hercules             73_Her
+star    818.96   638.52    5.72  Hercules             16_Her
+star    829.01   183.72    5.73  Hercules             4_Her
+star    654.26   441.51    5.73  Hercules             50_Her
+star    430.26   544.15    5.73  Hercules             84_Her
+star    827.20   548.01    5.74  Hercules             10_Her
+star    455.46   545.84    5.76  Hercules             79_Her
+star    715.33   916.46    5.77  Hercules             37_Her
+star    329.18   501.83    5.79  Hercules             100_Her
+star    791.36   861.71    5.83  Hercules             21_Her
+star    518.24   100.73    5.83  Hercules             77_Her
+star    652.35   207.76    5.86  Hercules             V636_Her
+star    605.20   750.26    5.91  Hercules             33_Oph
+star    694.99   494.56    5.92  Hercules             39_Her
+star    603.76   750.98    6.06  Hercules             34_Oph
+star    639.01   519.92    6.06  Hercules             56_Her
+star    839.72   676.68    6.09  Hercules             48_Ser
+star    502.99   687.90    6.09  Hercules             V640_Her
+star    850.77   665.08    6.13  Hercules             8_Her
+star    417.74   731.27    6.18  Hercules             V624_Her
+star    598.78   336.82    6.19  Hercules             61_Her
+star    117.46   700.56    6.19  Hercules             V822_Her
+star    570.34   549.74    6.20  Hercules             63_Her
+star    346.02   564.40    6.22  Hercules             97_Her
+star    415.85   147.12    6.22  Hercules             OP_Her
+star    628.58   527.47    6.27  Hercules             57_Her
+star    614.63   724.98    6.27  Hercules             V451_Her
+star    837.77   875.56    6.30  Hercules             2_G._Her
+star    370.23   546.12    6.32  Hercules             HD_163840
+star    338.45   544.14    6.34  Hercules             V831_Her
+star    644.03   748.96    6.35  Hercules             V644_Her
+star    466.47   725.67    6.36  Hercules             V642_Her
+star    728.01   709.44    6.36  Hercules             V773_Her
+star    231.39   701.68    6.37  Hercules             V1343_Her
+star    463.25   483.99    6.37  Hercules             V959_Her
+star    349.94   629.96    6.42  Hercules             V974_Her
+star    695.46    83.33    6.44  Hercules             34_Her
+star    729.57   896.75    6.48  Hercules             11_G._Her
+star    409.40   144.28    6.48  Hercules             V771_Her
+star    658.17   723.15    6.51  Hercules             49_Her
+star    786.17   103.99    6.52  Hercules             X_Her
+star    694.38   884.44    6.55  Hercules             41_Her
+star    659.84   438.24    6.59  Hercules             48_Her
+star    774.69   168.12    6.61  Hercules             14_Her
+star    835.67   736.13    6.68  Hercules             49_Ser
+star    794.04   505.73    6.70  Hercules             19_Her
+star    773.47   641.63    6.70  Hercules             U_Her
+star    595.61   121.92    6.74  Hercules             HD_154345
+star    444.97    94.72    6.78  Hercules             88_Her
+star    723.51   424.11    6.87  Hercules             32_Her
+star    715.61   916.67    6.92  Hercules             36_Her
+star    711.15   905.17    6.96  Hercules             38_Her
+line  Hercules             29_Her  ω_Her
+line  Hercules             α^1_Her  β_Her
+line  Hercules             α^1_Her  δ_Her
+line  Hercules             β_Her  γ_Her
+line  Hercules             β_Her  ζ_Her
+line  Hercules             γ_Her  ω_Her
+line  Hercules             δ_Her  ε_Her
+line  Hercules             δ_Her  λ_Her
+line  Hercules             ε_Her  ζ_Her
+line  Hercules             ε_Her  π_Her
+line  Hercules             ζ_Her  η_Her
+line  Hercules             η_Her  π_Her
+line  Hercules             η_Her  σ_Her
+line  Hercules             θ_Her  ι_Her
+line  Hercules             θ_Her  ρ_Her_A
+line  Hercules             λ_Her  μ_Her
+line  Hercules             μ_Her  ξ_Her
+line  Hercules             ξ_Her  ο_Her
+line  Hercules             π_Her  ρ_Her_A
+line  Hercules             σ_Her  τ_Her
+line  Hercules             τ_Her  φ_Her
+line  Hercules             φ_Her  χ_Her

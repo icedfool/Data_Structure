@@ -1,0 +1,14 @@
+compute_diff_prioritize_insert WORD input_original.txt input_revised.txt output_prioritize_insert.diff
+render_diff WORD input_original.txt output_prioritize_insert.diff output_prioritize_insert.html
+
+compute_diff_prioritize_erase WORD input_original.txt input_revised.txt output_prioritize_erase.diff
+render_diff WORD input_original.txt output_prioritize_erase.diff output_prioritize_erase.html
+
+compute_diff_prioritize_replace WORD input_original.txt input_revised.txt output_prioritize_replace.diff
+render_diff WORD input_original.txt output_prioritize_replace.diff output_prioritize_replace.html
+
+compute_diff WORD input_original.txt input_revised.txt output_default.diff
+render_diff WORD input_original.txt output_default.diff output_default.html
+
+compute_diff_recursive WORD input_original.txt input_revised.txt output_recursive.diff
+render_diff WORD input_original.txt output_recursive.diff output_recursive.html

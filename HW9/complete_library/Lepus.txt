@@ -1,0 +1,88 @@
+star    510.46   473.70    2.58  Lepus                α_Lep
+star    528.51   525.09    2.81  Lepus                β_Lep
+star    619.74   555.66    3.19  Lepus                ε_Lep
+star    593.38   447.03    3.29  Lepus                μ_Lep
+star    450.69   421.71    3.55  Lepus                ζ_Lep
+star    462.75   554.55    3.59  Lepus                γ_Lep
+star    410.67   411.21    3.71  Lepus                η_Lep
+star    434.47   527.65    3.76  Lepus                δ_Lep
+star    566.60   393.55    4.29  Lepus                λ_Lep
+star    593.55   390.21    4.36  Lepus                κ_Lep
+star    597.91   371.75    4.45  Lepus                ι_Lep
+star    370.11   426.02    4.67  Lepus                θ_Lep
+star    560.08   533.99    4.70  Lepus                HD_34968
+star    638.06   516.02    4.91  Lepus                HD_32309
+star    375.93   452.80    4.92  Lepus                17_Lep
+star    628.79   623.97    5.01  Lepus                HD_32436
+star    390.49   623.04    5.03  Lepus                HD_41312
+star    576.88   633.55    5.06  Lepus                HD_34310
+star    553.22   595.35    5.06  Lepus                HD_35162
+star    549.78   406.25    5.25  Lepus                8_Lep
+star    366.67   500.03    5.28  Lepus                19_Lep
+star    565.10   378.57    5.29  Lepus                ν_Lep
+star    374.70   568.53    5.46  Lepus                HD_41841
+star    574.56   399.71    5.48  Lepus                HD_34538
+star    439.42   416.02    5.49  Lepus                HD_39070
+star    364.38   557.08    5.49  Lepus                HD_42301
+star    516.75   526.80    5.53  Lepus                10_Lep
+star    355.61   420.57    5.56  Lepus                HD_42341
+star    601.81   371.54    5.60  Lepus                RX_Lep
+star    624.08   590.99    5.61  Lepus                HD_32667
+star    416.98   369.47    5.62  Lepus                HD_39853
+star    544.96   459.28    5.64  Lepus                HD_35505
+star    651.00   452.46    5.65  Lepus                HD_31925
+star    616.88   621.30    5.71  Lepus                HD_32890
+star    361.40   563.27    5.71  Lepus                HD_42443
+star    363.14   639.29    5.72  Lepus                HD_42621
+star    466.44   486.65    5.73  Lepus                HD_38206
+star    630.17   563.53    5.74  Lepus                1_Lep
+star    371.85   546.01    5.74  Lepus                YY_Lep
+star    537.96   506.64    5.78  Lepus                HD_35736
+star    441.11   564.02    5.87  Lepus                HD_39190
+star    471.74   553.17    5.88  Lepus                12_Lep
+star    415.61   562.34    5.95  Lepus                HD_40151
+star    567.98   479.90    5.96  Lepus                HD_34721
+star    618.34   383.29    5.97  Lepus                HD_33093
+star    621.42   394.39    6.04  Lepus                HD_32996
+star    397.70   607.74    6.04  Lepus                HD_40972
+star    530.97   535.87    6.08  Lepus                HD_35991
+star    359.84   627.82    6.08  Lepus                HD_42729
+star    491.99   368.44    6.10  Lepus                HD_37306
+star    470.92   468.68    6.15  Lepus                HD_38054
+star    462.84   554.10    6.15  Lepus                HD_38392
+star    434.73   563.37    6.16  Lepus                HD_39385
+star    450.27   446.39    6.18  Lepus                HD_38713
+star    384.92   417.80    6.20  Lepus                HD_41125
+star    393.75   389.70    6.21  Lepus                HD_40745
+star    589.63   419.05    6.22  Lepus                HD_34045
+star    473.10   454.63    6.22  Lepus                HD_37971
+star    365.66   631.32    6.27  Lepus                HD_42486
+star    534.96   370.85    6.30  Lepus                HD_35850
+star    616.54   384.98    6.33  Lepus                HD_33162
+star    462.17   514.09    6.34  Lepus                HD_38382
+star    359.13   482.21    6.36  Lepus                HD_42327
+star    565.95   486.65    6.37  Lepus                HD_34798
+star    414.49   568.91    6.37  Lepus                HD_40235
+star    613.62   428.40    6.38  Lepus                HD_33238
+star    595.81   616.28    6.40  Lepus                HD_33667
+star    483.30   474.17    6.40  Lepus                HD_37643
+star    632.25   416.56    6.42  Lepus                HD_32612
+star    581.58   362.30    6.45  Lepus                HD_34318
+star    615.25   503.48    6.47  Lepus                HD_33095
+star    555.40   470.43    6.47  Lepus                HD_35137
+star    546.75   628.72    6.49  Lepus                HD_35386
+star    378.77   587.24    6.74  Lepus                S_Lep
+star    349.00   441.96    6.77  Lepus                HD_42659
+star    358.54   360.71    6.90  Lepus                4_Mon
+line  Lepus                α_Lep  β_Lep
+line  Lepus                α_Lep  ζ_Lep
+line  Lepus                α_Lep  μ_Lep
+line  Lepus                β_Lep  γ_Lep
+line  Lepus                β_Lep  ε_Lep
+line  Lepus                γ_Lep  δ_Lep
+line  Lepus                δ_Lep  θ_Lep
+line  Lepus                ε_Lep  μ_Lep
+line  Lepus                ζ_Lep  η_Lep
+line  Lepus                η_Lep  θ_Lep
+line  Lepus                κ_Lep  μ_Lep
+line  Lepus                λ_Lep  μ_Lep

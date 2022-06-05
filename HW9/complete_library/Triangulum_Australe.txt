@@ -1,0 +1,39 @@
+star    428.06   566.64    1.91  Triangulum_Australe  α_TrA
+star    515.65   463.92    2.83  Triangulum_Australe  β_TrA
+star    568.50   562.13    2.87  Triangulum_Australe  γ_TrA
+star    476.22   468.20    3.86  Triangulum_Australe  δ_TrA
+star    545.57   516.88    4.11  Triangulum_Australe  ε_TrA
+star    460.95   580.95    4.90  Triangulum_Australe  ζ_TrA
+star    425.71   533.11    5.10  Triangulum_Australe  LP_TrA
+star    511.05   554.06    5.11  Triangulum_Australe  κ_TrA
+star    443.16   434.60    5.19  Triangulum_Australe  HD_148291
+star    452.61   476.15    5.28  Triangulum_Australe  ι_TrA
+star    440.73   502.57    5.50  Triangulum_Australe  θ_TrA
+star    527.24   499.77    5.54  Triangulum_Australe  HD_140483
+star    566.24   488.28    5.71  Triangulum_Australe  LX_TrA
+star    507.38   491.68    5.74  Triangulum_Australe  HD_142514
+star    570.46   587.42    5.75  Triangulum_Australe  X_TrA
+star    589.38   538.11    5.76  Triangulum_Australe  HD_133683
+star    515.83   412.58    5.76  Triangulum_Australe  HD_142139
+star    412.31   573.95    5.79  Triangulum_Australe  MX_TrA
+star    558.13   553.74    5.89  Triangulum_Australe  HD_136672
+star    437.46   552.27    5.89  Triangulum_Australe  η^1_TrA
+star    476.18   542.52    5.95  Triangulum_Australe  HD_145689
+star    432.06   537.82    6.02  Triangulum_Australe  HD_150026
+star    411.52   504.85    6.12  Triangulum_Australe  HD_151441
+star    518.26   417.23    6.14  Triangulum_Australe  HD_141913
+star    456.32   459.53    6.14  Triangulum_Australe  HD_147349
+star    599.22   507.99    6.18  Triangulum_Australe  HD_133456
+star    519.82   449.76    6.22  Triangulum_Australe  HD_141585
+star    420.78   453.47    6.23  Triangulum_Australe  HD_150097
+star    500.79   448.00    6.25  Triangulum_Australe  HD_143238
+star    569.60   541.07    6.27  Triangulum_Australe  HD_135737
+star    418.15   544.55    6.33  Triangulum_Australe  HD_151404
+star    574.29   524.45    6.39  Triangulum_Australe  R_TrA
+star    503.76   469.58    6.42  Triangulum_Australe  S_TrA
+star    532.29   584.01    6.45  Triangulum_Australe  HD_138965
+star    400.78   558.87    6.47  Triangulum_Australe  HD_153389
+star    486.58   455.41    6.50  Triangulum_Australe  HD_144481
+line  Triangulum_Australe  α_TrA  β_TrA
+line  Triangulum_Australe  α_TrA  γ_TrA
+line  Triangulum_Australe  β_TrA  γ_TrA

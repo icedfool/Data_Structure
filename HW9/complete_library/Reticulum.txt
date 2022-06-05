@@ -1,0 +1,27 @@
+star    461.97   530.45    3.33  Reticulum            α_Ret
+star    520.67   570.82    3.84  Reticulum            β_Ret
+star    453.95   475.53    4.44  Reticulum            ε_Ret
+star    489.16   523.96    4.48  Reticulum            γ_Ret
+star    493.51   510.68    4.56  Reticulum            δ_Ret
+star    551.74   540.68    4.71  Reticulum            κ_Ret
+star    488.10   505.11    4.97  Reticulum            ι_Ret
+star    574.85   536.19    5.24  Reticulum            ζ^2_Ret
+star    448.45   547.48    5.24  Reticulum            η_Ret
+star    460.88   525.59    5.45  Reticulum            HD_27304
+star    575.54   537.52    5.53  Reticulum            ζ^1_Ret
+star    435.29   533.66    5.74  Reticulum            HD_28732
+star    424.46   540.35    5.79  Reticulum            HD_29399
+star    542.16   601.93    5.81  Reticulum            HD_22252
+star    456.48   544.51    5.88  Reticulum            θ_Ret
+star    438.33   510.80    5.94  Reticulum            HD_28413
+star    563.11   612.34    6.03  Reticulum            HD_20888
+star    493.40   435.79    6.05  Reticulum            HD_25346
+star    498.83   546.71    6.14  Reticulum            HD_25170
+star    529.32   387.66    6.29  Reticulum            HD_23697
+star    456.23   504.16    6.34  Reticulum            TT_Ret
+star    477.30   560.25    6.37  Reticulum            HD_26491
+star    548.12   506.59    6.42  Reticulum            HD_22382
+line  Reticulum            α_Ret  β_Ret
+line  Reticulum            α_Ret  ε_Ret
+line  Reticulum            β_Ret  δ_Ret
+line  Reticulum            δ_Ret  ε_Ret

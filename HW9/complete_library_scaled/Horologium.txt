@@ -1,0 +1,38 @@
+star    203.80   145.33    3.85  Horologium           α_Hor
+star    673.92   360.50    4.70  Horologium           R_Hor
+star    220.92   131.85    4.93  Horologium           δ_Hor
+star    620.93   825.72    4.98  Horologium           β_Hor
+star    609.51   683.01    5.12  Horologium           μ_Hor
+star    726.00   520.37    5.21  Horologium           ζ_Hor
+star    660.31   787.19    5.25  Horologium           ν_Hor
+star    750.05   456.42    5.30  Horologium           η_Hor
+star    185.17   215.15    5.33  Horologium           HD_27588
+star    765.91   718.70    5.36  Horologium           λ_Hor
+star    730.71   395.99    5.40  Horologium           ι_Hor
+star    468.75   375.71    5.67  Horologium           HD_22231
+star    572.82   602.46    5.71  Horologium           TW_Hor
+star    392.09   282.39    5.72  Horologium           HD_23719
+star    670.35   817.63    5.73  Horologium           γ_Hor
+star    814.83   581.07    5.81  Horologium           HD_14641
+star    547.71   286.05    5.84  Horologium           HD_20640
+star    344.22   272.88    5.93  Horologium           HD_24706
+star    473.82   276.14    5.98  Horologium           TU_Hor
+star    647.63   789.50    6.03  Horologium           HD_18185
+star    586.19   318.50    6.11  Horologium           HD_19948
+star    716.23   453.30    6.15  Horologium           HD_17254
+star    670.49   392.76    6.22  Horologium           HD_18265
+star    665.47   915.39    6.23  Horologium           HD_17326
+star    774.04   411.31    6.24  Horologium           HD_16170
+star    729.67   845.15    6.35  Horologium           HD_15646
+star    195.41    83.33    6.36  Horologium           HD_26927
+star    724.89   916.67    6.39  Horologium           TZ_Hor
+star    524.84   287.28    6.40  Horologium           HD_21011
+star    638.27   871.95    6.47  Horologium           HD_18292
+star    396.71   305.12    6.49  Horologium           HD_23670
+star    511.55   396.22    6.50  Horologium           HD_21360
+star    405.26   234.75    6.50  Horologium           HD_23308
+line  Horologium           α_Hor  ι_Hor
+line  Horologium           β_Hor  μ_Hor
+line  Horologium           ζ_Hor  η_Hor
+line  Horologium           ζ_Hor  μ_Hor
+line  Horologium           η_Hor  ι_Hor

@@ -1,0 +1,29 @@
+star    564.32   600.99    2.22  Corona_Borealis      α_CrB
+star    588.73   558.08    3.66  Corona_Borealis      β_CrB
+star    533.14   609.35    3.81  Corona_Borealis      γ_CrB
+star    475.16   599.68    4.14  Corona_Borealis      ε_CrB
+star    567.62   519.86    4.14  Corona_Borealis      θ_CrB
+star    506.38   613.74    4.59  Corona_Borealis      δ_CrB
+star    540.50   428.86    4.64  Corona_Borealis      ζ_CrB
+star    436.85   431.22    4.73  Corona_Borealis      τ_CrB
+star    499.13   446.68    4.79  Corona_Borealis      κ_CrB
+star    384.28   526.27    4.86  Corona_Borealis      ξ_CrB
+star    461.03   547.72    4.98  Corona_Borealis      ι_CrB
+star    604.90   536.35    4.99  Corona_Borealis      η_CrB_A_η
+star    552.91   387.11    5.14  Corona_Borealis      μ_CrB
+star    386.73   475.58    5.20  Corona_Borealis      ν^1_CrB_ν^
+star    463.57   487.49    5.39  Corona_Borealis      ρ_CrB
+star    386.14   477.22    5.40  Corona_Borealis      ν^2_CrB_ν^
+star    483.20   406.85    5.43  Corona_Borealis      λ_CrB
+star    617.16   547.18    5.51  Corona_Borealis      ο_CrB
+star    414.44   476.17    5.56  Corona_Borealis      σ_CrB_A_σ^
+star    526.07   501.12    5.57  Corona_Borealis      π_CrB
+star    402.65   557.81    5.80  Corona_Borealis      υ_CrB
+star    510.03   577.42    5.89  Corona_Borealis      R_CrB
+star    511.38   515.00    6.41  Corona_Borealis      141456
+star    382.84   500.96    6.41  Corona_Borealis      23_Her
+line  Corona_Borealis      α_CrB  β_CrB
+line  Corona_Borealis      α_CrB  γ_CrB
+line  Corona_Borealis      β_CrB  θ_CrB
+line  Corona_Borealis      γ_CrB  ε_CrB
+line  Corona_Borealis      ε_CrB  ι_CrB

@@ -1,0 +1,84 @@
+star    484.71   387.66    2.84  Ara                  α_Ara
+star    505.70   485.55    2.84  Ara                  β_Ara
+star    570.97   494.88    3.12  Ara                  ζ_Ara
+star    505.88   500.33    3.31  Ara                  γ_Ara
+star    495.86   575.63    3.60  Ara                  δ_Ara
+star    388.52   402.18    3.65  Ara                  θ_Ara
+star    586.97   549.52    3.77  Ara                  η_Ara
+star    571.80   445.45    4.06  Ara                  ε^1_Ara
+star    470.57   329.84    4.56  Ara                  σ_Ara
+star    460.13   381.22    4.76  Ara                  λ_Ara
+star    453.31   424.11    5.12  Ara                  μ_Ara
+star    501.49   400.21    5.19  Ara                  κ_Ara
+star    508.03   344.98    5.21  Ara                  ι_Ara
+star    472.86   469.18    5.25  Ara                  π_Ara
+star    562.44   446.24    5.27  Ara                  ε^2_Ara
+star    496.59   317.12    5.28  Ara                  HD_157661
+star    520.41   330.41    5.47  Ara                  41_G._Ara
+star    578.08   401.83    5.53  Ara                  ρ^2
+star    593.82   537.99    5.55  Ara                  HD_150898
+star    625.82   389.19    5.62  Ara                  HD_150168
+star    568.89   470.39    5.64  Ara                  HD_153053
+star    628.59   373.97    5.65  Ara                  HD_150136
+star    439.92   456.72    5.68  Ara                  V539_Ara
+star    511.90   612.78    5.69  Ara                  HD_156838
+star    497.09   429.37    5.72  Ara                  HD_157753
+star    555.42   524.05    5.73  Ara                  HD_153716
+star    595.70   541.03    5.74  Ara                  HD_150745
+star    511.42   502.78    5.76  Ara                  HD_156854
+star    510.34   574.95    5.76  Ara                  HD_156942
+star    454.33   338.26    5.78  Ara                  HD_160263
+star    512.40   528.63    5.86  Ara                  HD_156768
+star    531.92   686.82    5.87  Ara                  HD_154903
+star    469.19   391.79    5.89  Ara                  HD_159463
+star    498.15   400.25    5.90  Ara                  HD_157662
+star    579.29   529.05    5.91  Ara                  HD_151967
+star    521.15   557.81    5.93  Ara                  HD_156091
+star    497.19   479.54    5.93  Ara                  HD_157819
+star    581.02   430.75    5.94  Ara                  HD_152527
+star    541.83   369.41    5.94  Ara                  V854_Ara
+star    491.89   510.34    5.95  Ara                  V862_Ara
+star    610.61   448.81    5.96  Ara                  HD_150576
+star    574.14   366.80    5.98  Ara                  HD_153221
+star    568.15   621.33    5.99  Ara                  HD_152082
+star    481.71   321.08    6.04  Ara                  HD_158476
+star    565.98   340.50    6.07  Ara                  HD_153791
+star    532.75   509.03    6.08  Ara                  HR_6384
+star    478.58   448.73    6.09  Ara                  HD_159018
+star    448.05   487.23    6.09  Ara                  HD_161420
+star    420.91   318.70    6.09  Ara                  HD_162123
+star    437.11   448.58    6.09  Ara                  ν^2_Ara
+star    371.09   329.13    6.13  Ara                  HD_165493
+star    606.23   585.85    6.16  Ara                  HD_149485
+star    603.46   575.97    6.17  Ara                  HD_149837
+star    499.62   423.21    6.17  Ara                  HD_157599
+star    628.91   326.97    6.22  Ara                  HD_150421
+star    503.84   615.98    6.22  Ara                  HD_157524
+star    485.31   561.67    6.26  Ara                  HD_158895
+star    429.60   515.82    6.26  Ara                  HD_163071
+star    560.24   546.01    6.26  Ara                  V828_Ara
+star    519.39   389.96    6.27  Ara                  HD_156331
+star    456.99   400.63    6.28  Ara                  V626_Ara
+star    624.46   421.11    6.30  Ara                  V872_Ara
+star    583.96   402.84    6.30  Ara                  ρ^1_Ara
+star    476.58   364.60    6.32  Ara                  HD_158907
+star    540.19   592.33    6.37  Ara                  HD_154555
+star    564.31   504.33    6.40  Ara                  HD_153201
+star    568.03   409.76    6.43  Ara                  HD_153370
+star    600.21   393.22    6.45  Ara                  HD_151566
+star    394.53   430.36    6.46  Ara                  HD_164896
+star    618.99   333.84    6.47  Ara                  HD_150897
+star    589.73   386.45    6.49  Ara                  HD_152220
+star    522.16   612.82    6.50  Ara                  HD_155951
+star    494.08   337.70    6.65  Ara                  HD_157832
+star    518.22   363.61    6.67  Ara                  HD_156411
+star    614.26   516.83    6.73  Ara                  R_Ara
+star    524.95   682.60    6.77  Ara                  HD_155555
+star    518.96   313.18    6.92  Ara                  HD_156385
+line  Ara                  α_Ara  β_Ara
+line  Ara                  α_Ara  ε^1_Ara
+line  Ara                  α_Ara  θ_Ara
+line  Ara                  γ_Ara  δ_Ara
+line  Ara                  δ_Ara  η_Ara
+line  Ara                  ε^1_Ara  ζ_Ara
+line  Ara                  ζ_Ara  η_Ara

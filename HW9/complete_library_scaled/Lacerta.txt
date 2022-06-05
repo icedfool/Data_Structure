@@ -1,0 +1,79 @@
+star    510.01   338.91    3.76  Lacerta              α_Lac
+star    633.29   830.91    4.14  Lacerta              1_Lac
+star    522.50   440.67    4.34  Lacerta              5_Lac
+star    556.32   261.26    4.42  Lacerta              β_Lac
+star    446.29   576.26    4.50  Lacerta              11_Lac
+star    645.44   752.68    4.50  Lacerta              HD_211073
+star    517.83   622.37    4.52  Lacerta              6_Lac
+star    581.02   485.55    4.55  Lacerta              2_Lac
+star    553.85   370.00    4.55  Lacerta              4_Lac
+star    472.14   289.00    4.64  Lacerta              9_Lac
+star    451.72   783.05    4.89  Lacerta              10_Lac
+star    362.56   611.16    4.95  Lacerta              15_Lac
+star    349.37   355.44    4.99  Lacerta              V424_Lac
+star    687.99   539.33    5.09  Lacerta              HD_209945
+star    417.85   672.82    5.11  Lacerta              13_Lac
+star    468.15    83.33    5.11  Lacerta              V416_Lac
+star    435.70   736.35    5.25  Lacerta              12_Lac
+star    342.06   396.53    5.34  Lacerta              EW_Lac
+star    635.62   312.76    5.38  Lacerta              HD_210715
+star    405.68   116.03    5.43  Lacerta              HD_216174
+star    632.70   526.46    5.53  Lacerta              HD_211096
+star    326.68   676.61    5.60  Lacerta              16_Lac
+star    631.96   625.21    5.72  Lacerta              HD_211211
+star    495.03    90.20    5.72  Lacerta              HD_213930
+star    477.95   760.36    5.73  Lacerta              8_Lac_A
+star    318.82   883.35    5.73  Lacerta              HD_216831
+star    354.27   553.62    5.79  Lacerta              HD_216608
+star    380.56   845.07    5.82  Lacerta              HD_215943
+star    340.63   726.16    5.82  Lacerta              HD_216646
+star    406.61   564.36    5.84  Lacerta              HD_215664
+star    504.13   754.67    5.88  Lacerta              HD_213660
+star    371.88   665.55    5.91  Lacerta              14_Lac
+star    325.99   855.36    5.91  Lacerta              HD_216756
+star    435.99   684.04    5.93  Lacerta              HD_215030
+star    415.09   765.76    5.93  Lacerta              HD_215359
+star    456.22   198.28    5.94  Lacerta              HD_214878
+star    448.39   840.34    6.03  Lacerta              HD_214714
+star    667.34   512.07    6.11  Lacerta              AR_Lac
+star    444.37   195.53    6.14  Lacerta              HD_215159
+star    407.85   174.33    6.14  Lacerta              HD_216057
+star    542.16   753.05    6.16  Lacerta              HD_212978
+star    687.21   470.55    6.16  Lacerta              HR_8421
+star    311.00   766.32    6.17  Lacerta              HD_217101
+star    650.06   213.57    6.17  Lacerta              V399_Lac
+star    570.40   801.12    6.18  Lacerta              HD_212487
+star    686.02   530.18    6.19  Lacerta              HD_209993
+star    610.06   831.27    6.19  Lacerta              HD_211797
+star    391.44   320.69    6.23  Lacerta              HD_216206
+star    678.08   412.23    6.26  Lacerta              HD_209961
+star    469.40   916.67    6.28  Lacerta              HD_214313
+star    480.82   347.27    6.29  Lacerta              HD_214240
+star    347.13   734.85    6.33  Lacerta              V377_Lac
+star    482.91   111.71    6.37  Lacerta              HD_214279
+star    462.58   540.61    6.38  Lacerta              HD_214558
+star    581.71   662.30    6.38  Lacerta              V405_Lac
+star    431.56   461.20    6.39  Lacerta              HD_215242
+star    576.09   309.79    6.40  Lacerta              HD_212071
+star    657.07   351.81    6.41  Lacerta              HD_210289
+star    502.92   191.20    6.41  Lacerta              HD_213720
+star    517.91   375.44    6.41  Lacerta              V350_Lac
+star    422.29   831.46    6.43  Lacerta              HD_215191
+star    427.78   249.68    6.43  Lacerta              HD_215518
+star    580.79   876.01    6.45  Lacerta              HD_212334
+star    599.87   382.04    6.46  Lacerta              HD_211660
+star    549.08   846.08    6.46  Lacerta              HD_212883
+star    373.84   330.17    6.46  Lacerta              HD_216523
+star    408.68   775.97    6.47  Lacerta              HD_215473
+star    689.00   535.34    6.50  Lacerta              HD_209932
+star    687.68   451.03    6.96  Lacerta              HK_Lac
+line  Lacerta              11_Lac  5_Lac
+line  Lacerta              11_Lac  6_Lac
+line  Lacerta              1_Lac  HD_211073
+line  Lacerta              2_Lac  5_Lac
+line  Lacerta              2_Lac  6_Lac
+line  Lacerta              4_Lac  5_Lac
+line  Lacerta              4_Lac  β_Lac
+line  Lacerta              5_Lac  α_Lac
+line  Lacerta              6_Lac  HD_211073
+line  Lacerta              α_Lac  β_Lac

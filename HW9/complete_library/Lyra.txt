@@ -1,0 +1,81 @@
+star    553.97   460.07    0.03  Lyra                 Vega
+star    478.15   567.74    3.25  Lyra                 γ_Lyr
+star    510.56   555.95    3.52  Lyra                 β_Lyr_A
+star    491.51   371.86    4.08  Lyra                 R_Lyr
+star    494.33   494.37    4.22  Lyra                 δ^2_Lyr
+star    616.06   503.35    4.33  Lyra                 κ_Lyr
+star    527.94   481.57    4.34  Lyra                 ζ^1_Lyr
+star    419.37   470.85    4.35  Lyra                 θ_Lyr
+star    429.19   453.69    4.43  Lyra                 η_Lyr
+star    528.28   446.56    4.60  Lyra                 ε^2_Lyr_A
+star    528.38   445.56    4.67  Lyra                 ε^1_Lyr_A
+star    527.45   671.97    4.83  Lyra                 HD_173780
+star    474.11   577.17    4.94  Lyra                 λ_Lyr
+star    473.36   320.30    5.00  Lyra                 16_Lyr
+star    595.86   444.80    5.11  Lyra                 μ_Lyr
+star    446.93   570.37    5.20  Lyra                 17_Lyr
+star    485.21   564.09    5.20  Lyra                 HD_176051
+star    511.45   570.09    5.22  Lyra                 ν_Lyr
+star    449.26   507.64    5.25  Lyra                 ι_Lyr
+star    474.04   679.70    5.26  Lyra                 HD_176527
+star    559.44   552.63    5.41  Lyra                 HD_172044
+star    493.00   412.45    5.46  Lyra                 HD_175740
+star    575.80   602.60    5.47  Lyra                 HD_171301
+star    448.13   637.75    5.53  Lyra                 HD_178233
+star    619.23   396.38    5.56  Lyra                 HD_167965
+star    497.05   493.09    5.58  Lyra                 δ^1_Lyr
+star    455.68   583.82    5.63  Lyra                 HD_177808
+star    495.66   650.83    5.64  Lyra                 HD_175443
+star    533.87   580.49    5.68  Lyra                 HD_173417
+star    468.06   678.57    5.69  Lyra                 HD_176871
+star    527.84   481.76    5.73  Lyra                 ζ^2_Lyr
+star    401.03   378.16    5.85  Lyra                 HD_182694
+star    416.01   603.49    5.88  Lyra                 HD_180450
+star    482.21   470.48    5.89  Lyra                 V542_Lyr
+star    430.17   590.98    5.93  Lyra                 19_Lyr
+star    511.82   565.52    5.93  Lyra                 ν^1_Lyr
+star    493.07   545.50    5.99  Lyra                 HD_175635
+star    549.27   444.84    6.02  Lyra                 XY_Lyr
+star    471.16   548.25    6.04  Lyra                 HD_176896
+star    532.54   499.74    6.06  Lyra                 HD_173416
+star    521.30   414.91    6.06  Lyra                 HD_173936
+star    518.76   583.81    6.06  Lyra                 HD_174179
+star    455.25   601.40    6.07  Lyra                 HD_177809
+star    392.62   549.88    6.09  Lyra                 HD_182272
+star    563.68   535.15    6.10  Lyra                 HD_171780
+star    504.50   500.59    6.10  Lyra                 HD_174959
+star    616.88   417.97    6.12  Lyra                 HD_168322
+star    411.84   648.41    6.18  Lyra                 V473_Lyr
+star    438.21   431.72    6.20  Lyra                 HD_179583
+star    480.09   428.44    6.20  Lyra                 V543_Lyr
+star    550.50   383.02    6.21  Lyra                 V533_Lyr
+star    505.66   635.65    6.22  Lyra                 HD_174881
+star    543.47   423.03    6.25  Lyra                 HD_172671
+star    409.55   482.32    6.25  Lyra                 HD_181470
+star    502.00   416.22    6.28  Lyra                 HD_175132
+star    407.24   484.17    6.29  Lyra                 HD_181655
+star    613.24   343.95    6.30  Lyra                 HD_168009
+star    401.69   521.33    6.30  Lyra                 HD_181828
+star    380.77   471.57    6.30  Lyra                 HR_7403
+star    451.87   615.42    6.32  Lyra                 HD_178003
+star    428.35   669.77    6.35  Lyra                 HD_179422
+star    388.62   554.77    6.37  Lyra                 Gliese_758
+star    467.90   551.35    6.39  Lyra                 HD_177109
+star    597.93   458.06    6.41  Lyra                 HD_169646
+star    542.07   585.62    6.41  Lyra                 HD_172958
+star    548.67   598.76    6.43  Lyra                 HD_172631
+star    478.38   453.87    6.43  Lyra                 HD_176582
+star    390.75   498.42    6.44  Lyra                 HD_182635
+star    543.18   467.78    6.45  Lyra                 HD_172741
+star    532.16   451.89    6.45  Lyra                 HD_173383
+star    538.72   531.16    6.49  Lyra                 HD_173087
+star    455.67   415.21    6.49  Lyra                 V550_Lyr
+star    419.21   580.42    6.61  Lyra                 HD_180314
+star    442.11   533.59    6.74  Lyra                 HD_178911
+line  Lyra                 Vega  ε^2_Lyr_A
+line  Lyra                 Vega  ζ^1_Lyr
+line  Lyra                 β_Lyr_A  γ_Lyr
+line  Lyra                 β_Lyr_A  ζ^1_Lyr
+line  Lyra                 γ_Lyr  δ^2_Lyr
+line  Lyra                 δ^2_Lyr  ζ^1_Lyr
+line  Lyra                 ε^2_Lyr_A  ζ^1_Lyr
